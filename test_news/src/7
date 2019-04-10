@@ -1,0 +1,621 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="utf-8">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="content-language" content="utf-8" />
+<meta name="robots" content="all" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>海淀--地方--人民网</title>
+<link href="/img/2009haidan/haidian2009.css" type="text/css" rel="stylesheet" rev="stylesheet" media="all" />
+<!--[if IE 6]>
+<link href="/img/2009haidan/hack6.css" type="text/css" rel="stylesheet" rev="stylesheet" media="all" />
+<![endif]-->
+<script src="/img/2011people/swfobject.js" language="javascript"></script>
+</head>
+<body>
+<!--头部内容-->
+<style type="text/css">
+.header{margin:6px auto 0 auto;padding:0 0 0 4px;width:976px;height:27px;text-align:left;}
+.header select{float:right;color:#456CB1;border:1px solid #B3C4D4;margin:0 10px 0 0;*margin:-18px 10px 0 0;}/*20100428*/
+.header a{margin:0 6px;color:#003564;text-decoration:none;}/*20100428*/
+.header img{vertical-align:text-bottom;}
+.banner{clear:both;margin:6px auto;padding:4px 0 6px 0;width:980px;height:auto;}
+.banner_r{margin-left:10px;width:185px;height:70px;border:1px solid #D7D7D7;padding:10px 0 0 15px;text-align:left;}
+.banner_r a{color:#82572d;}
+#nav{margin:0 auto;padding-top:14px;width:978px;height:49px;text-align:left;border:1px solid #d7d7d7;line-height:180%;}
+#nav img{float:left;margin:-8px 0px 0px 8px;}
+#nav ul li{float:left;padding:0 4px 0 12px;text-align:center;}
+#nav a{margin-right:3px;color:#000;text-decoration:none;}
+#nav div{float:right;width:825px;margin:0 -5px 0 0;}
+#nav li.one a{margin:0;}
+</style>
+<!--[if IE 8]>
+<style type="text/css">
+.header select{float:right;color:#456CB1;border:1px solid #B3C4D4;margin:0px 10px 0 0;}
+</style>
+<![endif]-->
+<div class="header">
+<a href="http://cpc.people.com.cn/"><img src="/img/2009haidan/clogo.gif" alt="共产党新闻"></a><a href="http://bbs.people.com.cn/" target="_blank"><span class="red">强国社区</span></a><a href="http://bbs1.people.com.cn/boardList.do?action=postList&boardId=1" target="_blank"><span class="red">强国论坛</span></a><a href="http://blog.people.com.cn/" target="_blank"><span class="red">强国博客</span></a><a href="http://vblog.people.com.cn" target="_blank"><span class="red">人民播客</span></a>|<a href="http://kxfz.people.com.cn/" target="_blank">科学发展观</a><a href="http://npc.people.com.cn/" target="_blank">中国人大</a><a href="http://gov.people.com.cn/" target="_blank">中国政府</a><a href="http://cppcc.people.com.cn/" target="_blank">中国政协</a><a href="http://acftu.people.com.cn/" target="_blank">中国工会</a><a href="http://acwf.people.com.cn/" target="_blank">中国妇联</a>
+<select onChange=window.location.href=this.value> 
+  <option>进入其他语种</option>
+  <option  value="http://english.peopledaily.com.cn/">English</option>
+  <option  value="http://j.peopledaily.com.cn/">日本语</option>
+  <option value="http://french.peopledaily.com.cn/">Francais</option>
+  <option value="http://spanish.peopledaily.com.cn/">Espanol</option>
+  <option value="http://russian.people.com.cn/">Russian</option>
+  <option value="http://arabic.people.com.cn/">Arabic</option>
+</select>
+</div>
+<!--头部内容结束-->
+<!--人民网主导航-->
+<div id="nav">
+<a href="http://www.people.com.cn" target="_blank"><img src="/img/2009haidan/logo.gif" alt="人民网" /></a>
+<div>
+	<ul>
+	  <li><a href="http://news.people.com.cn/" target="_blank">新闻</a></li>
+       <li><a href="http://opinion.people.com.cn/" target="_blank">观点</a>|</li>
+	  <li><a href="http://politics.people.com.cn/" target="_blank">时政</a></li>
+      <li><a href="http://society.people.com.cn/" target="_blank">社会</a></li>
+      <li><a href="http://unn.people.com.cn/GB/82414/index.html" target="_blank">地方</a>|</li>
+	  <li><a href="http://world.people.com.cn/" target="_blank">国际</a></li>
+      <li><a href="http://military.people.com.cn/" target="_blank">军事</a></li>
+      <li><a href="http://tw.people.com.cn/" target="_blank">台湾</a>|</li>
+      <li><a href="http://finance.people.com.cn/" target="_blank">财经</a></li>
+      <li><a href="http://auto.people.com.cn/" target="_blank">汽车</a>|</li>
+      <li><a href="http://edu.people.com.cn/" target="_blank">教育</a></li>
+      <li><a href="http://scitech.people.com.cn/" target="_blank">科技</a></li>
+      <li><a href="http://sports.people.com.cn/" target="_blank">体育</a></li>
+      <li><a href="http://ent.people.com.cn/" target="_blank">娱乐</a>|</li>
+      <li><a href="http://tv.people.com.cn/" target="_blank">宽频</a></li>
+      <li><a href="http://pic.people.com.cn/" target="_blank">图片</a></li>
+      <li><a href="http://fangtan.people.com.cn" target="_blank">访谈</a></li>
+      <li><a href="http://rss.people.com.cn/" target="_blank">RSS</a></li>
+      <li><a href="http://culture.people.com.cn/" target="_blank">文化</a></li>
+      <li><a href="http://media.people.com.cn/" target="_blank">传媒</a>|</li>
+      <li><a href="http://env.people.com.cn/" target="_blank">环保</a></li>
+      <li><a href="http://travel.people.com.cn/" target="_blank">旅游</a></li>
+      <li><a href="http://weather.people.com.cn/" target="_blank">天气</a>|</li>
+      <li><a href="http://health.people.com.cn/" target="_blank">健康</a></li>
+      <li><a href="http://fashion.people.com.cn/" target="_blank">男士</a></li>
+      <li><a href="http://lady.people.com.cn/" target="_blank">女性</a>|</li>
+      <li><a href="http://hm.people.com.cn/" target="_blank">港澳</a></li>
+      <li><a href="http://chinese.people.com.cn/" target="_blank">华侨</a>|</li>
+      <li><a href="http://house.people.com.cn/" target="_blank">房产</a></li>
+      <li><a href="http://art.people.com.cn/" target="_blank">收藏</a></li>
+      <li><a href="http://ip.people.com.cn/" target="_blank">知识</a></li>      <li><a href="http://it.people.com.cn/" target="_blank">I&nbsp;T&nbsp;|</a></li>
+      <li><a href="http://wireless.people.com.cn/" target="_blank">无线</a></li>
+      <li><a href="http://game.people.com.cn/" target="_blank">游戏</a></li>
+      <li><a href="http://mms.people.com.cn/" target="_blank">彩信</a></li>
+      <li><a href="http://shop.people.com.cn/" target="_blank">商城</a></li>
+	</ul>
+    </div>
+</div>
+<!--结束 人民网主导航-->
+<!--广告-->
+<table class="banner" cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tr>
+    <td><img src="/mediafile/200907/08/F200907081638072254018871.jpg" width="770" height="80" border="0"/>
+</td>
+	<td><div class="banner_r">
+	  <IFRAME SRC="http://ads.people.com.cn/html.ng/channel_range=1/14717/22220/
+&channel_id=150106&PagePos=23&size=txt&site=people"  MARGINWIDTH=0 MARGINHEIGHT=0 WIDTH=100% HEIGHT=23 HSPACE=0 
+VSPACE=0 FRAMEBORDER=0 SCROLLING=NO BORDERCOLOR="#000000"> 
+        <SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.people.com.cn/js.ng/params.richmedia=yes&channel_range=1/14717/22220/&channel_id=150106&PagePos=23&size=txt&site=people">
+    </SCRIPT>
+        <NOSCRIPT>
+        <A href="http://ads.people.com.cn/click.ng/params.richmedia=yes&channel_range=1/14717/22220/&channel_id=150106&PagePos=23&size=txt&site=people" TARGET="_top"> <img src="http://ads.people.com.cn/image.ng/params.richmedia=yes&channel_range=1/14717/22220/&channel_id=150106&PagePos=23&size=txt&site=people" WIDTH=100% HEIGHT=16 border=0></a> 
+        </NOSCRIPT>
+        </IFRAME> <IFRAME SRC="http://ads.people.com.cn/html.ng/channel_range=1/14717/22220/&channel_id=150106&PagePos=24&size=txt&site=people" width=100% height=23 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 
+FRAMEBORDER=0 SCROLLING=NO BORDERCOLOR="#000000"> 
+        <SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.people.com.cn/js.ng/params.richmedia=yes&channel_range=1/14717/22220/&channel_id=150106&PagePos=24&size=txt&site=people ">
+    </SCRIPT>
+        <NOSCRIPT>
+        <A href="http://ads.people.com.cn/click.ng/params.richmedia=yes&channel_range=1/14717/22220/&channel_id=150106&PagePos=24&size=txt&site=people " TARGET="_top"> <img src="http://ads.people.com.cn/image.ng/params.richmedia=yes&channel_range=1/14717/22220/&channel_id=150106&PagePos=24&size=txt&site=people " width=100% height=16 border=0></a> 
+        </NOSCRIPT>
+        </IFRAME> <IFRAME SRC="http://ads.people.com.cn/html.ng/channel_range=1/14717/22220/&channel_id=150106&PagePos=25&size=txt&site=people " width=100% height=23 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 
+FRAMEBORDER=0 SCROLLING=NO BORDERCOLOR="#000000"> 
+        <SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.people.com.cn/js.ng/params.richmedia=yes&channel_range=1/14717/22220/&channel_id=150106&PagePos=25&size=txt&site=people ">
+    </SCRIPT>
+        <NOSCRIPT>
+        <A href="http://ads.people.com.cn/click.ng/params.richmedia=yes&channel_range=1/14717/22220/&channel_id=150106&PagePos=25&size=txt&site=people " TARGET="_top"> <img src="http://ads.people.com.cn/image.ng/params.richmedia=yes&channel_range=1/14717/22220/&channel_id=150106&PagePos=25&size=txt&site=people " width=100% height=16 border=0></a> 
+        </NOSCRIPT>
+        </IFRAME>
+	</div></td>
+  </tr>
+</table>
+
+<!--scnav-->
+<div class="scnav" style="margin-top:10px;">
+	<div class="scnav_left"><img src="/img/2009haidan/scnav_1ogo.jpg" width="154" height="63" /></div>
+    <div class="scnav_right"><p class="p1"><a href="/GB/22220/150106/152083/index.html" target="_blank">创新中关村</a> <a href="/GB/22220/150106/152082/index.html" target="_blank">海淀教育</a> <a href="/GB/22220/150106/152084/index.html" target="_blank">海淀科技</a> <a href="/GB/22220/150106/152085/index.html" target="_blank">海淀文化</a> <a href="/GB/22220/150106/152086/index.html" target="_blank">海淀旅游</a> <a href="/GB/22220/150106/152087/index.html" target="_blank">特色商业</a> <a href="/GB/22220/150106/152080/index.html" target="_blank">健身休闲</a> <a href="" target="_blank">　</a></p><p class="p2"><a href="/GB/22220/150106/152072/index.html" target="_blank">今日海淀</a> <a href="/GB/22220/150106/152068/index.html" target="_blank">海淀时事</a> <a href="/GB/22220/150106/152069/index.html" target="_blank">海淀经济</a> <a href="/GB/22220/150106/152070/index.html" target="_blank">民生保障</a> <a href="/GB/22220/150106/152071/index.html" target="_blank">社会建设</a> <a href="/GB/22220/150106/152079/index.html" target="_blank">卫生医疗</a> <a href="/GB/22220/150106/152078/index.html" target="_blank">节能减排</a> <a href="/GB/22220/150106/152081/index.html" target="_blank">新农村</a> <a href="/GB/22220/150106/152074/index.html" target="_blank">专题调查</a> <a href="/GB/22220/150106/152075/index.html" target="_blank">企业风采</a> <a href="/GB/22220/150106/152073/index.html" target="_blank">他山之石</a></p></div>
+</div>
+<!--box-->
+<div class="line1 line2"><img src="/img/2009haidan/line1.gif" alt="" /></div>
+<div class="box">
+	<!--one-->
+<div class="line3 line4"><img src="/img/2009haidan/line3.gif" alt="" /></div>
+	<div class="one">
+    	<div class="one_left">
+        	<div class="main_c">
+            	<div class="one_1"><div id='flash-jdt'></div><script language="javascript">
+var imagePath=new Array();//图片地址
+var linkPath=new Array();//连接地址
+var infoText=new Array();//介绍性文字
+
+imagePath.push("/NMediaFile/2018/0427/MAIN201804271529325346706230366.jpg")
+linkPath.push("/n1/2018/0427/c150106-29954572.html")
+infoText.push("海淀区作家协会人民大学附属小学小作协基地授牌仪式举办")
+
+imagePath.push("/NMediaFile/2017/0921/MAIN201709211535141380104624951.jpg")
+linkPath.push("http://unn.people.com.cn/n1/2017/0919/c150106-29545087.html")
+infoText.push("青年创新前沿论坛在海淀创业园成功举办")
+
+imagePath.push("/NMediaFile/2017/0921/MAIN201709211536573002689834550.jpg")
+linkPath.push("/n1/2017/0919/c150106-29545083.html")
+infoText.push("阿拉伯国家科技创新创业培训班参观海淀创业园副本")
+
+imagePath.push("/NMediaFile/2017/0921/MAIN201709211538184024915345336.JPG")
+linkPath.push("/n1/2017/0912/c150106-29530971.html")
+infoText.push("海淀田村路街道举办地区广场舞大联盟展演")
+
+imagePath.push("/NMediaFile/2017/0719/MAIN201707190938038497496299797.jpg")
+linkPath.push("/n1/2017/0718/c150106-29412243.html")
+infoText.push("桂林市政府考察团到海淀创业园访问")
+
+
+
+var imagePath_str=""
+var linkPath_str=""
+var infoText_str=""
+for(var i=0;i<5;i++){
+	imagePath_str+=imagePath[i]+"|";
+	linkPath_str+=linkPath[i]+"|";
+	infoText_str+=infoText[i]+"|";
+}
+imagePath_str = encodeURIComponent(imagePath_str);
+linkPath_str = encodeURIComponent(linkPath_str);
+infoText_str = encodeURIComponent(infoText_str);
+
+var wwwvars = {ppurl:imagePath_str, pplink:linkPath_str, ppfinfo:infoText_str};
+swfobject.embedSWF("/img/2009haidan/flash2.swf?"+Math.random(), "flash-jdt", "300", "285", "9.0.0", null, wwwvars);
+</script></div>
+          		<div class="line6"><img src="/img/2009haidan/line4.gif" alt="" /></div>
+          		<div class="one_2"><span>今日海淀</span><em><a href="/GB/22220/150106/152072/index.html" target="_blank">&gt;&gt;更多</a></em></div>
+                <div class="one_3">
+                	<ul><li>・<a href='/n1/2016/1027/c14717-28813691.html' target="_blank">第十一届北京文博会海淀展区亮相</a></li>
+<li>・<a href='/n1/2016/0825/c150106-28665648.html' target="_blank">海淀首台“自动售餐机”安家学院路</a></li>
+<li>・<a href='/n1/2016/0825/c150106-28665801.html' target="_blank">将便民服务进行到底</a></li>
+<li>・<a href='/n1/2016/0906/c14717-28694745.html' target="_blank">海淀区西三旗街道：实施拆除清缘商厦违法建设…</a></li>
+</ul>
+                </div>
+          		<div class="line6 line7"><img src="/img/2009haidan/line4.gif" alt="" /></div>
+                <div class="one_2"><span>他山之石</span><em><a href="/GB/22220/150106/152073/index.html" target="_blank">&gt;&gt;更多</a></em></div>
+                <div class="one_3">
+                	<ul><li>・<a href='/n1/2016/0608/c14717-28421759.html' target="_blank">海淀区苏家坨镇举办暨丙申年端午邻里节活动</a></li>
+<li>・<a href='/n1/2016/0627/c150106-28481747.html' target="_blank">海淀区档案馆新馆正式启用</a></li>
+<li>・<a href='/n1/2016/0707/c150106-28533734.html' target="_blank">海淀区西三旗街道创新社区服务</a></li>
+<li>・<a href='/n1/2016/0825/c150106-28665648.html' target="_blank">海淀首台“自动售餐机”安家学院路</a></li>
+</ul>
+                </div>
+        	</div>
+        	<div class="main_t">
+        		<div class="one_4">
+                	<h1><a href='/n1/2018/0427/c150106-29954590.html' target=_blank>海淀：强化知识产权运营保护</a>
+</h1></div>
+                <div class="one_10"><p><a href="/n1/2018/0427/c150106-29954590.html" target='_blank'>&nbsp;&nbsp;&nbsp;&nbsp;4月26日下午，由海淀区政府、北京市知识产权局和中关村科技园区管理委员会共同主办，海淀园管理委员会、海淀区知识产权局承办。</a></p></div>
+				<div class="one_5"><span>海淀时事</span><em><a href="/GB/22220/150106/152068/index.html" target="_blank">&gt;&gt;更多</a></em></div>
+                <div class="one_6">
+                	<ul><li>・<a href='/n1/2018/0607/c14717-30042515.html' target="_blank">海淀城管夜查渣土车 全力保障高考备考环境</a></li>
+<li>・<a href='/n1/2018/0605/c150106-30037398.html' target="_blank">海淀区马连洼街道举办创业技能培训班 </a></li>
+<li>・<a href='/n1/2018/0531/c14717-30026615.html' target="_blank">中关村科技公民论坛创新全民科学素质建设</a></li>
+
+</ul>
+                </div>
+                <div class="one_5"><span>海淀经济</span><em><a href="/GB/22220/150106/152069/index.html" target="_blank">&gt;&gt;更多</a></em></div>
+                <div class="one_6">
+                	<ul><li>・<a href='/n1/2017/0928/c150106-29565811.html' target="_blank">海淀创业园登榜“中国侨联新侨创新创业基地”</a></li>
+<li>・<a href='/n1/2017/0828/c150106-29497637.html' target="_blank">海淀区发布《海淀区文化创意产业投资引导基金…</a></li>
+
+</ul>
+                </div>
+                <div class="one_5"><span>民生保障</span><em><a href="/GB/22220/150106/152070/index.html" target="_blank">&gt;&gt;更多</a></em></div>
+                <div class="one_6">
+                	<ul><li>・<a href='/n1/2017/0912/c14717-29530790.html' target="_blank">海淀区修建6000平米停车场缓解交通堵点</a></li>
+
+</ul>
+                </div>
+                <div class="one_5"><span>社会新闻</span><em><a href="/GB/22220/150106/152071/index.html" target="_blank">&gt;&gt;更多</a></em></div>
+                <div class="one_6">
+                	<ul><li>・<a href='/n1/2018/0614/c14717-30059538.html' target="_blank">海淀区曙光街道举办第五届龙舟赛</a></li>
+<li>・<a href='/n1/2018/0518/c150106-29999697.html' target="_blank">海淀区马连洼街道举办全国助残日宣传活动</a></li>
+<li>・<a href='/n1/2018/0511/c150106-29983059.html' target="_blank">海淀区第二届“万步有约”职业人群健走激励大…</a></li>
+
+</ul>
+                </div>
+        	</div>
+        </div>
+        <div class="one_right">
+        	<div class="one_7"><a href="/GB/22220/150106/152074/index.html" target='blank'>专题调查</a></div>
+            <div class="one_8"><a href="http://www.bjhd.gov.cn/zt/6hdwhj/" target=_blank><img src="/mediafile/200907/07/F200907071741192861627308.jpg" width="119" height="80" border="0"/></a><a href="http://www.bjhd.gov.cn/zt/6hdwhj/" target=_blank>大型音乐会《梦系红楼》为历时一个月的第六届海淀文化节画上了圆满的句号。</a></div>
+            <div class="one_3 one_9">
+               <ul>
+<li>・<a href='/GB/22220/150106/152074/11357458.html' target=_blank>“翠微杯・我的军旅生涯”摄影大赛征稿</a></li>
+<li>・<a href='/GB/22220/150106/152074/11235001.html' target=_blank>40多年义务理发5万人--记海淀首…</a></li>
+<li>・<a href='/GB/22220/150106/152074/10838810.html' target=_blank>海淀：王广银义务为社区居民播报天气…</a></li>
+<li>・<a href='/GB/22220/150106/152074/10750871.html' target=_blank>赵凤桐密集调研增速中关村</a></li>
+<li>・<a href='/GB/22220/150106/152074/10750868.html' target=_blank>战风雪，海淀在行动！</a></li>
+</ul>
+            </div>
+            <div class="one_7"><a href="/GB/22220/150106/152075/index.html" target='blank'>企业风采</a></div>
+            <div class="one_8"><a href="/GB/22220/150106/152075/9602576.html" target=_blank><img src="/mediafile/200907/07/F200907070956322132879021.jpg" width="119" height="80" border="0"/></a><a href="/GB/22220/150106/152075/9602576.html" target=_blank>“外贸大市集”仅4天时间累计接待消费者10余万人次，销售额达到200多万元。</a></div>
+            <div class="one_3 one_9">
+               <ul>
+<li>・<a href='/GB/22220/150106/152075/11234931.html' target=_blank>海淀区户外广告行业协会荣获全国社会…</a></li>
+<li>・<a href='/GB/22220/150106/152075/10750843.html' target=_blank>海淀5家企业获第四届中关村质量管理奖</a></li>
+<li>・<a href='/GB/22220/150106/152075/9602628.html' target=_blank>团结、进取――百奥人不懈追求的企业…</a></li>
+<li>・<a href='/n/2014/0123/c150106-24209537.html' target=_blank>海淀区公布第四批77处区级文物保护…</a></li>
+<li>・<a href='/GB/22220/150106/152075/9602621.html' target=_blank>成功的“北斗星通模式”推动企业的快…</a></li>
+<li>・<a href='http://leaders.people.com.cn/n/2013/1011/c356819-23159828.html' target=_blank>北京海淀区召开区委扩大会八个企业为…</a></li>
+<li>・<a href='/GB/22220/150106/152075/9602611.html' target=_blank>北新建材荣登“中国500最具价值品…</a></li>
+<li>・<a href='http://leaders.people.com.cn/n/2013/0424/c359550-21265644.html' target=_blank>北京中关村科技企业纷纷向震区捐款捐…</a></li>
+<li>・<a href='/n1/2017/0928/c150106-29565811.html' target=_blank>海淀创业园登榜“中国侨联新侨创新创…</a></li>
+
+</ul>
+            </div>
+      </div>
+    </div>
+    <div class="line3 line5"><img src="/img/2009haidan/line7.gif" alt="" /></div>
+    <!--banner-->
+    <div class="banner_1"><script>
+var PImgPlayer = {   
+        _timer : null,   
+        _items : [],   
+        _container : null,   
+        _index : 0,   
+        _imgs : [],   
+        intervalTime : 3500,        //轮播间隔时间   
+        init : function( objID, w, h, time ){   
+                this.intervalTime = time || this.intervalTime;   
+                this._container = document.getElementById( objID );   
+                this._container.style.display = "block";   
+                this._container.style.width = w + "px";   
+                this._container.style.height = h + "px";   
+                this._container.style.position = "relative";   
+                this._container.style.overflow = "hidden";   
+                //this._container.style.border = "1px solid #fff";   
+                var linkStyle = "display: block; TEXT-DECORATION: none;";   
+                if( document.all ){   
+                        linkStyle += "FILTER:";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Barn(duration=0.5, motion='out', orientation='vertical') ";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Barn ( duration=0.5,motion='out',orientation='horizontal') ";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Blinds ( duration=0.5,bands=10,Direction='down' )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.CheckerBoard()";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Fade(duration=0.5,overlap=0)";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.GradientWipe ( duration=1,gradientSize=1.0,motion='reverse' )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Inset ()";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Iris ( duration=1,irisStyle=PLUS,motion=out )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Iris ( duration=1,irisStyle=PLUS,motion=in )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Iris ( duration=1,irisStyle=DIAMOND,motion=in )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Iris ( duration=1,irisStyle=SQUARE,motion=in )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Iris ( duration=0.5,irisStyle=STAR,motion=in )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.RadialWipe ( duration=0.5,wipeStyle=CLOCK )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.RadialWipe ( duration=0.5,wipeStyle=WEDGE )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.RandomBars ( duration=0.5,orientation=horizontal )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.RandomBars ( duration=0.5,orientation=vertical )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.RandomDissolve ()";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Spiral ( duration=0.5,gridSizeX=16,gridSizeY=16 )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Stretch ( duration=0.5,stretchStyle=PUSH )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Strips ( duration=0.5,motion=rightdown )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Wheel ( duration=0.5,spokes=8 )";   
+                        linkStyle += "progid:DXImageTransform.Microsoft.Zigzag ( duration=0.5,gridSizeX=4,gridSizeY=40 ); width: 100%; height: 100%";   
+                }   
+                //   
+                var ulStyle = "margin:0;width:"+w+"px;position:absolute;z-index:999;right:5px;FILTER:Alpha(Opacity=50,FinishOpacity=50, Style=1);overflow: hidden;bottom:-1px;height:16px; border-right:1px solid #fff;";   
+                //   
+                var liStyle = "margin:0;list-style-type: none; margin:0;padding:0; float:right;";   
+                //   
+                var baseSpacStyle = "clear:both; display:block; width:23px;line-height:18px; font-size:12px; FONT-FAMILY:'宋体';opacity: 0.6;";   
+                baseSpacStyle += "border:1px solid #fff;border-right:0;border-bottom:0;";   
+                baseSpacStyle += "color:#fff;text-align:center; cursor:pointer; ";   
+                //   
+                var ulHTML = "";   
+                for(var i = this._items.length -1; i >= 0; i--){   
+                        var spanStyle = "";   
+                        if( i==this._index ){   
+                                spanStyle = baseSpacStyle + "background:#ff0000;";   
+                        } else {                                   
+                                spanStyle = baseSpacStyle + "background:#000;";   
+                        }   
+                        ulHTML += "<li style=\""+liStyle+"\">";   
+                        ulHTML += "<span onmouseover=\"PImgPlayer.mouseOver(this);\" onmouseout=\"PImgPlayer.mouseOut(this);\" style=\""+spanStyle+"\" onclick=\"PImgPlayer.play("+i+");return false;\" herf=\"javascript:;\" title=\"" + this._items[i].title + "\">" + (i+1) + "</span>";   
+                        ulHTML += "</li>";   
+                }   
+                //   
+                var html = "<a href=\""+this._items[this._index].link+"\" title=\""+this._items[this._index].title+"\" target=\"_blank\" style=\""+linkStyle+"\"></a><ul style=\""+ulStyle+"\">"+ulHTML+"</ul>";   
+                this._container.innerHTML = html;   
+                var link = this._container.getElementsByTagName("A")[0];           
+                link.style.width = w + "px";   
+                link.style.height = h + "px";   
+                link.style.background = 'url(' + this._items[0].img + ') no-repeat center center';   
+                //   
+                this._timer = setInterval( "PImgPlayer.play()", this.intervalTime );   
+        },   
+        addItem : function( _title, _link, _imgURL ){   
+                this._items.push ( {title:_title, link:_link, img:_imgURL } );   
+                var img = new Image();   
+                img.src = _imgURL;   
+                this._imgs.push( img );   
+        },   
+        play : function( index ){   
+                if( index!=null ){   
+                        this._index = index;   
+                        clearInterval( this._timer );   
+                        this._timer = setInterval( "PImgPlayer.play()", this.intervalTime );   
+                } else {   
+                        this._index = this._index<this._items.length-1 ? this._index+1 : 0;   
+                }   
+                var link = this._container.getElementsByTagName("A")[0];           
+                if(link.filters){   
+                        var ren = Math.floor(Math.random()*(link.filters.length));   
+                        link.filters[ren].Apply();   
+                        link.filters[ren].play();   
+                }   
+                link.href = this._items[this._index].link;   
+                link.title = this._items[this._index].title;   
+                link.style.background = 'url(' + this._items[this._index].img + ') no-repeat center center';   
+                //   
+                var liStyle = "margin:0;list-style-type: none; margin:0;padding:0; float:right;";   
+                var baseSpacStyle = "clear:both; display:block; width:23px;line-height:18px; font-size:12px; FONT-FAMILY:'宋体'; opacity: 0.6;";   
+                baseSpacStyle += "border:1px solid #fff;border-right:0;border-bottom:0;";   
+                baseSpacStyle += "color:#fff;text-align:center; cursor:pointer; ";   
+                var ulHTML = "";   
+                for(var i = this._items.length -1; i >= 0; i--){   
+                        var spanStyle = "";   
+                        if( i==this._index ){   
+                                spanStyle = baseSpacStyle + "background:#ff0000;";   
+                        } else {                                   
+                                spanStyle = baseSpacStyle + "background:#000;";   
+                        }   
+                        ulHTML += "<li style=\""+liStyle+"\">";   
+                        ulHTML += "<span onmouseover=\"PImgPlayer.mouseOver(this);\" onmouseout=\"PImgPlayer.mouseOut(this);\" style=\""+spanStyle+"\" onclick=\"PImgPlayer.play("+i+");return false;\" herf=\"javascript:;\" title=\"" + this._items[i].title + "\">" + (i+1) + "</span>";   
+                        ulHTML += "</li>";   
+                }   
+                this._container.getElementsByTagName("UL")[0].innerHTML = ulHTML;           
+        },   
+        mouseOver : function(obj){   
+                var i = parseInt( obj.innerHTML );   
+                if( this._index!=i-1){   
+                        obj.style.color = "#ff0000";   
+                }   
+        },   
+        mouseOut : function(obj){   
+                obj.style.color = "#fff";   
+        }   
+}   
+
+
+</script>
+<div id="imgADPlayer"></div>
+	<script> 
+		  PImgPlayer.addItem( "建设中关村国家自主创新示范区核心区", "#", "/mediafile/200907/15/P200907151657422915227090.jpg"); 
+		  PImgPlayer.addItem( "海淀区“1+20”政策配套专项资金申报全面启动", "#", "/mediafile/200907/15/P200907151658411882854922.jpg"); 
+		  PImgPlayer.addItem( "海淀区深入学习实践科学发展观活动", "#", "/mediafile/200907/15/P200907151700022958873561.jpg"); 
+		  PImgPlayer.addItem( "第六届海淀文化节", "#", "/mediafile/200907/15/P200907151700511320324393.jpg"); 
+		  PImgPlayer.addItem( "文明永无止境，追求永不停步", "#", "/mediafile/200907/15/P200907151701372120428018.jpg");		  
+		  PImgPlayer.init( "imgADPlayer",960, 80 );   
+    </script></div>
+    <!--two-->
+    <div class="two">
+    	<table width="960" border="0" cellspacing="0" cellpadding="0">
+    	  <tr>
+    	    <td width="151"><img src="/img/2009haidan/two_1.gif" width="151" height="31" /></td>
+    	    <td class="two_1">　</td>
+  	    </tr>
+    	</table>
+        <div class="line8"><img src="/img/2009haidan/line6.gif" alt="" /></div>
+    	<div class="two_left">
+       		<div class="two_c">
+            	<div class="two_2"><a href="/GB/22220/150106/152076/index.html" target="_blank">海淀概况</a></div>
+                <div class="one_3 two_3">
+                	<ul><li>・<a href='/GB/22220/150106/152076/9592727.html' target="_blank">魅力海淀</a></li>
+<li>・<a href='/GB/22220/150106/152076/9592717.html' target="_blank">海淀：深厚的文化底蕴 丰富的文化资源</a></li>
+<li>・<a href='/GB/22220/150106/152076/9592714.html' target="_blank">海淀：历史悠久 源远流长</a></li>
+<li>・<a href='/GB/22220/150106/152076/9592712.html' target="_blank">海淀：得天独厚的自然条件</a></li>
+</ul>
+                </div>
+                <div class="two_2"><a href="/GB/22220/150106/152077/index.html" target="_blank">社会建设</a></div>
+                <div class="one_3 two_3">
+                	<ul><li>・<a href='/n1/2017/0113/c150106-29021924.html' target="_blank">满城欢庆迎新近，消除隐患我先行</a></li>
+<li>・<a href='/n1/2016/1010/c14717-28766352.html' target="_blank">海淀：今冬四环内区域供暖实现 “电…</a></li>
+<li>・<a href='/n1/2016/1014/c150106-28778970.html' target="_blank">北京市海淀区西三旗街拆除8500平…</a></li>
+<li>・<a href='/n1/2016/1215/c14717-28953052.html' target="_blank">“原创”锻造北京地铁建设“工匠精神”</a></li>
+</ul>
+                </div>
+            </div>
+            <div class="two_t">
+            	<div class="two_2"><a href="/GB/22220/150106/152078/index.html" target="_blank">节能减排</a></div>
+                <div class="one_3 two_3">
+                	<ul><li>・<a href='/n1/2016/0616/c150106-28450515.html' target="_blank">京津冀文化创意产业（海淀-西青）示…</a></li>
+<li>・<a href='/n1/2016/0627/c150106-28481747.html' target="_blank">海淀区档案馆新馆正式启用</a></li>
+<li>・<a href='/n1/2016/0913/c150106-28713593.html' target="_blank">海淀区首个村煤改电项目完工</a></li>
+<li>・<a href='/n1/2016/1010/c14717-28766352.html' target="_blank">海淀：今冬四环内区域供暖实现 “电…</a></li>
+</ul>
+                </div>
+                <div class="two_2"><a href="/GB/22220/150106/152079/index.html" target="_blank">卫生医疗</a></div>
+                <div class="one_3 two_3">
+                	<ul><li>・<a href='/n1/2017/0112/c150106-29019081.html' target="_blank">海淀创业园毕业企业EasyStac…</a></li>
+<li>・<a href='/n/2015/0114/c150106-26385828.html' target="_blank">海淀区区域医联体工作将覆盖全区</a></li>
+<li>・<a href='/n/2014/0603/c150106-25097466.html' target="_blank">世界无烟日――海淀区利用多种形式进…</a></li>
+<li>・<a href='/n/2014/0528/c150106-25076090.html' target="_blank">2014年海淀区口腔科普演讲比赛完…</a></li>
+</ul>
+                </div>
+            </div>
+    	</div>
+        <div class="two_right">
+        	<div class="two_2"><a href="/GB/22220/150106/152080/index.html" target="_blank">健身休闲</a></div>
+                <div class="one_3 two_3">
+                	<ul><li>・<a href='/n1/2016/0608/c14717-28421759.html' target="_blank">海淀区苏家坨镇举办暨丙申年端午邻里…</a></li>
+<li>・<a href='/n1/2016/0711/c14717-28543400.html' target="_blank">海淀：社区中的快乐暑假</a></li>
+<li>・<a href='/n1/2016/0825/c150106-28665648.html' target="_blank">海淀首台“自动售餐机”安家学院路</a></li>
+<li>・<a href='/n1/2016/0825/c150106-28665801.html' target="_blank">将便民服务进行到底</a></li>
+</ul>
+                </div>
+            <div class="two_2"><a href="/GB/22220/150106/152081/index.html" target="_blank">新农村</a></div>
+                <div class="one_3 two_3">
+                	<ul><li>・<a href='/n1/2016/1010/c14717-28766352.html' target="_blank">海淀：今冬四环内区域供暖实现 “电…</a></li>
+<li>・<a href='/n1/2016/0608/c14717-28421759.html' target="_blank">海淀区苏家坨镇举办暨丙申年端午邻里…</a></li>
+<li>・<a href='/n1/2016/0913/c150106-28713593.html' target="_blank">海淀区首个村煤改电项目完工</a></li>
+<li>・<a href='/n1/2016/0523/c150106-28371523.html' target="_blank">海淀区第16届樱桃文化节暨四季青镇…</a></li>
+</ul>
+                </div>
+        </div>
+        <div class="line8"><img src="/img/2009haidan/line6.gif" alt="" height="10" /></div>
+    </div>
+    <div class="line3"><img src="/img/2009haidan/line5.gif" alt="" /></div>
+    <!--3-->
+    <div class="two">
+    	<table width="960" border="0" cellspacing="0" cellpadding="0">
+    	  <tr>
+    	    <td width="151"><img src="/img/2009haidan/two_4.gif" width="151" height="31" /></td>
+    	    <td class="two_1">　　</td>
+  	    </tr>
+    	</table>
+        <div class="line8"><img src="/img/2009haidan/line6.gif" alt="" /></div>
+    	<div class="two_left">
+       		<div class="two_c">
+            	<div class="two_2"><a href="/GB/22220/150106/152083/index.html" target="_blank">创新中关村</a></div>
+                <div class="two_4"><img src="/mediafile/200907/07/F200907071403287216680215.jpg" width="224" height="125" border="0"/></div>
+                <div class="one_3 two_3 two_5">
+                	<ul>
+<li>・<a href='/n1/2016/0602/c150106-28406928.html' target=_blank>2016・第十四届中关村国际美…</a></li>
+<li>・<a href='/n1/2016/0616/c150106-28450515.html' target=_blank>京津冀文化创意产业（海淀-西青…</a></li>
+<li>・<a href='/n1/2016/0708/c150106-28537607.html' target=_blank>中关村医院为中科院科研人员提供…</a></li>
+<li>・<a href='http://leaders.people.com.cn/n/2014/1017/c357524-25853571.html' target=_blank>海淀北部生态科技新区新技术新产…</a></li>
+<li>・<a href='/n/2013/1107/c150106-23466170.html' target=_blank>设立百万大奖 助力二次创业</a></li>
+</ul>
+              </div>
+              <div class="two_2"><a href="/GB/22220/150106/152082/index.html" target="_blank">海淀教育</a></div>
+                <div class="two_4"><a href="/GB/22220/150106/152082/9537214.html" target=_blank><img src="/mediafile/200906/24/F200906241854342091373091.jpg" width="224" height="125" border="0" alt="奥运志愿者"/></a></div>
+                <div class="one_3 two_3 two_5">
+                	<ul>
+<li>・<a href='/n1/2016/0705/c150106-28526662.html' target=_blank>海淀区反邪教警示教育宣传月正式…</a></li>
+<li>・<a href='/n1/2016/0711/c14717-28543400.html' target=_blank>海淀：社区中的快乐暑假</a></li>
+<li>・<a href='/n1/2016/0912/c150106-28708979.html' target=_blank>北京外研书店重装开业 打造特色…</a></li>
+<li>・<a href='/n1/2016/0928/c150106-28746748.html' target=_blank>北大附小四年级举行第一学期阅读…</a></li>
+<li>・<a href='/n1/2016/1013/c14717-28776322.html' target=_blank>海淀区中关村街道开展幼儿园反恐…</a></li>
+</ul>
+              </div>
+            </div>
+            <div class="two_t">
+            	<div class="two_2"><a href="/GB/22220/150106/152084/index.html" target="_blank">海淀科技</a></div>
+                <div class="two_4"><img src="/mediafile/200907/07/F200907071403581310418006.jpg" width="224" height="125" border="0"/></div>
+                <div class="one_3 two_3 two_5">
+                	<ul>
+<li>・<a href='/n1/2016/0530/c150106-28393792.html' target=_blank>翠微小学第七届科技节开幕式暨庆…</a></li>
+<li>・<a href='/n1/2016/0608/c14717-28421513.html' target=_blank>中奥伍福投资集团向北京科技大学…</a></li>
+<li>・<a href='/n1/2016/0616/c150106-28450515.html' target=_blank>京津冀文化创意产业（海淀-西青…</a></li>
+<li>・<a href='/n1/2016/1018/c150106-28786632.html' target=_blank>2016年VEX IQ机器人工…</a></li>
+<li>・<a href='/n1/2016/1128/c14717-28902288.html' target=_blank>“埃夫特・栋梁杯”全国工业机器…</a></li>
+</ul>
+              </div>
+                <div class="two_2"><a href="/GB/22220/150106/152085/index.html" target="_blank">海淀文化</a></div>
+                <div class="two_4"><a href="/n/2013/1219/c150106-23887875.html" target=_blank><img src="/NMediaFile/2014/0102/MAIN201401020921355581146390224.jpg" width="224" height="125" border="0" alt=""/></a></div>
+                <div class="one_3 two_3 two_5">
+                	<ul>
+<li>・<a href='/n1/2017/0104/c150106-28996913.html' target=_blank>第十一届“春晖杯”获奖者参访海…</a></li>
+<li>・<a href='/n1/2017/0112/c150106-29019078.html' target=_blank>多视角、多元化，中外知识产权面…</a></li>
+<li>・<a href='/n1/2017/0112/c150106-29019124.html' target=_blank>高雅艺术进海淀创业园之合唱艺术…</a></li>
+<li>・<a href='/n1/2017/0113/c150106-29021918.html' target=_blank>2016年度“感动海淀”十大文…</a></li>
+<li>・<a href='/n1/2017/0120/c150106-29038841.html' target=_blank>讲述“海淀故事”之清河专场暨《…</a></li>
+</ul>
+              </div>
+            </div>
+    	</div>
+        <div class="two_right">
+        	<div class="two_2"><a href="/GB/22220/150106/152086/index.html" target="_blank">海淀旅游</a></div>
+                <div class="two_4"><a href="http://unn.people.com.cn/n/2014/0114/c150106-24115268.html" target=_blank><img src="/NMediaFile/2014/0115/MAIN201401150927264090802301620.jpg" width="224" height="125" border="0" alt="京西稻"/></a></div>
+                <div class="one_3 two_3 two_5">
+                	<ul>
+<li>・<a href='/n1/2016/1226/c150106-28976837.html' target=_blank>海淀区西三旗地区2000余人共…</a></li>
+<li>・<a href='/n1/2016/0608/c14717-28421759.html' target=_blank>海淀区苏家坨镇举办暨丙申年端午…</a></li>
+<li>・<a href='/n1/2016/0627/c150106-28481747.html' target=_blank>海淀区档案馆新馆正式启用</a></li>
+<li>・<a href='/n1/2016/0926/c150106-28740870.html' target=_blank>海淀区第十五届金秋采摘节拉开帷幕</a></li>
+<li>・<a href='/n1/2016/0926/c150106-28740895.html' target=_blank>海淀区：“采”绘金秋美景，享受…</a></li>
+</ul>
+              </div>
+            <div class="two_2"><a href="/GB/22220/150106/152087/index.html" target="_blank">特色商业</a></div>
+                <div class="two_4"><img src="/mediafile/200907/07/F200907071404271874617494.jpg" width="224" height="125" border="0"/></div>
+                <div class="one_3 two_3 two_5">
+                	<ul>
+<li>・<a href='/n1/2016/1124/c150106-28893418.html' target=_blank>海淀创业园双创文化：双R沙龙，…</a></li>
+<li>・<a href='/n1/2016/0616/c150106-28450515.html' target=_blank>京津冀文化创意产业（海淀-西青…</a></li>
+<li>・<a href='/n1/2016/0825/c150106-28665648.html' target=_blank>海淀首台“自动售餐机”安家学院路</a></li>
+<li>・<a href='/n1/2016/1115/c150106-28861942.html' target=_blank>海淀创业园双创文化：工艺师传播…</a></li>
+<li>・<a href='/n1/2016/1118/c150106-28877775.html' target=_blank>创新创业：融资租赁产品走进园区</a></li>
+</ul>
+              </div>
+        </div>
+        <div class="line8"><img src="/img/2009haidan/line6.gif" alt="" height="10" /></div>
+    </div>
+    <div class="line3 line5"><img src="/img/2009haidan/line5.gif" alt="" /></div>
+
+</div>
+<div class="line1"><img src="/img/2009haidan/line2.gif" alt="" /></div>
+<!--copyright-->
+<!-- 版权栏 -->
+<style>
+#copyright{width:1000px;border-top:1px solid #f5f5f5;height:auto;margin:0 auto;padding-top:10px;text-align:center;line-height:28px;color:#000;font-family:'SimSun';font-size:12px;}
+#copyright p{margin-top:22px;line-height:100%;text-align:center;}
+#copyright a{color:#000;}
+#copyright p.mt30 {margin-top:30px;position:relative;line-height:200%;}
+#copyright p.mt30 span#beian {position:absolute;right:220px;top:0px;}
+#copyright p.mt30 span#kxwz {position:absolute;right:80px;top:0px;}
+</style>
+<div id="copyright">
+<p><a href="http://www.people.com.cn/GB/1018/22259/index.html" target="_blank">人民日报社概况</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/GB/50142/353480/353481/index.html" target="_blank">关于人民网</a>
+<span class="xian">|</span>
+<a href="http://hr.peopledaily.com.cn/" target="_blank">报社招聘</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/GB/1018/245490/index.html" target="_blank">招聘英才</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/GB/208743/403202/index.html" target="_blank">广告服务</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/GB/50142/50462/index.html" target="_blank">合作加盟</a>
+<span class="xian">|</span>
+<a href="http://gonggao.people.com.cn/" target="_blank">供稿服务</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/n/2013/1227/c373005-23961344.html" target="_blank">网站声明</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/n/2013/1227/c373006-23961372.html" target="_blank">网站律师</a>
+<span class="xian">|</span>
+<a href="http://kf.people.com.cn/" target="_blank">呼叫中心</a>
+<span class="xian">|</span>
+<a href="http://english.peopledaily.com.cn/" target="_blank">ENGLISH</a>
+        </p>
+<p>镜像:<a href="http://www.people.com.cn/" target="_blank">日本</a>&nbsp;&nbsp;<a href="http://www.peopledaily.edu.cn/" target="_blank">教育网</a>&nbsp;&nbsp;<a href="http://www.peopledaily.ac.cn/" target="_blank">科技网</a>&nbsp;&nbsp;呼叫热线&nbsp;&nbsp;4008-100-300&nbsp;&nbsp;服务邮箱&nbsp;&nbsp;<a href="mailto:kf@people.cn" target="_blank">kf@people.cn</a>&nbsp;&nbsp;违法和不良信息举报电话：010-65368339</p>
+<p><a href="http://www.people.com.cn/img/2014xuke/2016hlwxw.html" target="_blank">互联网新闻信息服务许可证1012006001</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/img/2014xuke/2015zzdxk.htm" target="_blank">增值电信业务经营许可证B2-20100025</a>
+</p>
+<p><a href="http://www.people.com.cn/img/2011zzzs/2016xxwlcb.htm" target="_blank">信息网络传播视听节目许可证0104065</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/img/2014xuke/2016gbds.htm" target="_blank">广播电视节目制作经营许可证（广媒）字第172号</a>
+</p>
+<p><a href="http://www.people.com.cn/img/2014xuke/2015wlwh.html" target="_blank">网络文化经营许可证 京网文[2014]2108-308号</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/img/2014xuke/2016hlwcb.html" target="_blank">互联网出版许可证（京）字039号</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/img/2014xuke/2016icp.html" target="_blank">京ICP证000006号</a>
+<span class="xian">|</span>
+<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000008" target="_blank">京公网安备11000002000008号</a>
+</p>
+<p class="mt30">人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved
+<span id="beian"><a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=0102000101300040" target="_blank"><img src="http://www.people.com.cn/img/2011people/images/gongshang.gif" width="40" height="48" alt="" align="middle" border="0" /></a></span></p>
+</div>
+<!-- 版权栏结束 -->
+</body>
+</html>

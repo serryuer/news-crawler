@@ -1,0 +1,9 @@
+com\bishe\crawler\client\Reporter.class
+com\bishe\crawler\client\CrawlerNode.class
+com\bishe\crawler\client\CrawlerProtecter.class
+com\bishe\crawler\client\HeartBeat.class
+com\bishe\crawler\analyse\HtmlParser.class
+com\bishe\crawler\kafka\JsonTest.class
+com\bishe\crawler\kafka\NewsProducer.class
+com\bishe\crawler\client\CrawlerNode$1.class
+com\bishe\crawler\client\CrawlerNode$2.class

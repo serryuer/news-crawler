@@ -1,0 +1,122 @@
+ï»¿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>ç«ç¥ä¼ æ­å</title>
+<link href="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/1018v1/css/index.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    .cpjj_wap{position:relative;width: 100%;height: 330px;overflow: hidden;}
+    .cpjj_view{position:relative;width: 1000px;height: 330px;margin: 0 auto;}
+    #cpjj{position: absolute;left: -460px;width: 1920px;}
+    #banner_wap,#banner2_wap{position:relative;width: 100%;height: 172px;overflow: hidden;}
+    #banner_view,#banner2_view{position:relative;width: 1000px;height: 172px;margin: 0 auto;}
+    #banner,#banner2{position: absolute;left: -460px;width: 1920px;}
+    #banner_wap,#banner_view{height: 563px;}
+</style>
+<script src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/js/jquery-1.8.3.min.js"></script>
+</head>
+<body>
+<div id="container">
+    <div id="banner_wap">
+        <div id="banner_view">
+            <div id="banner"></div>
+        </div>
+    </div>
+    <div class="inner" id="cpbj">
+        <div class="bigTitle">
+            <h2>äº§åèæ¯</h2>
+            <img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/tit_cbl.jpg" width="925" height="12">
+            <p>åæè¯ä¼°æå¡çèæ¯</p>
+        </div>
+        <div class="w80 fs20 lh40 mauto pt20 pb10">éçä¿¡æ¯æ¶ä»£çåå±ï¼äºèç½ä»¥åç§»å¨äºèç½éæ¸æä¸ºäºæ°çèè®ºå®£ä¼ éµå°ãç±äºäºèç½èªèº«çç¹ç¹ï¼ä¿¡æ¯å¯ä»¥å¨ç½ç»ä¸ä»¥åçéåº¦ä¼ æ­ï¼å¹¶ä¸å¤å¶ææ¬æä½ï¼ä½¿å¾ä¿¡æ¯è½å¤æä¸ºå¿«éå°è¿è¡æ©æ£ãå¦ä½çæ¸æ°é»ä¼ æ­è·¯å¾äºè§£æ°é»ä¼ æ­è¯¦æå°¤ä¸ºéè¦ã</div>
+        <div class="w80 mauto pt30">
+            <div class="fl"><img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/pt_cbl.jpg" width="522" height="254"></div>
+            <div class="newslist fl">
+                <h4>ç°é¶æ®µä¼ æ­åææ¹å¼å­å¨çé®é¢?</h4>
+                <ul class="pt30">
+                    <li><span>Â·</span>æ²¡æå½¢æç³»ç»</li>
+                    <li><span>Â·</span>æå¨åæå¤æ</li>
+                    <li><span>Â·</span>æç´¢å¼ææ´æ°æ¢ï¼èæç³»ç»æ°æ®è§æ¨¡å°</li>
+                    <li><span>Â·</span>åæç»æä¸ç´è§</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+
+
+    <div class="cpjj_wap">
+        <div class="cpjj_view">
+            <div id="cpjj">
+                <div class="inner">
+                    <div class="fs42 pt30 blue tc fb">äº§åç®ä»</div>
+                    <div class="w80 fs20 lh40 mauto pt85 wh">åºå«äºä»¥PVãUVæ¥è®¡ç®ä¼ æ­åãâç«ç¥ä¼ æ­ååæè¯ä¼°æå¡âè®¡ç®åå®¹ç¸ä¼¼åº¦ï¼éè¿æ°é»çæ¥æºåºå¤å­
+                        æ®µå³èâåå¸åªä½âåâè½¬è½½åªä½âçä¼ æ­å³ç³»ï¼ç»å¶åºæ°é»ä¼ æ­åå½¢æçå¨è¿ç¨ã</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="clear"></div>
+    <div class="inner" id="cpys">
+        <div class="bigTitle">
+            <h2>äº§åä¼å¿</h2>
+            <img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/tit_cbl.jpg" width="925" height="12">
+            <p>åæè¯ä¼°æå¡çä¼å¿</p>
+        </div>
+        <div class="pt50"><img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/pt_cbl2.jpg" width="1126" height="605"></div>
+    </div>
+    <div class="clear"></div>
+    <div class="inner" id="cpgn">
+        <div class="bigTitle">
+            <h2>äº§ååè½</h2>
+            <img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/tit_cbl.jpg" width="925" height="12">
+            <p>åæè¯ä¼°æå¡è½å¤åä»ä¹ï¼</p>
+        </div>
+        <div class="fl pt50 w100"><img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/tit_cbzsphb.jpg" width="319" height="71"></div>
+        <div class="clear"></div>
+        <div class="w80 tc mauto">
+            <p class="pt30 fs20 gray">ç¨æ·åºååææåªä½ä»æ¥ååæ°é»å¨äºèç½ä¸çä¼ æ­åæè¡æ¦ã</p>
+            <div class="pt30"><img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/pt_cbl3.jpg" width="571" height="232" class="mauto"></div>
+        </div>
+        <div class="clear"></div>
+        <div class="fl pt50 w100"><img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/tit_xwcbfxypg.jpg" width="369" height="71"></div>
+        <div class="clear"></div>
+        <div class="w80 tc mauto">
+            <p class="pt30 fs20 gray lh40 tl">æ°é»ä¼ æ­è·¯å¾ä»¥è²å¬è±å¾ç¹çº¿çå³ç³»å±ç¤ºï¼å¶ä¸­æä»¬å¯ä»¥çå°ååç½ç«ãçç¹ç½ç«ãæ¯ä¸ªä¼ æ­ç¹å°ç¹ä¹é´çå³ç³»ã</p>
+            <div class="pt20"><img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/pt_cbl4.jpg" width="578" height="485" class="mauto"></div>
+        </div>
+        <div class="clear"></div>
+        <div class="w80 tc mauto">
+            <p class="pt70 fs20 gray tl">ä»¥æ²³æµå¾çå½¢å¼å±ç¤ºæ°é»ä¼ æ­ççå½å¨æï¼å±ç°äºæ°é»çå®æ¶ä¼ æ­è¶å¿ã</p>
+                <div class="pt30"><img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/pt_cbl5.jpg" width="602" height="285" class="mauto"></div>
+        </div>
+        <div class="clear"></div>
+                    <div class="fl pt50 w100"><img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/tit_dzpgfw.jpg" width="269" height="71"></div>
+        <div class="clear"></div>
+        <div class="w80 tc mauto">
+            <p class="pt30 fs20 gray lh40 tl">ç¨æ·å¯ä»¥éè¿å®å¶è¯ä¼°æå¡åç³»ç»ç®¡çäººåæäº¤ä¸ªæ§åéæ±å¦ï¼åå²æ°æ®åæï¼ç¨¿ä»¶äººå·¥åæï¼ä¸ºè¯å¥æä¾ä¾æ®æ°æ®åæä¾äººå·¥è¯ä¼°ã<span class="blue">å¤ç¨¿ä»¶å¯¹æ¯è¯ä¼°ãå¤è§åº¦è¯¦ç»åªä½è¯ä¼°ãå¤è§åº¦è¯¦ç»åºåè¯ä¼°ã</span></p>
+            <div class="pt50"><img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/pt_cbl7.jpg" width="398" height="510" class="mauto"></div>
+        </div>
+                <div class="clear"></div>
+            <div class="fl pt50 w100"><img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/tit_fbjk.jpg" width="269" height="71"></div>
+        <div class="clear"></div>
+        <div class="w80 tc mauto">
+            <p class="pt30 fs20 gray lh40 tl">æä»¤ä¸åç¨¿ä»¶å®æ¶çæ§å±ç¤ºï¼å·¦ä¾§ä»£è¡¨æªåå¸åªä½ï¼å³ä¾§ä»£è¡¨å·²åå¸åªä½ãçæµåªä½ç¨æ·å¯ä»¥ä¸»å¨éç½®ã</p>
+			<p><img src="http://www.xinhuanet.com/xuanzhi/zt/xzyxl/static/imgs/20161025fbjk.png" /></p>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div id="footer">
+        <div id="banner2_wap">
+            <div id="banner2_view">
+                <div id="banner2"></div>
+            </div>
+        </div>
+        <div class="inner">
+            <p>çæææï¼æ°åç½è¡ä»½æéå¬å¸</p>
+            <p>Copyright Â© 2000-2016 XINHUANET.com All Rights Reserved.</p>
+        </div>
+    </div>
+<div style="display:none"><div id="fwl">010020010010000000000000011200000000000000</div><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010020010010000000000000011200000000000000")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010020010010000000000000011200000000000000" border="0" /></noscript></div>   </body>
+</html>

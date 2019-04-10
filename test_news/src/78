@@ -1,0 +1,511 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>星岛环球网－网站介绍</title>
+<script language="javascript" src="/images/js/site_util.js"></script>
+<link href='/images/css/080820channel_style' rel='stylesheet' type='text/css'>
+<style type="text/css">
+<!--
+/* 星岛环球网首页CSS Document */
+body { margin:0px;font-size:12px; text-align:center;}
+* { padding:0; margin:0; }
+li { list-style:none;line-height:150%}
+img {border:0px;line-height:0px;}
+.intro {
+	font-size: 10.5pt;	line-height: 20px;	text-decoration: none;}
+.about {	font-size: 14pt;	line-height: 20px;	text-decoration: none;}
+body { margin:0px;font-size:12px; text-align:center;color:#000000;}
+* { padding:0; margin:0; }
+li { list-style:none;line-height:150%}
+img {border:0px;line-height:0px;}
+a:link,a:visited {text-decoration: none;}
+a:hover {text-decoration:underline;}
+
+#explorer a{
+color: #000000;
+text-decoration: underline;
+}
+#explorer a:link{
+color: #000000;
+text-decoration: underline;
+}
+#explorer a:visited{
+color: #000000;
+text-decoration: underline;
+}
+#explorer a:hover{
+color: #cc0000;
+text-decoration: none;
+}
+
+.clear {clear:both;font-size:1px;visibility:hidden;width:1px;line-height:0px;}
+.clearfix:after {content: "."; display: block; height: 0; clear: both; visibility: hidden;}
+.clearfix {display: inline-block;}
+/* Hides from IE-mac \*/
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+
+/*080729顶部导航菜单样式*/
+.nav {width:966px; height:70px;margin:0 auto;clear:both;text-align:left;}
+.nav img{ margin:0px; padding:0px;}
+.nav .logo { float:left; padding:8px 10px 1px 10px;}
+
+.nav .ban {float:left;width:180px;height:57px; padding:0 0 0 5px;margin-top:6px;text-align:left;}
+.nav .ban ul{line-height:22px;color:#1F3A87;font-weight:bold;}
+.nav .ban ul a:link{color:#1F3A87;}
+.nav .ban ul a:visited{color:#1F3A87;}
+.nav .ban ul a:active{color:#1F3A87;}
+.nav .ban ul a:hover{color:#1F3A87;}
+.nav .ban li{ float:left; width:37px; }
+.nav .ban li.xtitle{float:left;width:65px;}
+.nav .ban li.dtitle{float:left;width:75px;color:#1F3A87;}
+.nav .ban li.dtitle a:link{color:#1F3A87;}
+.nav .ban li.dtitle a:visited{color:#1F3A87;}
+.nav .ban li.dtitle a:active{color:#1F3A87;}
+.nav .ban li.dtitle a:hover{color:#1F3A87;}
+.nav .ban li.ddtitle{float:left;width:80px;color:#FF0000;}
+.nav .ban li.ddtitle a:link{color:#FF0000;}
+.nav .ban li.ddtitle a:visited{color:#FF0000;}
+.nav .ban li.ddtitle a:active{color:#FF0000;}
+.nav .ban li.ddtitle a:hover{color:#FF0000;}
+
+.nav .btm_ban{float:left;height:57px;width:771px; margin:6px 0 0 0}
+.nav .btm_ban ul{border-left:1px solid #AAAAAA; float:left;line-height:22px; padding-left:5px}
+.nav .btm_ban li{float:left;width:34px;text-align:center; }
+.nav .btm_ban li.ttitle{float:left;width:47px;}
+.nav .btm_ban li.wtitle{float:left;border:none; }
+.nav .btm_ban ul a:link{color:#000000;}
+.nav .btm_ban ul a:visited{color:#000000;}
+.nav .btm_ban ul a:active{color:#000000;}
+.nav .btm_ban ul a:hover{color:#000000;}
+/*顶部导航菜单样式结束*/
+
+
+.cnt{width:966px;margin:10px auto;}
+.box01{width:700px;float:left;text-align:right;}
+.style1 {color: #990033}
+.float_l{float:left;}
+.float_r{float:right;}
+.font_10pt {font-size: 10.5pt;}
+
+
+
+body {
+	margin: 0px;
+	background-color: #FFFFFF;
+}
+td {
+	font-size: 9pt;
+}
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+#explorer a{
+color: #000000;
+text-decoration: underline;
+}
+#explorer a:link{
+color: #000000;
+text-decoration: underline;
+}
+#explorer a:visited{
+color: #000000;
+text-decoration: underline;
+}
+#explorer a:hover{
+color: #cc0000;
+text-decoration: none;
+}
+.article_content {
+	FONT-SIZE: 10.5pt; table-layout:fixed; LINE-HEIGHT: 20px;
+}
+.article_content a:link {
+	color: #0000FF;
+	text-decoration: underline;
+}
+.article_content a:visited {
+	color: #0000FF;
+	text-decoration: underline;
+}
+.article_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #000000; LINE-HEIGHT: 24px; TEXT-DECORATION: none
+}
+#c_title{
+FONT-WEIGHT: bold; FONT-SIZE: 14.5pt; COLOR: #000000; LINE-HEIGHT: 24px; TEXT-DECORATION: none
+}
+.clsDIV {
+	font-size: 12px;
+	font-weight: bold;
+	color: #990000;
+	text-align: center;
+	letter-spacing: 1px;
+	line-height: 28px;
+	vertical-align: middle;
+	padding-top: 3px;
+	height: 33px;
+	width: 100px;
+}
+A.clsDIV{
+	font-size: 12px;
+	font-weight: bold;
+	color: #CCCCCC;
+	text-align: center;
+	border-bottom-style: solid;
+	height: 25px;
+	letter-spacing: 1px;
+	border-bottom-width: 1px;
+	border-bottom-color: #CCCCCC;
+	background-color: #f1f1f1;
+	vertical-align: bottom;
+	line-height: 28px;
+	width: 50%;
+	text-decoration: underline;
+}
+a.idTRSListLink:hover{
+	font-style: normal;
+	text-decoration: underline;
+	text-align: center;
+	font-weight: bold;
+	color: #CC0000;
+}
+.border_table {	border: 1px solid #D2CECE;
+}
+.biankuang_02 {
+	background-image: url(/0601images/singtaonet_118.gif);
+	background-repeat: repeat-y;
+	background-position: right top;
+}
+
+.btmlink a {
+	text-decoration: none;
+	margin-left: 5px;
+}
+.btmlink a:link {
+	text-decoration: underline;
+	color: #333333;
+}
+.btmlink a:visited {
+	text-decoration: underline;
+	color: #333333;
+}
+.btmlink a:hover {
+	color: #333333;
+}
+.table_link {
+	text-decoration: none;
+}
+.table_link a:link {
+	text-decoration: underline;
+	color: #0000FF;
+}
+.table_link a:visited {
+	text-decoration: underline;
+	color: #0000ff;
+}
+.table_link a:hover {
+	color: #CC0000;
+}
+.table_bbs {
+	border-top-width: 2px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #048BC3;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
+
+.font_10pt {
+	font-size: 10.5pt;
+}
+.font_red {
+	color: #cc0000;
+}
+.font_red a:link {
+	color: #cc0000;
+}
+.font_red a:visited {
+	color: #cc0000;
+}
+.font_red a:hover {
+	color: #cc0000;
+}
+.font_white {
+	color: #FFFFFF;
+}
+.font_white a:link {
+	color: #FFFFFF;
+}
+.font_white a:visited {
+	color: #FFFFFF;
+}
+.font_white a:hover {
+	color: #FFFFFF;
+}
+.font_hui {
+	color: #333333;
+}
+.font_hui a:link {
+	color: #333333;
+}
+.font_hui a:visited {
+	color: #333333;
+}
+.font_hui a:hover {
+	color: #333333;
+}
+.btm_line {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+
+.border_all {
+	border: 1px solid #CCCCCC;
+}
+.top_btm_padding {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.input{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: inset;
+	border-right-style: inset;
+	border-bottom-style: inset;
+	border-left-style: inset;
+	border-top-color: #666666;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #666666;
+}
+.headline_chnl {
+	text-decoration: underline;
+	FONT-SIZE: 15px;
+	color:#000000;
+}
+.headline_chnl a:link {
+	text-decoration: underline;
+	FONT-SIZE: 15px;
+	color:#0000ff;
+}
+.headline_chnl a:visited {
+	text-decoration: underline;
+	FONT-SIZE: 15px;
+	color:#0000ff;
+}
+.headline_chnl a:hover {
+	text-decoration: underline;
+	FONT-SIZE: 15px;
+	color:#0000ff;
+}
+.all_5_margin {
+	margin: 5px;
+}
+.all_5_padding {
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.top_margin {
+	margin-top: 5px;
+}
+.left_padding {
+	padding-left: 5px;
+}
+.border_all_blue {
+	border: 1px solid #00567C;
+}
+#voice p{
+background-image: url(/images/contentbg.gif);
+}
+.table_bg01 {
+	background-image: url(/0601images/06singtao_bg_02.gif);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.font_time {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 9px;
+	font-style: italic;
+	color: #999999;
+	text-decoration: none;
+}
+.clear {clear:both;font-size:1px;visibility:hidden;width:1px;line-height:0px;}
+.clearfix:after {content: "."; display: block; height: 0; clear: both; visibility: hidden;}
+.clearfix {display: inline-block;}
+/* Hides from IE-mac \*/
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+/*广告服务*/
+.gg_bg01{width:968px;margin:5px auto 0px auto;overflow:hidden;}
+.gg_box01{width:968px;height:142px;background:url(/images/xy/ggfw_01-12.gif);}
+.gg_box02 {width:700px;height:30px;float:right;}
+.gg_box02 li{height:30px;float:left;padding:5px 0 0 20px;font-size:14px;font-weight: bold;text-align:left;background:url(/images/xy/ggfw_bz.gif) left center no-repeat;}
+.gg_box03{width:966px;border-left:1px solid #cccccc;border-right:1px solid #cccccc;text-align:center;overflow:hidden;}
+.gg_box04{width:968px;height:112px;background:url(/images/xy/ggbj_02.gif);}
+.gg_box05{width:965px;margin-left:1px;border-left:1px solid #cccccc;border-right:1px solid #cccccc;text-align:center;overflow:hidden;}
+.gg_box06{width:966;float:left;background:url(/images/0806/ggfw_05.gif) center bottom no-repeat;font-size:18px;height:30px;font-weight:bold;margin:0 0 20px 0;text-align:center;color:#A40000;}
+.gg_box07{width:966;float:left;font-size:14px;margin:0px;text-align:left;line-height:30px;padding:0px 60px 40px 60px;}
+-->
+
+.banner_top{ width:966px; background:url(http://www.stnn.cc/images/0806/091215top01-1.gif) top left repeat-x; height:89px; margin:0 auto}
+.banner_top_l{ width:188px; padding-left:10px; float:left; text-align:left; padding-top:18px;}
+.banner_bottom{ width:966px;background:url(http://www.stnn.cc/images/0806/091215top02.gif) top left repeat-x; height:33px;margin:0 auto}
+
+/*导航条*/
+/*Author:5key.net*/
+#navigation {background:#EBEBEB; position:relative;height:34px;margin:0;border-top:8px solid #AD191E;z-index:5;text-align:left;}
+#navigation ul{	padding:2px 0 0 0; margin-left: 1.56em;}
+#navigation ul li {font-size: 21px;font-family:KaiTi_GB2312,KaiTi,STKaiti;float:left;margin:0 15px 0 0;font-weight:bold;display:block;position:relative;padding-bottom:2px;display:inline;z-index:999; /* Fix for IE6 double margin when floated bug */}
+#navigation ul li a {color:#000;padding:30px 0 0 0;display:block;height:0}
+#navigation ul li a b{display:none}
+#navigation ul li i {cursor:pointer; padding:0; margin-bottom:5px; height:30px; display:block;  text-indent:-2000em; position:absolute; right:-15px; top:0; width:15px;}
+#navigation ul.active li i	{padding-bottom:5px;}
+#navigation ul li.nosub i  	{padding:0; width:3px; right:-3px;}
+#navigation ul li a span 	{padding:0 4px 0 0; height:30px; display:block;position:relative; top:5px;}
+/*on states*/
+#navigation ul li a.on,.markets #navigation ul li a.nhistory,.global #navigation ul li a.nsociety,.home #navigation ul li a.nnews,.china #navigation ul li a.ned-china,.economy #navigation ul li a.nglobal,.industry #navigation ul li a.nindustry,.business #navigation ul li a.nhealth,.service #navigation ul li a.nservice,.tools #navigation ul li a.ntools,.mba #navigation ul li a.nmba,.lex #navigation ul li a.nlex,.interview #navigation ul li a.ninterview,.opinion #navigation ul li a.nfeature,.column #navigation ul li a.ncolumn,.money #navigation ul li a.nmoney,.career #navigation ul li a.ncareer,.management #navigation ul li a.ntu,.life #navigation ul li a.nspecial,.vnav #navigation ul li a.nmins {background-color:#eee
+/*e4eef5*/;color:#fff;}
+
+#navigation ul li a.on i 		{background:#fff url(http://www.stnn.cc/images/0806/navi.gif) right -180px no-repeat;}
+#navigation ul li.nosub a.on i 	{background:#a7a59b url(http://www.stnn.cc/images/0806/navi.gif) right -240px no-repeat;}
+/*hover states*/
+#navigation ul li a:hover,
+#navigation ul li.navopen a 		{background-color:#e4eef5 /*url(http://www.stnn.cc/images/0806/navi.gif) left top no-repeat*/; color:#000;}
+#navigation ul li a:hover i 		{background:url(http://www.stnn.cc/images/0806/navi.gif) right top no-repeat;}
+
+#navigation ul li a:hover i:hover,
+#navigation ul li.navopen a i 		{background:#fff url(http://www.stnn.cc/images/0806/navi.gif) right -60px no-repeat;}
+#navigation ul li.nosub a:hover i 	{background:#e4eef5 url(http://www.stnn.cc/images/0806/navi.gif) right -120px no-repeat;}
+
+#navigation ul.inactive li a:hover i,#navigation ul.inactive li a:hover i:hover, #navigation ul.inactive a.on:hover i {
+background:#e4eef5 url(http://www.stnn.cc/images/0806/navi.gif) right -120px no-repeat;
+}
+#navigation ul.inactive li a.on i 	{background:#a7a59b url(http://www.stnn.cc/images/0806/navi.gif) right -240px no-repeat;}
+
+/*sub nav styles*/
+#navigation ul li ul {display:none; position:absolute; top:32px; left:-49px; width:116px; padding:10px 0 10px 0; border:solid 1px #dfded8; background:#FFF;z-index:999;}
+#navigation ul li ul li {font-weight:normal;font-size:12px;width:100px;display:block;padding:0;margin:0 7px 0 7px;background:#fff;border-top:solid 1px #e4eef5;position:relative;font-family:SimSun;}
+#navigation ul li ul li.first-child {border-top:none;}
+#navigation ul li ul li a {display:block;padding:0;line-height:25px;height:25px;}
+#navigation ul li.navopen ul li a {background:#fff;}
+#navigation ul li ul li a:hover {background:#e4eef5; color:#4781aa;}
+
+#navigation ul.inactive li:hover ul,#navigation ul.inactive a:hover ul, #navigation li.navopen ul {display:block;}
+
+/*Author:5key.net*/
+#navigation .nnews,#navigation .ned-china,#navigation .nglobal,#navigation .nsociety,#navigation .nindustry,#navigation .nhealth,#navigation .ninterview,#navigation .nfeature,#navigation .ncolumn,#navigation .nmoney,#navigation .ncareer,#navigation .ntu,#navigation .nmins {background-image:url(/images/0806/hzi.gif);background-repeat:no-repeat;width:60px;}
+#navigation .nnews {background-position:10px 5px;width:95px;}
+#navigation .nhealth {background-position:10px -1795px;}
+#navigation .ned-china {background-position:10px -45px;width:75px}
+#navigation .nglobal {background-position:10px -2045px;width:100px;}
+#navigation .nsociety {background-position:10px -95px;width:100px;}
+#navigation .nhistory {background-position:10px -145px;background-image:url(/images/0806/hzi.gif);background-repeat:no-repeat;width:55px;}
+#page-title .nhistory {background-position:10px -140px;background-image:url(/images/0806/hzi.gif);background-repeat:no-repeat;width:55px}
+#navigation .nfeature {background-position:10px -345px;}
+#navigation .ntu{background-position:10px -1995px;}
+#navigation .nspecial{background-position:10px -1545px;background-image:url(/images/0806/hzi.gif);background-repeat:no-repeat;width:95px;}
+#navigation .nmins{background-position:10px -595px;width:95px;}
+</style>
+</head> 
+
+<body>
+
+<script language="javascript" type="text/javascript">
+
+
+
+
+
+menuFix();flexlinks();</script>
+<div class="banner_top" style="height:80px; background: url(http://www.stnn.cc/images/0806/newh1.gif); margin-bottom:10px">
+<div class="banner_top_l" style="padding-top:12px; "><a href="http://www.stnn.cc/"><img src="http://www.stnn.cc/images/0806/logo_080728.gif" alt="欢迎访问星岛环球网" width="176" height="54" border="0" ignoreapd="1"></a></div>
+<div style="float:left; padding-top:8px; padding-left:35px; text-align:left;line-height:22px; width:732px">
+<a href="http://news.stnn.cc/"><span style="color:#cc0000;font-weight:bold">新闻</span> </a><a href="http://news.stnn.cc/china/" title="中国新闻">大陆</a> <a href="http://news.stnn.cc/hk_taiwan/" title="台湾评论">台湾</a> <a href="http://news.stnn.cc/hongkong/" title="港澳新闻">港澳</a> <a href="http://news.stnn.cc/guoji/" title="国际新闻">国际</a> <a href="http://news.stnn.cc/glb_military/" title="军事新闻">军情</a> <a href="http://news.stnn.cc/cn_stock/">股市</a> <a href="http://news.stnn.cc/Macroeconomic/">大中华财经</a> <a href="http://news.stnn.cc/real_estate/">环球财经</a>   <a href="http://society.stnn.cc/"><span style="color:#cc0000;font-weight:bold">社会</span></a> <a href="http://society.stnn.cc/minsheng/">民生</a> <a href="http://society.stnn.cc/qiwen/">奇闻</a> <a href="http://society.stnn.cc/anjian/">案件</a> <a href="http://society.stnn.cc/tufa/">突发</a> <a href="http://society.stnn.cc/ent_focus/">娱乐</a> <a href="http://society.stnn.cc/sport/">体坛</a> <a href="http://society.stnn.cc/Depth/">广角镜</a>   <a href="http://ed-china.stnn.cc/"><span style="color:#cc0000;font-weight:bold">看中国</span></a> <a href="http://ed-china.stnn.cc/China/">政情</a> <a href="http://ed-china.stnn.cc/diplomacy/">外交</a><br />
+<a href="http://ed-china.stnn.cc/Taiwan/">台海</a> <a href="http://ed-china.stnn.cc/finance/">经济</a> <a href="http://ed-china.stnn.cc/military/">军事</a> <a href="http://ed-china.stnn.cc/Culture/">文化科技</a>   <a href="http://oversea.stnn.cc"><span style="color:#cc0000;font-weight:bold">海外</span></a> <a href="http://oversea.stnn.cc/NY/">纽约</a> <a href="http://oversea.stnn.cc/Euro/">欧洲</a> <a href="http://oversea.stnn.cc/Au/">澳洲</a> <a href="http://oversea.stnn.cc/LA/">洛杉矶</a> <a href="http://oversea.stnn.cc/SF/">旧金山</a> <a href="http://oversea.stnn.cc/toronto/">多伦多</a> <a href="http://oversea.stnn.cc/vacouver/">温哥华</a>   <a href="http://history.stnn.cc/"><span style="color:#cc0000;font-weight:bold">历史</span></a> <a href="http://history.stnn.cc/reveal/">揭秘</a> <a href="http://history.stnn.cc/arts/">文史</a> <a href="http://history.stnn.cc/war/">战争</a> <a href="http://history.stnn.cc/photos/">老照片</a> <a href="http://history.stnn.cc/today/">历史上的今天</a><br />
+<a href="http://history.stnn.cc/years/">岁月印迹</a>   <a href="http://health.stnn.cc/"><span style="color:#cc0000;font-weight:bold">健康</span></a> <a href="http://health.stnn.cc/health_ZY/">中医</a> <a href="http://health.stnn.cc/health_YS/">养生</a> <a href="http://health.stnn.cc/health_YINS/">饮食</a> <a href="http://health.stnn.cc/health_QJ/">起居</a> <a href="http://health.stnn.cc/health_JBYH/">预防</a> <a href="http://health.stnn.cc/health_SX/">塑形</a> <a href="http://health.stnn.cc/health_XL/">心理</a> <a href="http://health.stnn.cc/health_LX/">两性</a> <a href="http://health.stnn.cc/myft/">访谈</a>   <a href="http://tu.stnn.cc/"><span style="color:#cc0000;font-weight:bold; margin-left:1px">图集</span></a> <a href="http://tu.stnn.cc/kan_ent/">写真</a> <a href="http://tu.stnn.cc/kan_fashion/">时尚</a>   <a href="http://feature.stnn.cc"><span style="color:#cc0000;font-weight:bold; margin-left:1px">专题</span></a>   <a href="http://news.stnn.cc/c6/curlist.html"><span style="color:#cc0000;font-weight:bold; margin-left:1px">滚动</span></a>   <a href="http://app.stnn.cc/rss.php"><span style="color:#cc0000;font-weight:bold; margin-left:1px">RSS</span></a></div>
+
+</div>
+<div class="clear"></div>
+
+
+
+
+
+
+<div class="gg_bg01">
+<div class="gg_box01">
+<div class="gg_box02">
+<div class="clear"></div>
+</div>
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="gg_box05">
+<div class="gg_box06">星岛环球网-网站介绍</div>
+<div class="gg_box07">
+  <p>&#x3000;&#x3000;星岛环球网www.stnn.cc创办于公元2005年，是一个以新闻为主要特色、以全球华人为服务对象的综合性门户网站。我们竭诚提供一切适合华人的最有价值内容。凡遇全球大事、突发事件、华人关注焦点，必看星岛环球网。在移动互联网带来颠覆性革新及新旧媒体融合的时代，星岛环球网将继续引领互联网、移动互联网、视频的联动组合传播，并给当代新闻注入文化历史的内涵。<br /><br />
+
+
+<strong>国际视野与民族情怀</strong><br />
+&#x3000;&#x3000;星岛环球网具有丰富的内容资源、专业的新闻团队、独特的编辑方针。在华人世界名声鹊起，为广大华文读者认同和喜爱，其影响力日盛。<br />
+&#x3000;&#x3000;星岛环球网具有宽广的国际视野与深厚的民族情怀，严守“中正、持平”的立场，立足华人视角，客观、深刻地报道全球新闻。我们追求影响力和美誉度。<br />
+&#x3000;&#x3000;星岛环球网一马当先，八面来风，汇集海内外媒体各种声音，荟萃精彩观点，反映国际舆论主流倾向，帮助读者全面客观地看中国。正所谓“莫愁前路无知音，星岛新闻伴你行”！<br />
+<br />
+<strong>新闻特色与广告优势</strong><br />
+&#x3000;&#x3000;星岛环球网新闻快捷、作风严谨、公信力强，具有强大持久的社会影响力。<br />
+&#x3000;&#x3000;星岛环球网读者来自全球社会精英，对网站忠诚度高，具有很强的广告传播效力。<br />
+&#x3000;&#x3000;星岛环球网广告布局合理，简洁的广告环境，有利于提高网民对广告内容的关注度，干扰度小，提高广告的好感度，提高广告效果。<br />
+&#x3000;&#x3000;星岛环球网一心一意为广告客户着想，广告形式可多元组合，以达到卓著效果。<br />
+&#x3000;&#x3000;星岛环球网拥有数量庞大、访问稳定、忠诚度高的读者群。<br />
+<br />
+<strong>传媒特征与专业服务</strong><br />
+&#x3000;&#x3000;星岛环球网不仅是具有悠久历史的星岛传媒内容的网络传播渠道，更整合了众多新锐媒体生产的内容、用户生成的内容、以及自身生产的特色内容，提供含图文音视频的全方位综合资讯、深度报道、观点碰撞、财经产品、文体动态、微信公众号优质内容分享等服务，满足主流人群浏览、表达、交流、娱乐、理财、养生等多元化与个性化的诉求，形成与众不同的内容广场传播模式，为互联网、移动互联网及视频用户提供丰富的内容与随时随地随身的服务。<br />
+&#x3000;&#x3000;我们基于经验丰富的媒介企划人员和准确的投放系统，可以为广告客户提供投放效果最佳、受众定位最为准确的广告投放方案，全程执行，使广告客户以最少的投入换来最佳的投放效果。<br />
+&#x3000;&#x3000;为广告客户提供最适合网上消费者特性的推广活动企划，针对客户的需求在网上举办各种各样的在线活动，让浏览者实时参加，增加目标对象的投入感，极大加强品牌推广，与线下产业的结合而产生多种赢利，高效塑造品牌。<br />
+&#x3000;&#x3000;星岛环球网以其独特的受众精准性、内容洞察力、平台整合力及品牌影响力为媒体营销价值核心，为广告客户提供高效的营销投资回报，达成共赢效果。<br />
+&#x3000;&#x3000;欢迎访问！欢迎合作！</p>
+<br>
+
+
+
+
+
+
+</div>
+
+<div class="clear"></div>
+</div>
+
+
+<div class="gg_box04"></div>
+
+</div>
+
+<script src='/images/js/061101site_btm.js' language='javascript'>
+</script>
+
+</body>
+</html>

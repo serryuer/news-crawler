@@ -1,0 +1,2576 @@
+<!doctype html>
+<script type="text/javascript">
+  var pvinsight_page_ancestors = '143746642;143746653;531608277';
+</script>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+<meta name="viewport" content="width=device-width">
+<meta name="templateversion" content="407212v20131230">
+<title>2018全国两会-搜狐新闻</title>
+<script src="http://www.sohu.com/sohuflash_1.js" type="text/javascript"></script>
+<meta name="description" content="2018全国两会" />
+<meta name="keywords" content="2018全国两会" />
+<meta name="robots" content="all" />
+
+<link type="text/css" rel="stylesheet" href="http://css.sohu.com/upload/global1.4.1.css" />
+<style type="text/css">
+
+
+body{ background:#fff url(http://i0.itc.cn/20180302/779_bd08c9ac_e64e_e5a0_8a75_c41e203d39bc_1.jpg) no-repeat center top; font-family:"微软雅黑"; color:#fff;}
+.area{ width:1000px; margin:0 auto;}
+a:active{ star:expression(this.onFocus=this.blur());}
+:focus{ outline:0;}
+.banner{ height:660px; margin:0 auto; position:relative;}
+
+
+
+
+.nav{  height:50px; line-height:50px; text-align:center; overflow:hidden;}
+.nav li{ float:left; display:inline; margin:0 8px; color:#fff; font-size:18px;}
+.nav li a{ display:block; height:50px; line-height:50px; overflow:hidden; font-size:24px; color:#fff; padding:0px 12px; text-decoration:none; font-weight:normal;}
+.nav li a:hover{ background:#eb2c00;}
+.nav li span{ color:#e79e9a; font-size:24px;}
+.nav .left{ width:410px; padding-left:20px; float:left; background:url(http://i1.itc.cn/20170301/2cf3_93af7c48_91a1_249d_830a_e9104307286f_1.png) no-repeat 0px 15px; overflow:hidden;}
+.nav .right{ width:520px; padding-left:30px; float:right; background:url(http://i2.itc.cn/20180226/779_dd14dcf4_7afb_ab12_78fe_b347f899bdf0_1.png) no-repeat 0px 11px; overflow:hidden;}
+
+.subNav{ height:40px; background:#ededed; overflow:hidden;}
+.subNav a{ display:inline-block; line-height:40px; margin:0px 8px; font-size:16px; color:#686868;}
+
+#contentA{ margin-top:40px;}
+#contentA .left{ width:520px;}
+#contentA .right{ width:450px;}
+#contentA .center{ display:none;}
+
+.focus{ width:520px;}
+.focus .menuA{ width:520px; height:52px; overflow:hidden;}
+.focus .menuA li{ height:52px; line-height:120px; float:left; background:url(http://i1.itc.cn/20180301/779_7a8a250e_6c01_d887_bf59_1882483da714_1.png) no-repeat; cursor:pointer; overflow:hidden;}
+.focus .menuA li.now{ background:url(http://i1.itc.cn/20180301/779_7a8a250e_6c01_d887_bf59_1882483da714_2.png) no-repeat;}
+.focus .menuA li.a{ width:173px; background-position:0 0;}
+.focus .menuA li.b{ width:173px; background-position:-173px 0;}
+.focus .menuA li.c{ width:174px; background-position:-346px 0;}
+.focus .turn{ height:360px; overflow:hidden;}
+.focus .fpic{ width:520px; height:360px; position:relative;}
+.focus .fpic i{ position:absolute; left:0; bottom:0; display:block; width:100%; height:40px; background:#000; opacity:0.6; filter:alpha(opacity=70);}
+.focus .fpic h5{ position:absolute; left:0; bottom:0; width:100%; height:40px; line-height:40px; color:#fff; font-size:16px; text-align:center;}
+
+#contentA .right h1{ font-size:24px; font-weight:bold; color:#b42f15;}
+#contentA .right h1 a{ color:#b42f15;}
+#contentA .right .hot{ margin-top:5px; padding:10px 10px 0px 0px;}
+#contentA .right .hot .tit{ height:24px; line-height:24px; border-bottom:1px solid #b42f15; background:url(http://i2.itc.cn/20170226/2cf3_41bd22fb_4493_2390_b6dc_cb320b2df49a_1.gif) no-repeat 0px 0px; text-align:right;}
+#contentA .right .hot .tit a{ color:#c3c3c3; font-size:14px;}
+#contentA .right .hot .tit span{ float:left; color:#b42f15; font-size:17px; text-indent:10px;}
+#contentA .right .hot h3{ font-size:18px; color:#000; line-height:35px;}
+#contentA .right .hot h3 a{ color:#000;}
+#contentA .right .hot h3 a:hover{ color:#b42f15;}
+#contentA .right .hot p{ font-size:15px; line-height:28px;}
+
+.contentB{ margin-top:40px;}
+.contentB .left{ width:520px;}
+.contentB .right{ width:405px;}
+.contentB .center{ display:none;}
+.contentB .left .video{ margin-top:34px;}
+.contentB .jzh li{ height:64px; overflow:hidden; background:url(http://news.sohu.com/upload/lianghui20170225/images/icon1.jpg) no-repeat; padding-left:85px; margin-top:34px; cursor:pointer; display:inline-block;}
+.contentB .jzh li:hover{ background:url(http://news.sohu.com/upload/lianghui20170225/images/icon1_hover.jpg) no-repeat;}
+.contentB .jzh li.a{ background-position:0px 0px;}
+.contentB .jzh li.b{ background-position:0px -98px;}
+.contentB .jzh li.c{ background-position:0px -196px;}
+.contentB .jzh li.d{ background-position:0px -294px;}
+.contentB .jzh li h4{ font-size:18px; color:#b42f15;}
+.contentB .jzh li h4 a{ color:#b42f15;}
+.contentB .jzh li p{ font-size:14px; line-height:20px; padding-top:10px; color:#333;}
+.contentB .jzh li a:hover{ text-decoration:none;}
+
+#contentC1{ margin-top:40px;}
+	.fbh .menuB{ height:50px; line-height:50px; padding-top:10px; overflow:hidden; background: #ffe2c1;}
+.fbh .menuB li{ display:inline-block; cursor:pointer; font-size:16px; padding:0px 10px; color:#9b7953; margin:0px 4px;}
+.fbh .menuB li.now{ background:#fff; color:#e90000;}
+.fbh .turn{ overflow:hidden; background:url(http://i0.itc.cn/20180226/779_758c5ae4_c0b4_7db0_e20d_5637d6815336_1.png);height: 480px;}
+.fbh .l{ float:left; width:520px;}
+.fbh .r{ float:right; width:410px; margin-right:30px;}
+.fbh .r h4{ font-size:18px; color:#b42f15; background:url(http://news.sohu.com/upload/lianghui20170225/images/icon2.gif) no-repeat left 28px; padding:25px 0 20px 15px;}
+.fbh .r h4 a{ color:#b42f15;}
+.fbh .r p{ font-size:14px; line-height:26px; text-indent:2em; padding-top:10px;}
+
+#contentD{ margin-top:40px;}
+#contentD .cons{ overflow:hidden;}
+#contentD .cons .pic-text{ width:450px; height:110px; padding:6px; background:#f8f8f7; border:4px solid #f8f8f7; float:left; margin:30px 0px 0px 60px;}
+#contentD .cons .pic-text:hover{ border:4px solid #bd9361;}
+#contentD .cons .ml0{ margin-left:0px;}
+#contentD .cons h4{ height:30px; font-size:28px; color:#b42f15; display:inline-block; padding-top:2px;}
+#contentD .cons h4 a{ color:#b42f15;}
+#contentD .cons h4 span{ font-size:16px; display:inline-block; float:right; height:24px; line-height:24px; padding:0px 10px; background:#b42f15; color:#fff; margin-left:20px;}
+#contentD .cons h5{ height:30px; line-height:30px; font-size:18px; color:#b5844d; background:url(http://news.sohu.com/upload/lianghui20170225/images/icon3.png) no-repeat 120px 10px; padding-left:140px;}
+#contentD .cons h5 a{ color:#b5844d;}
+#contentD .cons p{ line-height:24px; font-size:14px;}
+#contentD .cons p a{ color:#b42f15;}
+
+#contentE{ margin-top:40px;}
+#contentE .cons{ overflow:hidden; padding-top:30px;}
+#contentE .cons h2{ height:30px; line-height:28px; display:inline-block; text-align:left; font-size:22px; color:#fff; background:#b42f15; padding:0px 5px;}
+#contentE .cons h3{ height:80px; line-height:80px; font-size:42px; color:#b5844d; background:url(http://news.sohu.com/upload/lianghui20170225/images/icon4.png) no-repeat 0px 25px; text-indent:40px;}
+#contentE .cons ul{ padding-bottom:20px;}
+#contentE .cons ul li{ height:42px; line-height:42px; font-size:16px;}
+#contentE .cons ul li em{ width:20px; height:20px; line-height:20px; text-align:center; background:#bb946a; color:#fff; display:inline-block; margin:10px 20px 0px 0px; float:left;}
+#contentE .cons ul li .vot_num{ float:right;}
+#contentE .cons ul li:hover em{ background:#b42f15;}
+#contentE .cons ul li:hover .vot_num{ color:#b42f15;}
+#contentE .cons .more{ height:30px; text-align:right; border-top:1px solid #d9d9d9;}
+#contentE .cons .more a{ display:inline-block; background:#b5844d; font-size:16px; height:24px; line-height:22px; color:#fff; padding:0 5px; margin-top:8px;}
+
+#contentF{ margin-top:40px;}
+#contentF .cons{ overflow:hidden; margin-top:30px; position:relative;}
+#contentF .cons a{ display:block; position:absolute; width:180px; height:180px; background:url(http://i0.itc.cn/20170226/2cf3_ec03d6b3_d60c_eb05_cf2f_9f89809d438e_1.png) no-repeat; font-size:0px;}
+#contentF .cons a:hover{ background:url(http://i0.itc.cn/20170226/2cf3_6b31374b_5ad1_1bcc_908b_e4d648c7ba63_1.png) no-repeat;}
+#contentF .cons a.gjc1{ left:42px; top:33px; background-position:0px 0px;}
+#contentF .cons a.gjc2{ left:293px; top:68px; background-position:-215px 0px;}
+#contentF .cons a.gjc3{ left:319px; top:280px; background-position:0px -213px;}
+#contentF .cons a.gjc4{ left:528px; top:120px; background-position:-215px -213px;}
+#contentF .cons a.gjc5{ left:765px; top:5px; background-position:0px -418px;}
+#contentF .cons a.gjc6{ left:753px; top:235px; background-position:-215px -418px;}
+#contentF .cons a.gjc7{ left:555px; top:410px; background-position:0px -641px;}
+#contentF .cons a.gjc8{ left:785px; top:455px; background-position:-215px -641px;}
+
+.contentG{ margin-top:40px;}
+.contentG .pics{ position:relative; width:1000px; height:389px; margin-top:20px;}
+.contentG .pics li{ position:absolute;}
+.contentG .pics li.a{ left:0px; top:0px;}
+.contentG .pics li.b{ left:268px; top:0px;}
+.contentG .pics li.c{ left:636px; top:0px;}
+.contentG .pics li.d{ left:268px; top:197px;}
+.contentG .pics li.e{ left:636px; top:197px;}
+
+#contentH{ margin-top:40px;}
+#contentH .cons{ overflow:hidden;}
+#contentH .cons .pic-text{ width:450px; height:110px; padding:6px; background:#f8f8f7; border:4px solid #f8f8f7; float:left; margin:30px 0px 0px 60px;}
+#contentH .cons .pic-text:hover{ border:4px solid #bd9361;}
+#contentH .cons .ml0{ margin-left:0px;}
+#contentH .cons h4 span{ font-size:16px; display:inline-block; float:right; height:24px; line-height:24px; padding:0px 10px; background:#b42f15; color:#fff; margin-left:20px;}
+#contentH .cons h5{ height:28px; line-height:21px; font-size:14px; color:#b5844d; background:url() no-repeat 120px 10px; padding-left:60px;}
+#contentH .cons p{ line-height:24px; font-size:14px;}
+#contentH .cons p a{ color:#b42f15;}
+
+.vlists{ overflow:hidden; margin-top:40px;}
+.vlists li{ float:left; display:inline; width:240px; height:190px; overflow:hidden; margin:20px 0px 0px 13px; position:relative;}
+.vlists li.ml0{ margin-left:0px;}
+.vlists li i{ position:absolute; left:0; top:0; width:100%; height:160px; display:block; cursor:pointer; background:url(http://i1.itc.cn/20170302/2cf3_0d4338a0_02c3_6bda_0dd2_d077a0724f6c_1.png) no-repeat center center;}
+.vlists li a:hover i{ background:url(http://i2.itc.cn/20170302/2cf3_71aab72f_dbd9_ca26_86a8_c54e1d9fc406_1.png) no-repeat center center;}
+.vlists li h5{ width:100%; height:30px; line-height:30px; display:block; font-size:14px; text-align:center;}
+
+.cooper1{ overflow:hidden; margin-top:40px;}
+.cooper1 ul{ padding:10px 0px 0px 0px;}
+.cooper1 li{ float:left; display:inline; margin:0px 10px; font-size:16px; line-height:34px; color:#6e6e6e;}
+.cooper1 li a{ color:#6e6e6e;}
+
+.cooper2{ overflow:hidden; margin-top:40px;}
+.cooper2 li{ float:left; display:inline; margin:10px 4px 0px 4px;}
+
+.cut{ margin-top:40px;}
+.cut .cons{ margin-top:20px;}
+
+#foot{ width:1000px; margin-top:30px;}
+
+#picCutC,#picCutA{ display:none;}
+#videoCutC,#videoCutA{ display:none;}
+#contentB,#contentC{ display:none;}
+	
+	
+	.box_titC{width:450px;height:50px;}
+	.menuC li{height:30px; width:216px; float: left;}
+	.menuC li.a.now{ background: url(http://i3.itc.cn/20180226/779_705ce6dd_1667_4e65_a2d4_bbc50419d3c6_1.png)}
+	.menuC li.a{ background: url(http://i3.itc.cn/20180226/779_19267b06_3710_4272_46b5_08858e55e497_1.png)}
+	.menuC li.b.now{ background: url(http://i0.itc.cn/20180226/779_ac6c3e25_4c65_4cfa_20a9_2b2579fde9ca_1.png)}
+	.menuC li.b{ background: url(http://i0.itc.cn/20180226/779_a9d53992_eab1_b451_de25_7e03d87db449_1.png)}
+	
+	#contentA1 .gzbg{ height: 519px; background: url(http://i3.itc.cn/20180226/779_90cd2767_8a58_79d2_b50c_6a1ace1b89b3_1.png)}
+	#contentA1 .gzbg .menuD{height:50px; line-height: 50px;padding:14px 0px 0px 11px ;}
+	
+	#contentA1 .gzbg .menuD li{ display:inline-block; cursor:pointer; font-size:16px; padding:0px 10px; margin:0px 4px; background: url(http://i2.itc.cn/20180226/779_d336f036_e585_cf87_a995_e46f9be64be2_1.png) no-repeat 0 18px; text-indent: 15px;color:#981b09;}
+	#contentA1 .gzbg .menuD li.now{ background:url(http://i0.itc.cn/20180226/779_802b490f_6917_3af2_32ac_c63f5b96ebb3_1.png) no-repeat 5px 18px #fff; color:#f30000;}
+	
+	#contentA1 .gzbg .turn{color:#959595;font-size:14px; font-family:微软雅黑;line-height:24px;}
+	#contentA1 .gzbg .left {width:465px; margin: 20px 0 10px 20px;border-bottom: 1px solid #d2d2d2;padding-bottom:14px;}
+	#contentA1 .gzbg .right {width:480px; padding:20px 20px 0 0;}
+	#contentA1 .gzbg .right li{ float: left; border-bottom: 1px solid #d2d2d2;width:220px;margin:0px 10px 10px 10px;padding-bottom:14px;}
+
+.frag10 .slide10{ height:350px; position:relative}
+.slide10 .btn{ position:absolute;width:69px; height:69px;top:155px; cursor:pointer;}
+.slide10 .btn_left { left:0;background:url("http://news.sohu.com/upload/jieli/2015lianghui/images/l1.png") no-repeat;}
+.slide10 .btn_right { right:0;background:url("http://news.sohu.com/upload/jieli/2015lianghui/images/l2.png") no-repeat;}
+.slide10 .slide10_nav {height:20px; overflow:hidden;position:absolute;right:0;bottom:38px; text-align:left;width:570px}
+.slide10 .slide10_nav ul { position:relative; z-index:3}
+.slide10 .slide10_nav li {float:left;padding:0 30px; height:20px; overflow:hidden; cursor:pointer}
+.slide10 .slide10_nav li span {background:url("http://i0.itc.cn/20150228/213_a6d03c50_42fe_607d_6072_40e6e3a9cb51_1.jpg") no-repeat left bottom; width:20px; height:20px; display:block;margin:0 auto}
+.slide10 .slide10_nav li.cur span{background-position:0 0}
+.slide10 .cont_box { display:none;padding:30px 0 0 86px;text-align:left;font-size:14px; line-height:22px;}
+.slide10 .line2 { position:absolute;height:2px;background:#f1f1f1;left:0;top:50%;width:100%; overflow:hidden; z-index:1;}
+.slide10 .cont_box img {float:left; display:inline;}
+.slide10 .cont_box .cboxr {margin-left:320px;padding-right:110px;}
+.slide10 .cont_box .cboxr h2 {font-size:18px; color:#c12020;padding-bottom:15px;text-align:left;}
+.slide10 .cont_box .cboxr h2 a{color:#c12020;}
+	.slide10 .cont_box .cboxr p{color:#000;text-align:left;}
+
+.zljzh{ background: url(http://i2.itc.cn/20180228/779_fbebf79f_9ee5_f2e9_4c8e_20b354b9874c_1.png);height:710px;width:1000px;}
+		.zljzh .videoA{padding-top:20px; margin:0 auto; width:640px; height:480px;}
+		.zljzh ul{margin: 10px auto 0; width:1000px;}
+		.zljzh li{ width:230px; float: left;margin:10px;font-family: 微软雅黑； font-size:14px;line-height:22px}
+		.zljzh a{ display: block; width:230px; position: relative;color:#000; text-align: center; }
+		.zljzh span{ display: block;background: url{http://i3.itc.cn/20180228/779_9286fdb3_eed0_d048_5b36_d15f50bd4e3e_1.png} ; width:49px; height:49px; position: absolute;left:20px; top:20px;}
+		.zljzh a p{font-family: 微软雅黑； font-size:14px;color:#000;}
+
+
+
+
+.frag10 .slide11{ height:540px; position:relative; background: URL(http://i0.itc.cn/20180228/779_98cd70f9_aed5_2e7c_17cd_4fb041021709_1.png)}
+.slide11 .btn{ position:absolute;width:48px; height:120px;top:180px; cursor:pointer;}
+.slide11 .btn_left1 { left:126px;   ;background:url("http://i1.itc.cn/20180228/779_1e04c20b_a2f8_6d28_9443_52d75b5fc363_1.png") no-repeat;}
+.slide11 .btn_right1 { right:0;background:url("http://i3.itc.cn/20180228/779_d8327c9d_e175_f3ff_f7b5_1995a82be4b4_1.png") no-repeat;}
+.slide11 .slide11_nav {height:20px; overflow:hidden;position:absolute;right:0;bottom:38px; text-align:left;width:570px}
+.slide11 .slide11_nav ul { position:relative; z-index:3}
+.slide11 .slide11_nav li {float:left;padding:0 30px; height:20px; overflow:hidden; cursor:pointer}
+.slide11 .slide11_nav li span {background:url("http://i0.itc.cn/20150228/213_a6d03c50_42fe_607d_6072_40e6e3a9cb51_1.jpg") no-repeat left bottom; width:20px; height:20px; display:block;margin:0 auto}
+.slide11 .slide11_nav li.cur span{background-position:0 0}
+.slide11 .cont_box1 { display:none;padding:10px 0 0 86px;text-align:left;font-size:14px; line-height:22px;}
+.slide11 .line2 { position:absolute;height:2px;background:#f1f1f1;left:0;top:50%;width:100%; overflow:hidden; z-index:1;}
+.slide11 .cont_box1 img {float:left; display:inline;}
+.slide11 .cont_box 1.cboxr {margin-left:320px;padding-right:110px;}
+.slide11 .cont_box1 .cboxr h2 {font-size:18px; color:#c12020;padding-bottom:15px;text-align:left;}
+.slide11 .cont_box1 .cboxr h2 a{color:#c12020;}
+	.slide11 .cont_box1 .cboxr p{color:#000;text-align:left;}
+			
+			.slide11 .cont_box1 ul{width: 750px; position: absolute; left:188px;}
+			.slide11 .cont_box1 li{width:230px; height:240px; margin:10px 10px 0; background: #fff; font-family: 微软雅黑; font-size: 14px; line-height: 22px; color: #808080; text-align: left;  float: left;}
+			.slide11 .cont_box1 a{color: #808080;}
+			.slide11 .cont_box1 p{margin:10px 10px 0}
+
+#contentA1 .gzA{height:464px; background:url(http://i3.itc.cn/20180226/779_90cd2767_8a58_79d2_b50c_6a1ace1b89b3_1.png) 0 -49px }
+
+.title{padding:30px 0 15px}
+
+.meiti li{ margin:10px;float:left; }
+.meiti li img{ border:1px solid #ccc;}
+
+#contentC2 .turn{ height: auto}		
+		#contentC2 p{color:#959595;	}
+
+.zsj{padding:24px 0 0 400px; height: 516px; width: 600px;margin-top:4px; background: url(http://i1.itc.cn/20180307/779_dc087ac0_1bbd_a4ce_2073_233b14093814_1.png);}
+		.zsj ul{background: #e1e6f0; width: 500px; margin: 0 auto;}
+		.zsj li{ float: left; width:40px; height: 30px; color:#959595;padding:0 5px; text-align: center; font-family:微软雅黑; font-size:14px;margin-top:4px; }
+		.zsj li.now{ color:#e12400;background: #fff;}
+		#turnIDS{width: 560px; height: 480px; background: #fff}		
+		#turnIDS .turn{padding:30px 30px 0;}
+		#turnIDS .turn p{ font-family: 微软雅黑; font-size:14px; color:#999; text-align: left; line-height: 22px;}
+		#turnIDS .box_tit{background:#e1e6f0; height: 34px;line-height: 34px;}
+
+.frag12 .slide12{ height:500px; position:relative; }
+		.slide12 .btn{ position:absolute;width:48px; height:120px;top:180px; cursor:pointer;}
+.slide12 .btn_left2 { left:0;   ;background:url("http://i1.itc.cn/20180228/779_1e04c20b_a2f8_6d28_9443_52d75b5fc363_1.png") no-repeat;}
+.slide12 .btn_right2 { right:0;background:url("http://i3.itc.cn/20180228/779_d8327c9d_e175_f3ff_f7b5_1995a82be4b4_1.png") no-repeat;}
+		
+		.slide12 .cont_box2 { display:none;padding:10px 0 0 100px;}
+</style>
+
+<script type="text/javascript" src="http://js.sohu.com/library/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://tv.sohu.com/upload/swf/showVrsPlayer.js"></script>
+<script type="text/javascript" src="http://news.sohu.com/upload/lianghui2017281/js/base.js"></script>
+<script type="text/javascript">
+var jq = jQuery;
+
+jQuery(function(jq){
+	function changeTab(lis, divs, nums){
+		lis.each(function(i){
+			var els = jq(this);
+			els.mouseover(function(){
+				lis.removeClass("now");
+				divs.stop().hide();
+				jq(this).addClass("now");
+				divs.eq(i).show();
+			});
+		}).eq(nums).mouseover();
+	};
+	function changeTab1(lis, divs, nums){
+		lis.each(function(i){
+			var els = jq(this);
+			els.click(function(){
+				lis.removeClass("now");
+				divs.stop().hide();
+				jq(this).addClass("now");
+				divs.eq(i).show();
+			});
+		}).eq(nums).click();
+	};
+	var divA = jq("#turnIDA");//焦点区
+	changeTab1(divA.find(".menuA li"), divA.find(".turn"), 0);
+	
+	var divB = jq("#turnIDB");//发布会
+	changeTab(divB.find(".menuB li"), divB.find(".turn"), 0);
+
+        var divC = jq("#turnIDC");//头条区
+	changeTab(divC.find(".menuC li"), divC.find(".turn"), 0);
+	
+	var divD = jq("#turnIDD");//政府报告
+	changeTab(divD.find(".menuD li"), divD.find(".turn"), 0);
+var divZ = jq("#turnIDZ");//发布会
+	changeTab(divZ.find(".menuB li"), divZ.find(".turn"), 0);
+
+var divS = jq("#turnIDS");//总书记
+	changeTab(divS.find(".menuS li"), divS.find(".turn"), 0);
+
+
+});
+</script>
+
+
+
+<script>
+
+var frag10index=0;
+var frag11index=0;
+var frag12index=0;
+$(function(){
+
+    //两会常识
+    $("#slide10 li").on("mouseover",function(){
+        var id =$(this).index();
+        frag10index=id;
+        $(this).addClass("cur").siblings().removeClass();
+        $(".cont_box").eq(id).show().siblings().hide();
+        //console.log(frag10index);
+    })
+    $(".slide10 .btn_left").on("click",function(){
+        var id;
+        frag10index ? id=frag10index-1 : id=$("#slide10 li").length-1;
+        $("#slide10 li").eq(id).addClass("cur").siblings().removeClass();
+        $(".cont_box").eq(id).show().siblings().hide();
+        frag10index=id;
+    })
+    $(".slide10 .btn_right").on("click",function(){
+        var id;
+        (frag10index!=$("#slide10 li").length-1) ? id=frag10index+1 : id=0;
+        $("#slide10 li").eq(id).addClass("cur").siblings().removeClass();
+        $(".cont_box").eq(id).show().siblings().hide();
+        frag10index=id;
+    })
+	
+	//两会常识1
+   // $("#slide11 li").on("mouseover",function(){
+   //     var id =$(this).index();
+   //     frag11index=id;
+       // $(this).addClass("cur").siblings().removeClass();
+   //     $(".cont_box1").eq(id).show().siblings().hide();
+        //console.log(frag10index);
+  //  })
+    $(".slide11 .btn_left1").on("click",function(){
+        var id;
+        frag11index ? id=frag11index-1 : id=$("#slide11 li").length-1;
+       // $("#slide11 li").eq(id).addClass("cur").siblings().removeClass();
+        $(".cont_box1").eq(id).show().siblings().hide();
+        frag11index=id;
+    })
+    $(".slide11 .btn_right1").on("click",function(){
+        var id;
+        (frag11index!=$("#slide11 li").length-1) ? id=frag11index+1 : id=0;
+       // $("#slide11 li").eq(id).addClass("cur").siblings().removeClass();
+        $(".cont_box1").eq(id).show().siblings().hide();
+        frag11index=id;
+    })
+
+
+//两会常识2
+    $(".slide12 .btn_left2").on("click",function(){
+        var id;
+        frag12index ? id=frag12index-1 : id=$("#slide12 li").length-1;
+        $(".cont_box2").eq(id).show().siblings().hide();
+        frag12index=id;
+    })
+    $(".slide12 .btn_right2").on("click",function(){
+        var id;
+        (frag12index!=$("#slide12 li").length-1) ? id=frag12index+1 : id=0;
+        $(".cont_box2").eq(id).show().siblings().hide();
+        frag12index=id;
+    })
+   
+    function getJsonp(id) {
+        var h = "http://pic.news.sohu.com/group-" + id + ".js";
+        $.ajax({
+            type: "GET", url: h, dataType: "script", jsonp: "callback", success: function (i) {
+                window.groupData = window.groupData || null;
+                if (window.groupData != null) {
+                    renderDOM(window.groupData.items);
+                }
+            }
+        })
+    }
+
+});
+
+    </script>
+</head>
+
+<body>
+<div data-type="roll" data-appid="1079" id="isohu-topbar"></div>
+
+<link type="text/css" rel="stylesheet" href="http://news.sohu.com/upload/itoolbar/cms/itoolbar.201410281438.css" charset="UTF-8" />
+<script src="http://news.sohu.com/upload/itoolbar/itoolbar.cms.loader.2016010513.js" charset="UTF-8"></script>
+<sohuadcode></sohuadcode>
+<div class="banner area">
+</div>
+<sohuadcode></sohuadcode>
+<div class="nav area" style="position:relative;">
+	<div class="left">
+        <ul>
+            <li><a href="http://tv.sohu.com/s2018/qglh/index.shtml" target="_blank">视频</a></li>
+            
+ <li>|</li>
+
+
+  <li><a href="http://www.sohu.com/a/225760677_161623?g=0" target="_blank">国家换届</a></li>
+
+  <li><a href="http://news.sohu.com/s2018/8277/s532583527/index.shtml" target="_blank">政协领导</a></li>
+           
+        </ul>
+    </div>
+	<div class="right">
+        <ul>
+            <li style="margin-right:0px;"><span></span></li>
+           
+
+
+          
+            <li><a href="http://www.sohu.com/a/225414857_118392?g=0" target="_blank">国务院机构改革</a></li>
+            <li><a href="http://www.sohu.com/a/225380765_148781?g=0" target="_blank">宪法修改</a></li>
+            
+        </ul>
+    </div>
+</div>
+</div>
+
+<style>
+.nav li{ margin:0 6px;}
+.nav li a{ padding:0px 10px;}
+.nav .left{ width:400px;}
+.nav .right{ width:550px;}
+</style>
+
+
+<sohuadcode></sohuadcode>
+
+
+<!-- contentA st -->
+<div id="contentA" class="area">
+	
+	<div class="left">
+		<div class="focus" id="turnIDA">
+    <div class="box_tit">
+        <ul class="menuA" style="background:#b42f15;">
+            <li class="now a">两会视频</li>
+            <li class="b">两会焦点</li>
+            <li class="c">特约赞助</li>
+        </ul>
+    </div>
+
+ <div class="turn">
+   <div class="video mt10" style="background:#b42f15; height:290px; overflow:hidden; padding:35px 0px;">
+	<script type="text/javascript" src="http://tv.sohu.com/upload/swf/showVrsPlayer.js"></script>
+	<script type="text/javascript">showVrsPlayer({vid: '4652953',width:'520',height: '293',autoplay: 'false'});</script>
+
+  </div>
+  </div>
+
+
+
+
+
+
+    <div class="turn">
+        <div class="fpic"><a href="http://www.sohu.com/picture/225924553" target="_blank"><img src="http://i1.itc.cn/20180320/629_56ebecdb_11f7_6b92_2b98_0fda93fc5501_1.jpg" width="520" height="360" /><i></i><h5>国务院总理李克强回答中外记者提问</h5></a></div>
+    </div>
+    <div class="turn">
+    	<div class="fpic"><a href="http://www.ftms.com.cn/vehicles/crown?utm_source=sohu&utm_medium=news1&utm_term=xinxiliu&utm_content=pc&utm_campaign=crown_Y18Q1M3_017&mm_unid=1_14205_5505070f506d5055066b0253006f555e000c&jlogid=0301160658shmljn" target="_blank"><img src="http://i1.itc.cn/20180306/629_ef15a390_65b9_3f79_6ddf_37a27c57dee3_1.jpg" width="520" height="360" /><i></i><h5>向新时代致敬。――CROWN皇冠</h5></a></div>
+    </div>
+</div>
+		<sohuadcode></sohuadcode>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+	</div>
+	<div class="center">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+	</div>
+	<div class="right">
+		<div class="newsC" id="turnIDC" >
+		
+		 <div class="box_titC">
+
+<img src="http://i1.itc.cn/20180301/779_25dd8ca5_d1e9_b7b4_0c10_438fb9015bab_1.jpg">
+<!--
+			<ul class="menuC">
+				<li class="now a"></li>
+				<li class="b" style="display:none"></li>           
+			</ul>
+
+-->
+   		 </div>
+
+</div>		
+		<sohuadcode></sohuadcode>
+		<sohuadcode></sohuadcode>
+		<div class="turn">
+		
+		<h1><a class="" title="" href="http://www.sohu.com/a/225924873_267106" target="_blank"><strong>人大会议闭幕会 习近平发表重要讲话</strong></a></h1>		
+
+		<div class="hot">
+<div></div>
+
+
+
+
+<h3><a class="" title="" href="http://news.sohu.com/s2018/8277/s532861788/index.shtml" target="_blank"><strong>实录：国务院总理李克强答中外记者提问</strong></a></h3>
+
+<p><a class="" title="" href="http://www.sohu.com/a/225922970_162758?g=0" target="_blank">关税| 要较大幅降低进口税率 对抗癌药品力争降到零税率</a></p>
+
+
+<p><a class="" title="" href="http://www.sohu.com/a/225925925_162758?g=0" target="_blank">谈国税地税合并| 站在饭店门槛中间吃 该由哪个部门收税</a></p>
+
+<p><a class="" title="" href="http://www.sohu.com/a/225925586_162758?g=0" target="_blank">半岛| 中方会尽最大努力来推动维护实现半岛无核化</a></p>
+
+
+<p><a class="" title="" href="http://www.sohu.com/a/225926217_162758?g=0" target="_blank">产权| 住宅使用权到期后是否有问题？可延期、不影响交易</a></p>
+
+
+
+
+<p><a class="" title="" href="http://www.sohu.com/a/225928871_162758?g=0" target="_blank">贸易| 中美打贸易战对双方都没有好处 没有赢家</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+		
+
+
+
+
+
+
+
+		<div class="hot">
+<div></div>
+
+<h3><a class="" title="" href="http://www.sohu.com/a/226072866_137462?g=0" target="_blank"><strong>中央要设的新机构，提法与5个月前有不同</strong></a></h3>
+
+
+<p><a class="" title="" href="http://www.sohu.com/a/226066881_357283?g=0" target="_blank">侠客岛：一文清晰读懂党和国家机构改革方案</a></p>
+
+
+<p><a class="" title="" href="http://www.sohu.com/a/225992956_313745?g=0" target="_blank">“两会”落下帷幕 你的生活将发生哪些改变？</a></p>
+
+
+<p><a class="" title="" href="http://www.sohu.com/a/225987712_137462?g=0" target="_blank">新部委挂牌之外的要紧事：完成机构改革总共分几步</a></p>
+
+
+
+
+<p><a class="" title="" href="http://www.sohu.com/a/225980705_313745?g=0" target="_blank">《政府工作报告》共有修改86处 补充重视幼儿教师培养等</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+		</div>
+		<div class="list14"></div>
+		<div class="turn" style="display:none">
+		
+		<h1><a href="http://news.sohu.com/20170316/n483500383.shtml" title="" target="_blank">2习近平总书记2013-2017两会时间全纪</a></h1>		
+
+		<div class="hot">
+<div></div>
+<h3><a href="http://news.sohu.com/20170317/n483635382.shtml" target="_blank"><strong>总理记者会减了啥加了啥？</strong></a> <a href="http://news.sohu.com/20170317/n483635500.shtml" target="_blank"><strong>会上哪个字提33次</strong></a></h3>
+
+
+<p><a href="http://mt.sohu.com/20170315/n483426493.shtml" title="" target="_blank">总理记者会要点都在这里</a> <a href="http://news.sohu.com/20170315/n483432378.shtml" title="" target="_blank">10大妙喻</a> <a href="http://news.sohu.com/20170315/n483459308.shtml" title="" target="_blank">用150多字答房屋产权问题</a></p>
+
+<p><a href="http://news.sohu.com/20170315/n483398773.shtml" title="" target="_blank">为政之要就是要舍小利、顾大义、顺民心</a> <a href="http://news.sohu.com/20170315/n483393163.shtml" title="" target="_blank">| 谈简政放权刀刃向内</a></p>
+
+
+<p><a href="http://news.sohu.com/20170315/n483389503.shtml" title="" target="_blank">6.5%经济增速目标已不低了</a> <a href="http://news.sohu.com/20170315/n483397070.shtml" title="" target="_blank">| 中国经济“硬着陆”论可以休矣</a></p>
+
+
+
+
+
+<p><a href="http://news.sohu.com/20170315/n483406042.shtml" title="" target="_blank">谈治霾：蓝天不会也不应成奢侈品</a> <a href="http://tv.sohu.com/20170315/n483404715.shtml" title="" target="_blank">| 为优质产品点赞 把奸商拉黑</a></p>
+
+
+<p><a href="http://news.sohu.com/20170315/n483407108.shtml" title="" target="_blank">两岸关系严峻？李克强：骨肉同胞血浓于水 终归我们是一家人</a></p>
+<p><a href="http://news.sohu.com/20170315/n483388750.shtml" title="" target="_blank">中美关系风风雨雨一直前行</a> <a href="http://news.sohu.com/20170315/n483393421.shtml" title="" target="_blank">| 朝核：谁也不愿家门口整天闹不停</a></p>
+
+
+</div>
+		<div class="hot">
+<div></div>
+<h3><a href="http://news.sohu.com/20170315/n483382738.shtml" title="" target="_blank"><strong>十二届全国人大五次会议闭幕</strong></a>  <a href="http://news.sohu.com/20170315/n483377960.shtml" title="" target="_blank"><strong>通过民法总则草案</strong></a></h3>
+
+
+
+<p><a href="http://news.sohu.com/20170316/n483489108.shtml" title="" target="_blank">今年政府工作报告共修改78处 都涉及了啥?</a> </p>
+
+<p><a href="http://news.sohu.com/20170316/n483595543.shtml" title="" target="_blank">10位书记省长在京干了几件大事 就在两会闭幕日</a></p>
+
+
+
+
+
+
+
+
+</div>
+		<div class="hot">
+<div></div>
+<h3><a href="http://news.sohu.com/s2017/4912/s483316258/index.shtml" target="_blank"><strong>征文| 王梦恕：高铁节约了整个国家的时间 </strong></a> </h3>
+
+
+
+<p><a href="http://news.sohu.com/s2017/4912/s483134675/index.shtml" title="" target="_blank">戴晓凤：做校园贷的人道德缺失</a> <a href="http://news.sohu.com/s2017/4912/s483293130/index.shtml" title="" target="_blank">黄巧云：学术圈存很多不正之风</a></p>
+
+
+
+
+</div>
+		</div>
+		<div class="list14"></div>
+		
+
+		<div class="list14"></div>
+		
+
+		<div class="list14"></div>
+		
+
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+	</div>
+	
+</div>
+<!-- contentA end -->
+
+
+
+
+
+
+<div id="picCutC" class="picCut area">
+	<div class="header"></div>
+	
+	<div class="pic-group"></div>
+	<div class="footer"></div>
+</div>
+
+<div id="videoCutC" class="videoCut area">
+	<div class="header"></div>
+	
+	<div class="pic-group"></div>
+	<div class="footer"></div>
+</div>
+
+<div id="contentF" class="area">
+	<div class="title">
+		<img alt="" src="http://i2.itc.cn/20180318/629_321239aa_59c6_27ae_1b20_17131bfc209b_1.jpg" />
+	</div>
+    
+<div>
+<iframe width="950" scrolling="no" height="602" frameborder="0" src="http://news.sohu.com/s2018/8277/s532773986/"></iframe>
+</div>
+
+</div>
+<div id="contentF" class="area">
+	<div class="title">
+		<img alt="" src="http://i3.itc.cn/20180314/629_b802faff_d481_1841_899e_4b17c828073d_1.jpg" />
+	</div>
+    
+<div>
+<iframe width="950" scrolling="no" height="602" frameborder="0" src="http://news.sohu.com/s2018/8277/s532583956/index.shtml"></iframe>
+</div>
+
+</div>
+<div id="contentF" class="area">
+	<div class="title">
+		<img alt="" src="http://i3.itc.cn/20180314/629_97a025e4_b2db_a477_b8eb_6a5a274c2aa5_1.jpg" />
+	</div>
+
+<div class="Area fragA">
+  <iframe height=600 src="http://news.sohu.com/s2018/8277/s532582293/index.shtml" frameBorder=0 width=1000 scrolling=no></iframe>
+</div>
+<div class="di_bg"></div>
+
+</div>
+<sohuadcode></sohuadcode>
+<div class="area" id="contentA1">
+
+
+
+
+
+
+
+	<div class="title"><img src="http://i3.itc.cn/20180228/629_d9b075ce_740d_90cd_bd3b_2ab8910a138c_1.jpg" alt="" /></div>
+	
+	<div class="gzbg gzA">
+<div class="turn">
+				<div class="left"> <a href="https://tv.sohu.com/20180311/n600431210.shtml" target="_blank"><img src="http://i2.itc.cn/20180312/629_8ac9861b_d3ac_404e_3e75_6bf1002f8924_1.jpg"></a>
+					<p>3月11日17时30分，全国人大常委会法工委主任沈春耀、全国人大常委会法工委副主任郑淑娜就"宪法修正案"相关问题回答中外记者提问。<a href="https://tv.sohu.com/20180311/n600431210.shtml" target="_blank">"[详细</a>]</p>
+	  </div>
+				
+				
+				<div class="right">
+					<ul>
+						<li> <a href="http://www.sohu.com/a/225322954_428290?g=0" target="_blank"><img src="http://i0.itc.cn/20180228/629_edb20435_1ef6_d5b7_4227_1cc2e999597a_1.jpg"></a>
+						<p><strong>中华人民共和国宪法修正案(全文 )</strong>2018年3月11日第十三届全国人大一次会议通过。<a href="http://www.sohu.com/a/225322954_428290?g=0" target="_blank">[详细</a>]</p>
+					  </li>						
+						<li> <a href="http://www.sohu.com/a/225329864_114731" target="_blank"><img src="http://i1.itc.cn/20180312/629_1781bfce_98b9_39dc_1fea_e173eb4910f5_1.jpg"></a>
+						<p><strong>《中华人民共和国宪法修正案》高票通过 </strong>赞成2958票，反对2票，弃权3票。[<a href="http://www.sohu.com/a/225329864_114731" target="_blank">详细]</a></p>
+					  </li>						
+						<li> <a href="http://www.sohu.com/a/225335233_114731" target="_blank"><img src="http://i1.itc.cn/20180312/629_575fab18_454a_2879_c856_b1f3e83b7aff_1.jpg"></a>
+						<p><strong>人民日报：高票通过体现人心所向 </strong>人心是最大的政治。<a href="http://www.sohu.com/a/225335233_114731" target="_blank">[详细</a>]</p>
+					  </li>						
+						<li> <a href="http://www.sohu.com/a/223916415_162522" target="_blank"><img src="http://i1.itc.cn/20180228/629_99f3b67c_991d_2b4b_afb3_4487f68f8622_1.jpg"></a>
+						<p>国家主席、总理等依法定程序产生后，要进行宪法宣誓。 [<a href="http://www.sohu.com/a/223916415_162522" target="_blank">详细</a>]</p>
+					  </li>
+					</ul>
+				</div>
+	  </div>
+
+        </div>
+	</div>
+
+
+
+
+
+<div class="area" id="contentA1">
+	<div class="title"><img src="http://i0.itc.cn/20180228/629_7c682875_c536_3ee4_0fa1_3ca60fccc334_1.jpg" alt="" /></div>
+	
+	<div class="gzbg gzA">
+<div class="turn">
+				<div class="left"> <a href="http://www.sohu.com/a/225518330_357283" target="_blank"><img src="http://i3.itc.cn/20180228/629_31248f3e_61a5_6217_8859_c1dd011b9e58_1.jpg"></a>
+					<p>作为配套国家监察体制改革的一项立法，监察法被认为是一部对国家监察工作起统领性、基础性作用的法律。形象地说，监察法的意义在于"名正""言顺""事成"。<a href="http://www.sohu.com/a/225518330_357283" target="_blank">"[详细</a>]</p>
+	  </div>
+				
+				
+				<div class="right">
+					<ul>
+                      
+                      	<li> <a href="http://www.sohu.com/a/224818980_428290" target="_blank"><img src="http://i1.itc.cn/20180228/629_fb582e59_f5b9_bd8f_2870_21eb813a1afa_1.jpg"></a>
+						<p><strong>国家监察委员会是什么机构？</strong>国家监察委员会是中国特色的反腐败工作机构。<a href="http://www.sohu.com/a/224818980_428290" target="_blank">[详细</a>]</p>
+					  </li>		
+                      
+                      
+                     	<li> <a href="https://tv.sohu.com/20180227/n600409478.shtml" target="_blank"><img src="http://i3.itc.cn/20180228/629_60bd216b_637c_c80d_0e8c_d97d85a41c0e_1.jpg"></a>
+						<p><strong>监察委都管谁？怎么管？ </strong>监察委员会由下列人员组成：主任，副主任若干人，委员若干人。[<a href="https://tv.sohu.com/20180227/n600409478.shtml" target="_blank">详细</a>]</p>
+					  </li>
+                       
+          
+          
+          <li> <a href="http://www.sohu.com/a/225654484_114988" target="_blank"><img src="http://i1.itc.cn/20180228/629_648e8242_d718_e4f5_10c5_8676f04eaad1_1.jpg"></a>
+						<p><strong>为何要开展监察体制改革</strong> 监察法让反腐更高效，让监督更全面。<a href="http://www.sohu.com/a/225654484_114988" target="_blank">[详细</a>]</p>
+					  </li>		            
+                      
+                      				
+						<li> <a href="http://www.sohu.com/a/222493634_119562" target="_blank"><img src="http://i1.itc.cn/20180228/629_09160dbc_d4cb_ace4_2fb0_2421c519cac5_1.jpg"></a>
+						<p><strong>四项"反腐红利"</strong> 内部机构设置更合理有效规避"内鬼"风险。[<a href="http://www.sohu.com/a/222493634_119562" target="_blank">详细]</a></p>
+					  </li>	
+                      
+                      					
+					
+                      
+                      
+                      				
+					
+					</ul>
+				</div>
+	  </div>
+
+        </div>
+	</div>
+<div id="contentC3" class="area">
+    <div class="title"><img src="http://i0.itc.cn/20180307/779_a3350e83_7fb9_0dbe_4eb7_03a6c21bde4c_1.png"></div>
+	<div class="zsj">
+		<div id="turnIDS">
+        <div class="box_tit">
+            <ul class="menuS">
+                <li class="now">4日</li>                   
+                 <li>5日</li>
+                 <li>7日</li>
+                <li>8日</li>
+                <li>10日</li>
+                <li>12日</li>
+                
+            </ul>
+        </div>
+
+
+
+<div class="turn"> <a href="http://www.sohu.com/a/224882201_162758" target="_blank"><img src="http://i0.itc.cn/20180307/629_23446a48_1579_1717_20d8_7ef317ff1256_1.jpg"></a>   
+	<p><a href="http://www.sohu.com/a/224881579_119778" target="_blank"><strong>习近平两会"下团组" 为何首选这个界别？</strong></a> 2018年3月4日下午3点，习近平到驻地参加了全国政协十三届一次会议民盟、致公党、无党派、侨联界委员的联组会。这是习近平今年两会第一次"下团组"，也实现了十八大以来他参加各民主党派和无党派人士联组会的全覆盖。<a href="http://www.sohu.com/a/224882201_162758" target="_blank">[详细]</a></p>
+</div>
+			
+			<div class="turn"> <a href="http://www.sohu.com/a/224910578_267106" target="_blank"><img src="http://i2.itc.cn/20180307/629_928564e5_33f8_d486_6ffe_ef57fc3230fb_1.jpg"></a>   
+	<p><strong>习近平代表来到内蒙古团！讲述了一个用心良苦的选择</strong> 5日下午，中共中央总书记、国家主席、中央军委主席习近平来到他所在的十三届全国人大一次会议内蒙古代表团参加审议。<a href="http://www.sohu.com/a/224910578_267106" target="_blank">[详细]</a></p>
+</div>
+			
+		
+    <div class="turn"> <a href="http://www.sohu.com/a/225086903_117503" target="_blank"><img src="http://i0.itc.cn/20180308/629_06828450_bc42_ea4b_f2ab_7c2eb7400b8b_1.jpg"></a>   
+	<p>3月7日，中共中央总书记、国家主席、中央军委主席习近平参加十三届全国人大一次会议广东代表团的审议。习近平强调，发展是第一要务，人才是第一资源，创新是第一动力。<a href="http://www.sohu.com/a/225086903_117503" target="_blank">[详细]</a></p>
+</div>    
+        
+        
+        
+    <div class="turn"> <a href="http://www.sohu.com/a/225154489_123753" target="_blank"><img src="http://i2.itc.cn/20180309/629_d8d0d963_b753_0565_077e_b224a4b4a976_1.jpg"></a>   
+	<p>3月8日上午，习近平参加山东代表团审议，习近平代表党中央，向妇女代表、委员及全国各族各界妇女同胞，致以节日的祝贺和诚挚的祝福。<a href="http://www.sohu.com/a/225154489_123753" target="_blank">[详细]</a></p>
+</div>         
+       
+
+
+
+
+ <div class="turn"> <a href="http://www.sohu.com/a/225288822_114988" target="_blank"><img src="http://i0.itc.cn/20180311/629_04768045_3b4b_bb73_c5c0_1c7415b6e189_1.jpg"></a>   
+	<p>3月10日，中共中央总书记、国家主席、中央军委主席习近平参加十三届全国人大一次会议重庆代表团的审议。习近平强调，政治生态同自然生态一样，稍不注意就容易受到污染，一旦出现问题再想恢复就要付出很大代价。<a href="http://www.sohu.com/a/225288822_114988" target="_blank">[详细][<a href="http://www.sohu.com/a/225314181_267106" target="_blank">习近平为领导干部讲授"政德"课 </a>]</a></p>
+</div>  
+
+
+
+
+
+<div class="turn"> <a href="http://www.sohu.com/a/225494502_123753" target="_blank"><img src="http://i3.itc.cn/20180314/629_089bf7db_932a_08cc_790a_963196bd2960_1.jpg"></a>   
+	<p>3月12日上午，中共中央总书记、国家主席、中央军委主席习近平出席十三届全国人大一次会议解放军和武警部队代表团全体会议。<a href="http://www.sohu.com/a/225494502_123753" target="_blank">[详细]</a></p>
+</div>
+ 
+   
+        </div>
+	
+	</div>
+</div>
+<div class="area">
+	<div class="title"><img src="http://i3.itc.cn/20180320/629_6366e578_3cce_ca09_16f1_b0b9e40bb27e_1.jpg" alt="" /></div>
+		<div class="zljzh">
+			<div class="videoA">
+				<script type="text/javascript" src="http://news.sohu.com/upload/showVrsPlayer1.js"></script>
+				<script type="text/javascript">showVrsPlayer1({vid: '4652953',width:'640',height: '480',autoplay: 'false'});</script>
+			</div>
+			
+			<ul>
+            
+         
+            
+            
+            
+				<li>
+					<a href="http://www.sohu.com/picture/225924553"target="_blank">									
+						<img src="http://i2.itc.cn/20180320/629_9630a78c_8840_4738_9184_048f238addd0_1.jpg"></a>
+                                           <p><a href="http://www.sohu.com/picture/225924553" target="_blank">现场：李克强步入金色大厅</a></p>						
+					</a>
+				</li>
+				
+                
+                
+                
+				<li>
+					<a href="http://www.sohu.com/a/225937207_313745"target="_blank">									
+						<img src="http://i3.itc.cn/20180320/629_171e66ae_c764_3d0e_7556_970189b20fe4_1.jpg"></a>
+                                           <p><a href="http://www.sohu.com/picture/225924553" target="_blank">干货！16句话速读李克强总理记者会</a></p>						
+					</a>
+				</li>
+				
+                
+
+				
+				<li>
+					<a href="http://tv.sohu.com/20180320/n600446032.shtml"target="_blank">									
+						<img src="http://i2.itc.cn/20180320/629_f07d1de0_c5ed_dd74_1618_73f5f73da155_1.jpg"></a>
+                                           <p><a href="http://tv.sohu.com/20180320/n600446032.shtml" target="_blank">李克强：中美打"贸易战"没有赢家</a></p>						
+					</a>
+				</li>
+				
+                
+
+
+				
+				<li>
+					<a href="http://tv.sohu.com/20180320/n600446120.shtml"target="_blank">									
+						<img src="http://i0.itc.cn/20180320/629_acf061c9_d37b_0058_d2a5_fccd0bbed2a2_1.jpg"></a>
+                                           <p><a href="http://tv.sohu.com/20180320/n600446120.shtml" target="_blank">李克强：保证养老金足额发放 按时领取</a></p>						
+					</a>
+				</li>
+				
+                
+				
+			</ul>
+			
+			 
+			 </div>
+	</div>
+
+
+
+
+
+
+
+
+
+<div class="area" id="contentA1">
+	<div class="title"><img src="http://i3.itc.cn/20180226/779_1d7c44c0_d1c4_c153_1bcc_74b9c9126701_1.png" alt="" /></div>
+	
+	<div class="gzbg" id="turnIDD">
+        <div class="box_tit">
+            <ul class="menuD">				 
+                <li class="now">政府工作报告</li>
+                <li class="now">全国人大报告</li>
+                <li class="now">全国政协报告</li>
+                 <li class="now">最高法</li>
+                 <li class="now">最高检</li>
+               
+                           
+            </ul>
+        </div>
+
+			<div class="turn">
+				<div class="left"> <a href="https://tv.sohu.com/20180305/n600418355.shtml" target="_blank"><img src="http://i3.itc.cn/20180306/629_1f7ec5e6_6c2a_7f3b_99a5_a9a2d15e4873_1.jpg"></a>
+					<p>3月5日上午十三届人大一次会议开幕，李克强作政府工作报告。<a href="https://tv.sohu.com/20180305/n600418355.shtml" target="_blank">[视频全程</a>]</p>
+				</div>
+				
+				
+				<div class="right">
+					<ul>
+						<li> <a href="http://www.sohu.com/a/224925272_162758" target="_blank"><img src="http://i2.itc.cn/20180306/629_9ef14a82_24a8_dfcd_c3ae_e75182cba748_1.jpg"></a>
+						<p>2018政府工作报告：总理向你许下这些承诺。<a href="http://www.sohu.com/a/224925272_162758" target="_blank">[详细</a>]</p>
+					  </li>						
+						<li> <a href="http://www.sohu.com/a/224924686_158052" target="_blank"><img src="http://i2.itc.cn/20180306/629_032ea201_56a5_9463_aa19_b4066a09fa2f_1.jpg"></a>
+						<p>直面民生热点、焦点、难点 政府工作报告十大亮点解读。<a href="http://www.sohu.com/a/224924686_158052" target="_blank">[详细</a>]</p>
+						</li>						
+						<li> <a href="http://www.sohu.com/a/224922875_115479" target="_blank"><img src="http://i3.itc.cn/20180306/629_dac0caed_c5c0_b762_7300_2e674aa1b228_1.jpg"></a>
+						<p>政府工作报告起草组成员都有谁？主要以国务院研究室为主。<a href="http://www.sohu.com/a/224922875_115479" target="_blank">[详细]</a></p>
+						</li>						
+						<li> <a href="http://www.sohu.com/a/224923352_123753" target="_blank"><img src="http://i0.itc.cn/20180306/629_09a93fd7_b3e6_fb74_077b_4cfaebe2fbc6_1.jpg"></a>
+						<p>观察：政府工作报告既是成绩单，也是动员令。<a href="http://www.sohu.com/a/224923352_123753" target="_blank"> [详细]</a></p>
+						</li>
+					</ul>
+				</div>
+			</div>
+            
+		
+
+
+
+
+<div class="turn">
+				<div class="left"> <a href="https://tv.sohu.com/20180311/n600431162.shtml" target="_blank"><img src="http://i0.itc.cn/20180312/629_9185643d_18e7_b26f_a9fc_e8a2fefc8e22_1.jpg"></a>
+					<p>3月11日下午，张德江向大会作全国人大常委会工作报告。<a href="https://tv.sohu.com/20180305/n600418355.shtml" target="_blank">[视频全程</a>]</p>
+				</div>
+				
+				
+				<div class="right">
+					<ul>
+						<li> <a href="http://www.sohu.com/a/225310237_114988?g=0" target="_blank"><img src="http://i3.itc.cn/20180312/629_2737b31e_712f_5013_f6dd_319d1c78137e_1.jpg"></a>
+						<p>报告谈到今后一年工作时提出，研究制定房地产税法。<a href="http://www.sohu.com/a/225310237_114988?g=0" target="_blank">[详细</a>]</p>
+					  </li>						
+						<li> <a href="http://www.sohu.com/a/225328516_114731" target="_blank"><img src="http://i0.itc.cn/20180312/629_dc4bc8c1_ef08_ff40_2c55_2e2573fdfb6f_1.jpg"></a>
+						<p>张德江作全国人大常委会工作报告，今年将修改公务员法。<a href="http://www.sohu.com/a/225328516_114731" target="_blank">[详细</a>]</p>
+						</li>						
+						<li> <a href="http://www.sohu.com/a/225313854_114731" target="_blank"><img src="http://i0.itc.cn/20180312/629_2c2243bd_0bb3_d371_f0a2_348259c01d4b_1.jpg"></a>
+						<p>张德江：争取到2020年形成统一的民法典。<a href="http://www.sohu.com/a/225313854_114731" target="_blank">[详细]</a></p>
+						</li>						
+						<li> <a href="http://www.sohu.com/a/225309747_162522" target="_blank"><img src="http://i1.itc.cn/20180312/629_475a7b98_7ad6_38d6_b958_ade3f4efe88b_1.jpg"></a>
+						<p>深刻汲取辽宁拉票贿选案、湖南衡阳破坏选举案教训。<a href="http://www.sohu.com/a/224923352_123753" target="_blank"> [详细]</a></p>
+						</li>
+					</ul>
+				</div>
+	  </div>
+      
+      
+      
+      
+<div class="turn">
+				<div class="left"> <a href="https://tv.sohu.com/20180303/n600416555.shtml" target="_blank"><img src="http://i0.itc.cn/20180316/629_48997157_c4a8_99ad_43c7_d1782ad89d8d_1.jpg"></a>
+					<p>全国政协十三届一次会议3月3日15时在北京人民大会堂开幕。<a href="https://tv.sohu.com/20180303/n600416555.shtml" target="_blank">[视频全程</a>]</p>
+				</div>
+				
+				
+				<div class="right">
+					<ul>
+						<li> <a href="http://www.sohu.com/a/224787887_114731?g=0" target="_blank"><img src="http://i2.itc.cn/20180316/629_ba4beba0_c2ee_8eaf_09a3_a11b486dc380_4.jpg"></a>
+						<p>俞正声：共收到提案2.9万件立案2.4万件 办复率99%<a href="http://www.sohu.com/a/224787887_114731?g=0" target="_blank">[详细</a>]</p>
+					  </li>						
+						<li> <a href="http://www.sohu.com/a/224785128_313745" target="_blank"><img src="http://i2.itc.cn/20180316/629_ba4beba0_c2ee_8eaf_09a3_a11b486dc380_3.jpg"></a>
+						<p>依章程撤销令计划、苏荣等38人全国政协委员资格。<a href="http://www.sohu.com/a/224785128_313745" target="_blank">[详细</a>]</p>
+						</li>						
+						<li> <a href="http://www.sohu.com/a/224785251_114731" target="_blank"><img src="http://i2.itc.cn/20180316/629_ba4beba0_c2ee_8eaf_09a3_a11b486dc380_2.jpg"></a>
+						<p>视察调研的监督性议题由2015年12项发展到2017年20项。<a href="http://www.sohu.com/a/224785251_114731" target="_blank">[详细]</a></p>
+						</li>						
+						<li> <a href="http://www.sohu.com/a/224803606_117503" target="_blank"><img src="http://i2.itc.cn/20180316/629_7f41b9e2_7fd9_45e3_a011_968c6c1a9e62_1.jpg"></a>
+						<p>俞正声:人民政协牢牢把握正确的政治方向。<a href="http://www.sohu.com/a/224803606_117503" target="_blank"> [详细]</a></p>
+						</li>
+					</ul>
+				</div>
+	  </div>
+            
+      
+      
+      
+      
+      <div class="turn">
+				<div class="left"> <a href="https://tv.sohu.com/20180310/n600430350.shtml" target="_blank"><img src="http://i0.itc.cn/20180312/629_f4f9395d_039a_92f0_5848_29e9e8d6fde0_1.jpg"></a>
+					<p>五分钟读懂最高法工作报告。<a href="https://tv.sohu.com/20180310/n600430350.shtml" target="_blank">[视频全程</a>]</p>
+				</div>
+				
+				
+				<div class="right">
+					<ul>
+						<li> <a href="http://www.sohu.com/a/225240915_99976719?g=0" target="_blank"><img src="http://i0.itc.cn/20180312/629_f2de2e4d_8195_592a_8eed_1216e97617ee_1.jpg"></a>
+						<p>报告提到20多个重大案件，创最高法工作报告案件数量之最。<a href="http://www.sohu.com/a/225240915_99976719?g=0" target="_blank">[详细</a>]</p>
+					  </li>						
+						<li> <a href="http://www.sohu.com/a/225223763_275786" target="_blank"><img src="http://i3.itc.cn/20180312/629_d3de607f_d9ed_b94f_8952_6028532984cd_1.jpg"></a>
+						<p>周强：5年101只"大老虎"因贪腐获刑，厅局级干部810人。<a href="http://www.sohu.com/a/225223763_275786" target="_blank">[详细</a>]</p>
+						</li>						
+						<li> <a href="http://www.sohu.com/a/225219706_114731" target="_blank"><img src="http://i1.itc.cn/20180312/629_3db9be7e_d4f3_aa29_dbfa_49a0ab4a7ed1_1.jpg"></a>
+						<p>周强：5年来依法纠正重大冤错案件39件78人。<a href="http://www.sohu.com/a/225219706_114731" target="_blank">[详细]</a></p>
+						</li>						
+						<li> <a href="http://www.sohu.com/a/225215645_119038" target="_blank"><img src="http://i3.itc.cn/20180312/629_cb032dcb_7386_106c_cd87_0ba19523e9e9_1.jpg"></a>
+						<p>周强：85名法官因公牺牲，用生命捍卫公平正义。<a href="http://www.sohu.com/a/225215645_119038" target="_blank"> [详细]</a></p>
+						</li>
+					</ul>
+				</div>
+	  </div>
+      
+      
+      
+   
+   
+   
+    <div class="turn">
+				<div class="left"> <a href="https://tv.sohu.com/20180310/n600430354.shtml" target="_blank"><img src="http://i0.itc.cn/20180312/629_e92b8f56_7c15_bb75_4c86_e060645c282a_1.jpg"></a>
+					<p>五分钟读懂最高检工作报告。<a href="https://tv.sohu.com/20180310/n600430354.shtml" target="_blank">[视频全程</a>]</p>
+				</div>
+				
+				
+				<div class="right">
+					<ul>
+						<li> <a href="http://www.sohu.com/a/225220087_123753?g=0" target="_blank"><img src="http://i3.itc.cn/20180312/629_0d56950c_b45a_046c_a950_8e4685562cb9_1.jpg"></a>
+						<p>曹建明：两年来共起诉电信网络诈骗犯罪5.1万人。<a href="http://www.sohu.com/a/225220087_123753?g=0" target="_blank">[详细</a>]</p>
+					  </li>						
+						<li> <a href="http://www.sohu.com/a/225221150_161795" target="_blank"><img src="http://i0.itc.cn/20180312/629_91891730_8169_1118_0dc1_eef7ec644efe_1.jpg"></a>
+						<p>立案侦查职务犯罪254419人 较前五年升16.4%。<a href="http://www.sohu.com/a/225221150_161795" target="_blank">[详细</a>]</p>
+						</li>						
+						<li> <a href="http://www.sohu.com/a/225232992_260616" target="_blank"><img src="http://i3.itc.cn/20180312/629_8c6b8610_7b11_2337_6495_abcc918ac1a5_1.jpg"></a>
+						<p>立案侦查充当黑恶势力保护伞国家工作人员333人。<a href="http://www.sohu.com/a/225232992_260616" target="_blank">[详细]</a></p>
+						</li>						
+						<li> <a href="http://www.sohu.com/a/225220419_123753" target="_blank"><img src="http://i3.itc.cn/20180312/629_b3a1a784_7090_b75c_3939_914ac4b3cf1f_1.jpg"></a>
+						<p>2016年以来起诉侵害在校学生的暴力犯罪1万余人。<a href="http://www.sohu.com/a/225220419_123753" target="_blank"> [详细]</a></p>
+						</li>
+					</ul>
+				</div>
+	  </div>
+      
+      
+        </div>
+	</div>
+
+<!-- contentB st -->
+<div id="contentB" class="area">
+	
+
+	<div class="left">
+		
+
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+	</div>
+	<div class="center">
+		
+		<sohuadcode></sohuadcode>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+	</div>
+	<div class="right">
+		
+
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+	</div>
+	
+</div>
+<!-- contentB end -->
+
+<div id="contentC2" class="area">
+    <div class="title"><img src="http://i2.itc.cn/20180307/629_919e1473_da2b_5df9_c5ad_d6c4ca0e9274_1.jpg"></div>
+    <div class="fbh" id="turnIDZ">
+        <div class="box_tit">
+            <ul class="menuB">
+                <li class="now">发改委</li>
+                   
+                    <li>财政部</li>
+                   <li>农业部</li>
+                   <li>扶贫办</li>
+                   <li>外交部</li>
+                   <li>央行</li>
+                   <li>科技部</li>
+                   <li>商务部</li>
+                   <li>教育部</li>
+                   <li>环保部</li>
+                  
+               
+            </ul>
+        </div>
+
+
+
+<div class="turn">
+            <div class="l"><a href="https://tv.sohu.com/20180306/n600420433.shtml" target="_blank"><img src="http://i0.itc.cn/20180307/629_f8d62045_8236_63c7_63e4_7e6b56900071_1.png" width="520" height="360"></a></div>
+            <div class="r">
+                <h4><a href="http://www.sohu.com/a/224943857_123753" target="_blank">发改委：相当于人均GDP增量达到900美金左右</a></h4>
+                <p>2017年年终算帐的结果，我们国内生产总值达到了82.7万亿人民币。按照去年12月31日的汇率计算，相当于12.2多万亿美元，比世界第一大经济体的美国还差7万多亿美元，但是比排名第三的日本，我们也多了7万多亿美元。所以，我们还居于世界第二大经济体，这是非常不容易的。特别是增长幅度达到了6.9%，增量达到了8.35万亿元人民币，按照去年12月31日的汇率计算，相当于1.27万亿美元。相当于人均GDP增量达到900美金左右。 [<a href="http://www.sohu.com/a/224943857_123753" target="_blank">详细</a>]</p>
+            </div>
+        </div>
+
+
+
+
+
+<div class="turn">
+            <div class="l"><a href="https://tv.sohu.com/20180307/n600423066.shtml" target="_blank"><img src="http://i1.itc.cn/20180307/629_d7a51c94_5aa0_1677_0fe7_7f451840feca_1.jpg" width="520" height="360"></a></div>
+            <div class="r">
+                <h4><a href="http://www.sohu.com/a/225022221_123753" target="_blank">财政部：这次个人所得税改革有两大内涵</a></h4>
+                <p>史耀斌副部长：从政府工作报告中我们就可以看出来，这一次的个人所得税改革至少有两大内涵值得我们关注，也是我们大家都非常关切的。一个是提高起征点，怎么样提高起征点，刚才您提到提高到什么程度，我们会根据居民的基本生活消费水平的变化来确定，并且提出一个提高起征点的建议，一个政策性的建议。这是第一个内涵。第二个内涵，我认为更是前所未有的，这次个人所得税改革增加了专项扣除，而且李克强总理在政府工作报告里提出首先选择的重点就是子女教育、大病医疗，老百姓最急需最关切的。当然，我们还会根据实际的情况来最后具体确定专项扣除项目的规模和数目。[<a href="http://www.sohu.com/a/225022221_123753" target="_blank">详细</a>]</p>
+            </div>
+        </div>
+
+
+
+<div class="turn">
+            <div class="l"><a href="https://tv.sohu.com/20180307/n600423168.shtml" target="_blank"><img src="http://i1.itc.cn/20180307/629_64dc7d9f_93af_f424_124b_90d1d1f0a1dd_1.jpg" width="520" height="360"></a></div>
+            <div class="r">
+                <h4><a href="http://www.sohu.com/a/225032293_114988" target="_blank">农业部：政策上不允许城里人到农村买宅基地</a></h4>
+                <p>韩长赋解释，宅基地是属于农村集体所有的，只有具有农村集体经济组织成员身份才能依法依规取得本集体经济组织宅基地的使用权，这是集体经济组织成员特有的权利，而且原则上是一户一宅。农村宅基地将怎样进行改革，如何解决农房闲置问题，韩长赋说，未来，将完善农民闲置宅基地和闲置农房政策，探索宅基地所有权、资格权、使用权三权分置。[<a href="http://www.sohu.com/a/225032293_114988" target="_blank">详细</a>]</p>
+            </div>
+        </div>
+
+
+
+
+
+<div class="turn">
+            <div class="l"><a href="https://tv.sohu.com/20180307/n600424400.shtml" target="_blank"><img src="http://i1.itc.cn/20180308/629_df9873aa_7554_112d_6f8b_607f198c3522_1.jpg" width="520" height="360"></a></div>
+            <div class="r">
+                <h4><a href="http://www.sohu.com/a/225056543_161795" target="_blank">为何7.3亿扶贫资金被冒领挪用？扶贫办主任答问</a></h4>
+                <p>国务院扶贫办主任刘永富：我们现在正在部署，在全国范围内进一步完善县级脱贫攻坚项目库，扶贫需要做哪些事情，需要花多少钱，先把项目编制出来，让项目等钱，不要让钱等项目，解决地方不会干、不敢干的问题。即使是这样，还是会有胆大妄为的，没有关系，我们发现一起查处一起，绝不能让他们得到一丁点好处。扶贫的钱是不能乱花的，要让他付出代价，这一点也请大家支持，也请大家加强监督。[<a href="http://www.sohu.com/a/225056543_161795" target="_blank">详细</a>]</p>
+            </div>
+        </div>
+
+
+
+<div class="turn">
+            <div class="l"><a href="https://tv.sohu.com/20180308/n600426890.shtml" target="_blank"><img src="http://i1.itc.cn/20180308/629_75a0c6ed_b331_c84e_ad06_7eb55057f05e_1.jpg" width="520" height="360"></a></div>
+            <div class="r">
+                <h4><a href="http://www.sohu.com/a/225103775_114988" target="_blank">2018中国外交亮点为四大主场外交活动</a></h4>
+                <p>王毅表示，2018年四大主场外交包括4月在海南举行的博鳌亚洲论坛年会、6月在青岛举行的上海合作组织峰会、9月在北京举行的中非合作论坛峰会和12月在上海首次举行的中国国际进口博览会。2018年中国外交的大幕已经拉开，新时代的中国外交将为中国自身发展营造更好外部环境，也为人类进步事业提供更多正能量。[<a href="http://www.sohu.com/a/225103775_114988" target="_blank">详细</a>]</p>
+            </div>
+        </div>
+
+
+
+
+<div class="turn">
+            <div class="l"><a href="https://tv.sohu.com/20180309/n600429254.shtml" target="_blank"><img src="http://i3.itc.cn/20180309/629_d42fa806_929b_3413_b1d1_3814d1fa0cdb_1.jpg" width="520" height="360"></a></div>
+            <div class="r">
+                <h4><a href="http://www.sohu.com/a/225186601_260616" target="_blank">央行：将督促商业银行实行房贷差别化定价</a></h4>
+                <p>中国人民银行副行长、国家外汇管理局局长潘功胜：关于住房贷款，有媒体说，2017年全国的住房贷款增长了4万亿，增长率是22%，整体贷款增长12.7%。今年1月份个人住房贷款增长21.4%，整体增长13.2%。个人住房贷款虽然有所减少，但是仍是较快的增长。个别的银行由于资产负债方面匹配的问题，放款时间有所延长的情况是有可能的。房贷利率有所上升，仍然处于较低的水平。负债端的利率上升和房地产的溢价，对住房贷款扩大利率浮动的区间，总体符合利率市场化的趋势，人民银行会督促商业银行实行差别化定价。[<a href="http://www.sohu.com/a/225186601_260616" target="_blank">详细</a>]</p>
+            </div>
+        </div>
+
+
+
+
+
+
+
+<div class="turn">
+            <div class="l"><a href="https://tv.sohu.com/20180310/n600430358.shtml" target="_blank"><img src="http://i2.itc.cn/20180310/629_81c37265_ea6e_1bbb_50ea_85a5cbf8b39e_1.jpg" width="520" height="360"></a></div>
+            <div class="r">
+                <h4><a href="http://www.sohu.com/a/225260593_123753" target="_blank">万钢：人工智能项目指南和细则马上就要发布</a></h4>
+                <p>科技部部长万钢：第一，夯实人工智能发展的科学基础。加快实施新一代人工智能科学基础的关键技术系统集成研发，使那些研发成果尽快能够进入到开放平台，在开放使用中再一次把它增强完善。马上就要发布人工智能项目指南和细则，来突破基础前沿理论关键部分的技术。第二，加快人工智能创新成果的转化应用。推动人工智能应用到我们产业发展中去，应用到我们社会生活各方面去，解决人们所关心的安全问题、健康问题、环保问题等方面。[<a href="http://www.sohu.com/a/225260593_123753" target="_blank">详细</a>]</p>
+            </div>
+        </div>
+
+
+
+
+
+<div class="turn">
+            <div class="l"><a href="http://tv.sohu.com/20180311/n600431020.shtml" target="_blank"><img src="http://i2.itc.cn/20180311/629_f8b384e7_26d3_fd45_a574_b7250aec0836_1.jpg" width="520" height="360"></a></div>
+            <div class="r">
+                <h4><a href="http://www.sohu.com/a/225301705_313745" target="_blank">钟山：中国不希望打贸易战 中美对话没有中断</a></h4>
+                <p>中国商务部部长钟山在十三届全国人大一次会议新闻发布会上说：“中国不希望打贸易战，也不会主动发起贸易战，但是我们能够应对任何挑战，坚决捍卫国家和人民的利益。” 钟山指出，中美贸易统计是存在差异的。中国和美国统计工作组每年就中美贸易统计差异进行一次比较研究，根据这个工作组的测算，美国官方统计的对华贸易逆差每年都被高估了20%左右。[<a href="http://www.sohu.com/a/225301705_313745" target="_blank">详细</a>]</p>
+            </div>
+        </div>
+
+
+
+
+
+<div class="turn">
+            <div class="l"><a href="http://tv.sohu.com/20180316/n600440609.shtml" target="_blank"><img src="http://i1.itc.cn/20180316/629_e61b20f0_ec04_3ec7_203f_6e8f3bb9ce61_1.jpg" width="520" height="360"></a></div>
+            <div class="r">
+                <h4><a href="http://www.sohu.com/a/225675151_162758" target="_blank">批培训机构：鸡汤喝得众人醉 错把忽悠当翡翠</a></h4>
+                <p>教育部部长陈宝生：我们全社会都要提高自己的教育素养，不要盲目追求那些成功学，那些培训机构炫耀的培训成绩单、广告、广告词，很多都是鸡汤加忽悠。鸡汤喝得众人醉，错把忽悠当翡翠，这是不行的，不听忠告听忽悠，负担增加人人愁。所以，我们要改变这种状况，要提高教育素养，不要听信那些似是而非的理念，要按照教育规律办事，按照学生身心发展规律来办事，让他们健康成长。[<a href="http://www.sohu.com/a/225675151_162758" target="_blank">详细</a>]</p>
+            </div>
+        </div>
+
+
+
+<div class="turn">
+            <div class="l"><a href="https://tv.sohu.com/20180317/n600442280.shtml" target="_blank"><img src="http://i2.itc.cn/20180321/629_830987bd_4092_1e21_369a_20bafcb8338f_1.jpg" width="520" height="360"></a></div>
+            <div class="r">
+                <h4><a href="http://www.sohu.com/a/225777333_362042" target="_blank">李干杰：生态环境部将实现“五个打通”</a></h4>
+                <p>环保部部长李干杰：我总结一下，有“五个打通”，把原来分散的污染防治和生态保护职责统一起来：第一是打通了地上和地下，第二是打通了岸上和水里，第三是打通了陆地和海洋，第四是打通了城市和农村，第五是打通了一氧化碳和二氧化碳，也就是统一了大气污染防治和气候变化应对。所以，从这个意义上来讲，新的生态环境部不仅仅只保留了环境保护部的职责，还有比较大的变化。[<a href="http://www.sohu.com/a/225777333_362042" target="_blank">详细</a>]</p>
+            </div>
+        </div>
+
+    </div>
+    </div>
+<div class="frag10 mt10 area">
+		<div class="title"><img src="http://i1.itc.cn/20180305/629_f00d13bb_1686_4a3c_af09_075236e4daaf_1.jpg" alt="" /></div>
+    <div class="slide11">
+        <div class="btn btn_left1"></div>
+        <div class="btn btn_right1"></div>
+        
+
+
+      <div class="slide11_cont">
+
+
+<div class="cont_box1" style="display:block">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225850626_267106" target="_blank"><img src="http://i2.itc.cn/20180321/629_bccf9461_8d1d_c711_f5a2_6012bbdffb15_1.jpg">
+						<p>[第五场部长通道]  国家邮政局局长马军胜：今年将实现寄递实名制全覆盖。切实保护寄递用户合法权益。</p>
+						</a>
+					</li>
+                    
+                    
+                    
+					<li>
+					<a href="http://www.sohu.com/a/225845206_114988" target="_blank"><img src="http://i0.itc.cn/20180321/629_accf43e0_df10_99a1_e192_4e6b606474d0_1.jpg">
+						<p>国家体育总局局长苟仲文：对于北京冬奥会将争取全项目参赛，也就是102个项目，中国体育健儿都要取得资格。</p>
+						</a>
+					</li>
+                    
+                    
+                    
+                    
+					<li>
+					<a href="http://www.sohu.com/a/225844435_123753" target="_blank"><img src="http://i2.itc.cn/20180321/629_5e947037_404a_8f0c_6085_a9344a9460e3_1.jpg">
+						<p>国务院残疾人工作委员会副主任鲁勇：还有24万左右残疾儿童没完全解决好义务教育问题。原因是重度占80%，家住在农村占80%。</p>
+						</a>
+					</li>
+                    
+                    
+                    
+                    
+					<li>
+					<a href="http://www.sohu.com/a/225863341_362042" target="_blank"><img src="http://i2.itc.cn/20180321/629_f60db99e_be95_5045_a254_949728f205db_1.jpg">
+						<p>生态环境部部长李干杰：煤改气、煤改电对雾霾治理贡献大，但主要针对农村居民家里的散烧煤，不是工业用煤。</p>
+						</a>
+					</li>
+                    
+                    
+                    
+					<li>
+					<a href="http://www.sohu.com/a/225916926_362042" target="_blank"><img src="http://i0.itc.cn/20180321/629_75a58f1a_8c1b_56b5_2e70_51b8fd8b74a2_1.jpg">
+						<p>住建部部长王蒙徽：当前，房价过快上涨势头得到有效抑制，房地产市场预期出现积极变化。</p>
+						</a>
+					</li>
+                    
+                    
+                    
+					<li>
+					<a href="http://www.sohu.com/a/225910249_114731" target="_blank"><img src="http://i1.itc.cn/20180321/629_9b4020fe_66b1_7c9d_2871_930b18c5763c_1.jpg">
+						<p>审计署审计长胡泽君：对贫困地区实现审计全覆盖，严肃揭示挪用滥用扶贫资金、弄虚作假等问题，促进追责问责。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225446521_362042" target="_blank"><img src="http://i1.itc.cn/20180313/629_b0518264_c917_9b57_df91_44cb02a72701_1.jpg">
+						<p>[第四场部长通道] 国家税务总局局长王军：今年政府工作报告中31处提到税收，今年推进的税收改革和减税举措18项。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225436183_123753" target="_blank"><img src="http://i0.itc.cn/20180313/629_fc1fd06f_d5cd_2d47_3751_bf7e396903dd_1.jpg">
+						<p>国务院国资委主任肖亚庆：从总量和结构看，民营企业占比越来越多，两个毫不动摇是我们的基础。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225450825_161795" target="_blank"><img src="http://i0.itc.cn/20180313/629_afe0632f_0fb2_2de0_1245_3d9c9e6a7f03_1.jpg">
+						<p>文化部部长雒树刚：这些年我们积极地组织文化遗产"活起来"的工作，首先是让人民群众零门槛、无障碍地接触到文化遗产。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225442183_260616" target="_blank"><img src="http://i1.itc.cn/20180313/629_8b6d7c51_5964_e744_6d99_94b9ae52b93d_1.jpg">
+						<p>知识产权局局长申长雨：去年仅专利的质押融资额就超过720亿元，同比增长65%，解决了一批科技型中小企业融资难和融资贵的问题。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225435873_114988" target="_blank"><img src="http://i0.itc.cn/20180313/629_a51b83f2_0837_dc15_c4a5_230987a179d8_1.jpg">
+						<p>中国气象局局长刘雅鸣表示，将发挥气象大数据优势，为蓝天保卫战做好重污染天气的预测预报，配合环保部门做好相关工作。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225452381_114731" target="_blank"><img src="http://i1.itc.cn/20180313/629_4b92ea74_cfd9_9423_47d6_529dd02a611d_1.jpg">
+						<p>国务院扶贫办主任刘永富接受采访时表示，扶贫开发资源要统筹协调、综合平衡，尽量减少差距过大，防止帮扶不公平现象发生。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+
+
+
+ <div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225223038_255783" target="_blank"><img src="http://i0.itc.cn/20180310/629_4d53752b_2642_736c_611d_dec54730cbd7_1.jpg">
+						<p>[第三场部长通道] 发改委主任何立峰：粤港澳大湾区发展规划纲要编制基本完成，深圳到香港的高铁正联调联试。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225255026_162758" target="_blank"><img src="http://i0.itc.cn/20180310/629_d8712788_78f5_b368_dc86_130c9e1326d7_1.jpg">
+						<p>卫计委主任李斌：截止到2017年底，已分类救治420多万贫困患者。去年有185万户因病致贫户摆脱贫困。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225239577_123753" target="_blank"><img src="http://i0.itc.cn/20180310/629_1aa440ec_7c45_1320_6086_ffa8d36ffc55_1.jpg">
+						<p>水利部部长陈雷：中国今年极端天气情况可能会多发，洪涝、干旱并重，台风生成、登陆个数可能偏多，影响也会偏重。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225226208_123753" target="_blank"><img src="http://i0.itc.cn/20180310/629_fcbb95b4_c9b5_cb09_7ba4_75c271435b3e_1.jpg">
+						<p>工商总局局长张茅：进一步简化商标注册的程序。今年把现在商标注册的周期八个月压缩到六个月，以解决企业反应比较大的问题。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225254693_162758" target="_blank"><img src="http://i1.itc.cn/20180310/629_8f45893c_5545_3c4a_fcb9_97bfcf15a7e5_1.jpg">
+						<p>银监会主席郭树清：如果有人说“保本高收益”，举报它，保本不可能有高收益，这是欺诈，一定要给监管部门和地方金融办报告。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225241065_115479" target="_blank"><img src="http://i0.itc.cn/20180310/629_c69e0a5e_e2d8_f748_5554_fcaa3ce638a5_1.jpg">
+						<p>针对政府工作报告中未写入“港人治港”，引起港媒猜测中央对港方针是否有变，港澳办主任张晓明回应说，一国两制方针总概念……</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+		  
+            <div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/224874102_115479" target="_blank"><img src="http://i1.itc.cn/20180305/629_255c2b76_b79e_ac9c_0bd9_e33b93c4f59a_1.jpg">
+						<p>[第二场部长通道] 国台办主任张志军：两岸关系形势更趋严峻复杂，陷入政治僵局。如果有人拆房毁田，我们有足够能力遏制。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224872547_114988" target="_blank"><img src="http://i0.itc.cn/20180305/629_173c10a0_9fc1_e676_5893_93a590770a24_1.jpg">
+						<p>农业部部长韩长赋：粮食增产主要靠种子，化肥农药将继续减量。化肥施多了，一方面增加成本，同时也会对环境产生影响。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224872283_114988" target="_blank"><img src="http://i2.itc.cn/20180305/629_f8f3f529_36b1_14ad_ecf5_cab826d531dd_1.jpg">
+						<p>监察部部长杨晓渡：纪委和监察委的职责是互补的，互相有增强作用，但互相不能替代。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224870124_123753" target="_blank"><img src="http://i1.itc.cn/20180305/629_5f134fc6_ea33_f231_67a6_6b19657fedf6_1.jpg">
+						<p>交通部长李小鹏：共享单车问题比如乱停乱放、押金难退等。要认识到共享单车是绿色出行的方式，要共同治理，才能发展好。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224867935_114988" target="_blank"><img src="http://i1.itc.cn/20180305/629_96056bf2_9636_6184_7e66_f98e8e43e20f_1.jpg">
+						<p>工信部部长苗圩：有越来越多的国家宣布停止燃油汽车销售。他说，随着新能源汽车不断进步，节能减排效益会做得越来越好。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224877679_114731" target="_blank"><img src="http://i0.itc.cn/20180305/629_634df067_0640_42d6_d26e_09dd30b3461e_1.jpg">
+						<p>商务部部长钟山：去年，我国进出口总额增长14.2%，增幅创6年来新高。跨境电商稳居世界第一 成为外贸发展新动力。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+
+
+
+
+		  <div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/224798477_221650" target="_blank"><img src="http://i2.itc.cn/20180305/629_f712793d_9554_5bbb_359c_f5c6a04a18eb_1.jpg">
+						<p>[首场部长通道] 教育部部长陈宝生、国侨办裘援平、司法部部长张军、国家中医药管理局局长王国强、国家文物局局长刘玉珠。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224786783_114988" target="_blank"><img src="http://i0.itc.cn/20180305/629_ef0ea9e8_f5dd_6d92_ad63_dde8aa1188af_1.jpg">
+						<p>教育部部长陈宝生：将与有关部门协商解决涉及的相关政策问题，探索依靠社会力量解决3点半放学问题，大力治理校外托管班乱象。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224788458_114988" target="_blank"><img src="http://i0.itc.cn/20180305/629_4a195ed0_711d_38f7_1ccb_4fcfe5ce7e3f_1.jpg">
+						<p>司法部部长张军：针对民众关心的司法考试报考问题，“老人老办法，新人新办法。”实施办法正在修改，4月下发。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224789377_161795" target="_blank"><img src="http://i1.itc.cn/20180305/629_ea3872fd_dbf2_4a0f_7e1d_d22a2e64d081_1.jpg">
+						<p>国侨办主任裘援平：请海内外的朋友们放宽心，娘家人还是娘家人。华侨华人的历史和现实的贡献应得到充分肯定，而不是诋毁和贬低。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224790515_114988" target="_blank"><img src="http://i2.itc.cn/20180305/629_a06cc6d2_4496_0206_8810_49229481637e_1.jpg">
+						<p>中医药管理局局长王国强：90%以上乡镇卫生院和社区卫生服务中心都能提供中医药服务。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224792374_114988" target="_blank"><img src="http://i1.itc.cn/20180305/629_118f0fe6_557d_2094_d890_38bc2b56befc_1.jpg">
+						<p>国家文物局局长刘玉珠：连续的文物安全事故在狗年把我们叫醒，希望在今年机构改革，能充分注意文物安全和文物工作中存在的问题。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+		  
+
+
+
+
+
+
+
+
+
+            </div>
+
+        </div>
+    
+</div>
+<div class="frag10 mt10 area">
+		<div class="title"><img src="http://i0.itc.cn/20180228/779_f93bc531_c19b_8f58_449d_5aecd4af70fe_1.png" alt="" /></div>
+    <div class="slide11">
+        <div class="btn btn_left1"></div>
+        <div class="btn btn_right1"></div>
+        
+
+
+      <div class="slide11_cont">
+
+<div class="cont_box1" style="display:block">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225904465_260616" target="_blank"><img src="http://i1.itc.cn/20180321/629_5a4e9804_79d5_7b36_a359_509e1d273fb7_1.jpg">
+						<p>[第五场代表通道] 浙江吉利控股集团董事长李书福：电动汽车是大势所趋。2020年，90%的吉利汽车产品都将是新能源汽车。</p>
+						</a>
+					</li>
+                    
+                    
+                    
+					<li>
+					<a href="http://www.sohu.com/a/225961918_114731" target="_blank"><img src="http://i1.itc.cn/20180321/629_619b9ab8_70be_6cfb_badc_3b58a1db6e8a_1.jpg">
+						<p>人大代表肖伟：中成药国际化要建立从原料、生产过程到成品的标准体系；科学认识中医药临床价值，推动中药产业高质量发展。</p>
+						</a>
+					</li>
+                    
+                    
+                    
+                    
+					<li>
+					<a href="http://www.sohu.com/a/225954376_123753" target="_blank"><img src="http://i3.itc.cn/20180321/629_df5e2847_c654_72ca_80d8_0103d5779d7c_1.jpg">
+						<p>歼20飞机总设计师杨伟：歼20实现了既定的四大目标。我们独创升力体边条鸭式布局 使歼-20兼具超音速与隐身性能。</p>
+						</a>
+					</li>
+                    
+                    
+                    
+                    
+					<li>
+					<a href="http://www.sohu.com/a/225916819_114988" target="_blank"><img src="http://i1.itc.cn/20180321/629_406133e1_a758_d10b_51a8_b41d7163f8c0_1.jpg">
+						<p>读者杂志社社长富康年："内容为王"的核心逻辑，就是只有做出更优质的内容，才能赢得更多客户。"警惕"唯流量论"。</p>
+						</a>
+					</li>
+                    
+                    
+                    
+					<li>
+					<a href="http://www.sohu.com/a/225985238_162758" target="_blank"><img src="http://i1.itc.cn/20180321/629_11a2bbc2_ee65_041e_47c0_15442a211203_1.jpg">
+						<p>张全收代表：过去农民工兄弟外出务工都是到沿海，现在回到了内地，即从"孔雀东南飞"变成现在的"凤凰还巢"。</p>
+						</a>
+					</li>
+                    
+                    
+                    
+					<li>
+					<a href="http://www.sohu.com/a/225928716_114731" target="_blank"><img src="http://i2.itc.cn/20180321/629_e6cb8690_bcce_780d_725d_98a0a80cf8ab_1.jpg">
+						<p>周异决代表：在精准扶贫方面，我们就是要做到一个实，让贫困群众实实在在地增收，扎扎实实地脱贫。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+
+
+<div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225612920_162758" target="_blank"><img src="http://i0.itc.cn/20180315/629_feab140a_8a13_eb43_0770_b8d99bd8c7af_1.jpg">
+						<p>[第三场委员通道] 李彦宏、苏权科、邓中翰、舒印彪、卢春房、刘永好、刘伟、杨卫、李新民、冯健身等10位委员接受记者采访。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225599866_313745" target="_blank"><img src="http://i0.itc.cn/20180315/629_1f775847_0663_7215_647a_e2761459b81e_1.jpg">
+						<p>百度创始人、董事长兼首席执行官李彦宏：再有三五年时间，在完全开放道路上、可以完全替代司机的无人驾驶车就会出现。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225600588_237556" target="_blank"><img src="http://i0.itc.cn/20180315/629_65ef1efa_56a5_402a_d5a3_a2435b9813a4_1.jpg">
+						<p>港珠澳大桥总工程师苏权科：港珠澳大桥建成表明中国在超级跨海工程多个领域世界领先。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225613393_267106" target="_blank"><img src="http://i3.itc.cn/20180315/629_d22b7a0d_5ebd_7279_377a_062068567676_1.jpg">
+						<p>"星光中国芯工程"总指挥邓中翰表示，没有芯片安全，就没有信息安全、国家安全。核心技术是买不来的，只能依靠自主创新。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225135233_313745" target="_blank"><img src="http://i0.itc.cn/20180315/629_82c42d3d_5d11_5a66_7237_056b04615f62_1.jpg">
+						<p>国家电网董事长舒印彪：我大概测算了一下，通过降费降价，全国大概再降800亿元，其中国家电网将承担80%左右。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225591022_260616" target="_blank"><img src="http://i3.itc.cn/20180315/629_622d8837_a866_554a_b7ef_514439e9c0c6_1.jpg">
+						<p>中铁总原副总经理卢春房：中国高铁发展路径之中将关注研制更快高铁，要研发高速磁悬浮列车、真空管道飞行列车。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+<div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225602019_114731" target="_blank"><img src="http://i1.itc.cn/20180315/629_b324c538_5b58_ad61_918f_7ac36599b397_1.jpg">
+						<p>新希望集团有限公司董事长刘永好：民营企业已经成为国家经济建设的重要力量。我们发展了进步了，应该对社会做贡献。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225594056_114988" target="_blank"><img src="http://i1.itc.cn/20180315/629_e65fbdb8_c8d8_541b_27a5_8c221e19fcc2_1.jpg">
+						<p>中国人民大学校长刘伟表示，现在经济发展中的一系列矛盾、冲突、失衡，主要集中在国民经济的供给端。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225601742_114731" target="_blank"><img src="http://i0.itc.cn/20180315/629_f0149eb9_526e_9f87_1d00_0edba8b4acfb_1.jpg">
+						<p>国家自然科学基金委员会原主任杨卫介绍，建议要进一步加大投入，将基础研究占R&D的比例由目前的5%增加到8%-10%。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225601818_114731" target="_blank"><img src="http://i0.itc.cn/20180315/629_c134be6c_a718_ac30_10a5_baa05a206e61_1.jpg">
+						<p>大庆油田铁人钻井队队长李新民：在新时代用"铁人精神"与国际标准相结合，用"铁人精神"打造响亮中国名片。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225612920_162758" target="_blank"><img src="http://i1.itc.cn/20180315/629_ddcc9ccc_7ac1_7abd_d73c_0ac8a6b73d19_1.jpg">
+						<p>甘肃省政协原主席冯健身：说到绣花，甘肃庆阳香包刺绣在全国知名。香包刺绣讲的是精益求精、精准构思、精施细作。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225590674_260616" target="_blank"><img src="http://i1.itc.cn/20180315/629_44275636_8c17_6e45_3ee6_6ae6b1c2db23_1.jpg">
+						<p>盘点：33位全国政协委员亮相“委员通道”，展示中国民主新风。33位全国政协委员的界别，占全国政协34个界别一半左右。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+
+
+<div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225415225_114988" target="_blank"><img src="http://i2.itc.cn/20180313/629_4cebc067_76a5_d2e6_97c1_6b9625d86c97_1.jpg">
+						<p>[第四场代表通道] 三亚市市长阿东：我们绝不以牺牲生态为代价，换取经济利益增长。三亚市绝不当房地产的加工厂。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225378241_267106" target="_blank"><img src="http://i3.itc.cn/20180313/629_9b855cd2_2127_5efe_82a7_6374487f26b2_1.jpg">
+						<p>青海省海西蒙古族藏族自治州州长孟海：建议将青海盐湖产业转型升级上升为国家战略，让青海的资源永续造福全国人民。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225427882_114731" target="_blank"><img src="http://i1.itc.cn/20180313/629_fe633158_f325_8cb8_bae8_e82d17973b2c_1.jpg">
+						<p>澳门特区立法会议员崔世平：四大优势助澳门搭乘国家发展快车。"澳门要融入国家发展大局……</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225427781_114731" target="_blank"><img src="http://i1.itc.cn/20180313/629_a72fe14d_6329_853e_567d_0551494ea844_1.jpg">
+						<p>"宝贝回家"志愿者协会理事长张宝艳："宝贝回家"寻子网站11年来帮助9300多名被拐儿童回归家庭。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225417214_114731" target="_blank"><img src="http://i2.itc.cn/20180313/629_6c29b106_6a39_8f9e_3796_7347b46581cf_1.jpg">
+						<p>沈阳鼓风机集团股份有限公司党委书记、董事长戴继双：用新技术新业态打造国有企业发展新动能。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225427779_114731" target="_blank"><img src="http://i2.itc.cn/20180313/629_d19845e2_7261_7e81_7bcc_075b6bdbfd17_1.jpg">
+						<p>三一集团公司董事长梁稳根：更快更好地完成智能化和数字化转型，那么中国肯定会从制造大国变成制造强国。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+
+
+<div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225310318_260616" target="_blank"><img src="http://i3.itc.cn/20180311/629_f36e4a28_d66f_0ccc_2992_25318c6a1223_1.jpg">
+						<p>[第三场代表通道] 宁波市人大常委会主任余红艺：新机制让为民做主变为由民做主。一字之差，迈出了基层民主建设的一大步。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225304669_114988" target="_blank"><img src="http://i2.itc.cn/20180311/629_9fd38aed_a032_c21f_25d8_064db75e87c5_1.jpg">
+						<p>云南省昭通市市长郭大进：脱贫的"三个一"实践，包括一个苹果、一张路网和一幅蓝图。带动30万贫困群众增加收入。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225308003_266317" target="_blank"><img src="http://i0.itc.cn/20180311/629_dc4a4d38_72fb_e380_9c67_c015d4032365_1.jpg">
+						<p>西藏隆子县玉麦乡玉麦村村务监督委员会主任卓嘎：村里有商店，有餐馆，有民宿，买东西不需用现金，用手机扫微信二维码就可以。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225309512_100022433" target="_blank"><img src="http://i0.itc.cn/20180311/629_6be3b7b3_5b0e_2c0c_46e5_29ed9b191b05_1.jpg">
+						<p>黑龙江省同江市同江镇中心校教师刘蕾：2016年后家乡开展民族旅游，用民族旅游带动民族文化的发展。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225311752_120702" target="_blank"><img src="http://i2.itc.cn/20180311/629_f75b8344_cee7_e79e_1a20_edb134eeef04_1.jpg">
+						<p>贾樟柯：山西是文化资源大省，历史文化资源非常丰厚，它特别需要新的当代性的国际的文化资源来激活。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225311657_267106" target="_blank"><img src="http://i2.itc.cn/20180311/629_c80c20c2_c712_cd50_1e0d_66a5e0a73666_1.jpg">
+						<p>科大讯飞董事长刘庆峰：中国在人工智能源头创新上，在许多领域已经和世界先进水平并跑，在一些领域甚至实现领跑。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+
+<div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225283139_267106" target="_blank"><img src="http://i2.itc.cn/20180311/629_79e006fc_3ea1_7dd4_eb00_78e92ebcbf1a_1.jpg">
+						<p>[第二场委员通道] 北京市东城区史家教育集团校长王欢：建议家庭教育、社会教育、学校教育三方合力增强学生"减负"获得感。 </p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225305238_161623" target="_blank"><img src="http://i2.itc.cn/20180311/629_c35512ab_dfd7_4f9b_d263_9d80e899cc77_1.jpg">
+						<p>北京四中校长马景林表示，除了勤奋诚信、勤劳俭朴、遵规守纪、尊敬师长等基本要求之外，一名新时代的中学生，首先要有家国情怀。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225305238_161623" target="_blank"><img src="http://i0.itc.cn/20180311/629_1644fa11_3203_a426_2470_d79c9842fb78_1.jpg">
+						<p>北京医院院长王建业：大家不要把衰老当病治。他希望更多的人能意识到，很多问题都是年龄老化引起的器官改变，从而导致功能减退。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/219619552_161623" target="_blank"><img src="http://i3.itc.cn/20180311/629_6bd54823_a525_1611_091e_9c03fb3fd134_1.jpg">
+						<p>阜外医院主任医师，中国心胸血管麻醉学会秘书长敖虎山呼吁，国家应进一步提高除颤器在相关场所的配置率。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225272531_260616" target="_blank"><img src="http://i1.itc.cn/20180311/629_f31250e0_f50d_d2a5_f083_a76736453ad1_1.jpg">
+						<p>首都医科大学宣武医院神经外科首席专家凌锋表示，医患之间，不是纯粹的供需关系，应该是信任、救护的关系，最纯粹最神圣的关系。 </p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225269676_114988" target="_blank"><img src="http://i3.itc.cn/20180311/629_1e244af2_8a13_36e3_edb5_fe7a6f37998a_1.jpg">
+						<p>住房与城乡建设部副部长黄艳表示，目前正以北京、上海总规编制和实施的体制改革为引领，在全国15个城市开展规划试点工作。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+<div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225291240_120702" target="_blank"><img src="http://i2.itc.cn/20180311/629_4ae880d4_cec6_97ce_85dd_65386fb78d61_1.jpg">
+						<p>云南怒江傈僳族自治州民族文化工作团演员茸芭莘那： 从国家层面，加大对人口较少的少数民族文化保护力度，尽快开始典藏工作。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225274952_267106" target="_blank"><img src="http://i1.itc.cn/20180311/629_4a1db91a_0ecf_fe0f_a9e5_e91a6532dbd5_1.jpg">
+						<p>上海交通大学校长林忠钦表示，让中国孩子不出国门也能念世界一流大学。这也是解决好中国高等教育不平衡不充分问题的主要方向。 </p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225269801_161795" target="_blank"><img src="http://i2.itc.cn/20180311/629_ab78db29_1117_68e6_efbc_d0d54aad83d9_1.jpg">
+						<p>上海体育职业学院副院长王励勤表示，要创造更多普通群众与专业运动员同场竞技的平台。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225268078_100022433" target="_blank"><img src="http://i1.itc.cn/20180311/629_02f10d4e_e02a_6240_1c3b_ef920fa5d1ef_1.jpg">
+						<p>北京金诚同达律师事务所创始合伙人刘红宇说，如何提高审判人员的素质和能力，如何适应新机制完善司法监督，这是应该关注的问题。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225266372_100122966" target="_blank"><img src="http://i3.itc.cn/20180311/629_3bcda846_b596_3c68_f7a2_4b4fd0c9a432_1.jpg">
+						<p>中国美术馆馆长，美术家协会副主席吴为山：构建人类命运共同体最根本是心的相通，经典作品饱含着时代精神是显而易见的。 </p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225279572_120702" target="_blank"><img src="http://i1.itc.cn/20180311/629_d344d83f_8302_45f5_827e_77844c770305_1.jpg">
+						<p>山东省文联副主席戚建波表示：歌是写给老百姓听的，为老百姓写歌是我多年来创作的主线。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+ <div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225246344_119038" target="_blank"><img src="http://i1.itc.cn/20180310/629_0196aad4_05b5_ce76_5637_2d65720109fd_1.jpg">
+						<p>[第二场代表通道] 10名全国人大代表就京津冀协同发展、中国制造、司法公正等3个热点问题接受中外媒体采访。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225246304_161623" target="_blank"><img src="http://i2.itc.cn/20180310/629_d6aff3a9_1d9f_de86_63dc_e3dcb38a0c7c_1.jpg">
+						<p>北京市常务副市长张工：京津冀半小时通勤圈将初步形成，三地高速ETC实现全覆盖，三地9000多个定点医疗机构实现互认。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225219629_114731" target="_blank"><img src="http://i0.itc.cn/20180310/629_3a02a228_1908_113b_2510_14a7d752ea6b_1.jpg">
+						<p>河北省委常委、副省长袁桐利：北京一批优质名校相继落户河北，京津冀协同发展推动医保异地结算。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225253450_162758" target="_blank"><img src="http://i0.itc.cn/20180310/629_7c575137_f60a_af4c_f9b7_4d27f9b671d5_1.jpg">
+						<p>天津市滨海新区区委副书记、区长杨茂荣代表：加快建设北方国际航运核心区 服务北京雄安。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225230519_260616" target="_blank"><img src="http://i0.itc.cn/20180310/629_9ff0107b_8863_a22f_b96d_8215ccac79d4_1.jpg">
+						<p>珠海格力电器股份有限公司董事长董明珠：格力在全国有12个研究院和1万多技术开发人员，核心部件仍存短板。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225235375_114731" target="_blank"><img src="http://i1.itc.cn/20180310/629_d63716f7_5ed9_7bf1_7fd2_0d5450cefc57_1.jpg">
+						<p>中国商用飞机有限责任公司副总经理、C919大型客机总设计师、中国工程院院士吴光辉：C919国产大飞机预计2021年交付用户。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+ <div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/225212527_100023701" target="_blank"><img src="http://i1.itc.cn/20180310/629_c849f699_c792_6b70_a8e1_864e9e23242a_1.jpg">
+						<p>全国人大代表、小米科技有限责任公司董事长兼首席执行官雷军谈了四点看法：创新、质量、设计和互联网+。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225219607_114731" target="_blank"><img src="http://i3.itc.cn/20180310/629_0975862b_3d32_920c_b6ec_4f904b8e7908_1.jpg">
+						<p>清华大学法学院中国司法研究中心主任周光权说，人大修订了《环保法》，蓝天背后有立法者的贡献。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225224684_114731" target="_blank"><img src="http://i1.itc.cn/20180310/629_252396c5_76fb_d4bf_903a_5444a9348ac8_1.jpg">
+						<p>重庆索通律师事务所律师韩德云表示，作为律师代表，他希望能够继续推进、完善公共法律服务的政府采购。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225224990_114731" target="_blank"><img src="http://i3.itc.cn/20180310/629_e0a3a196_f137_1f3e_f927_b3b5bce7c027_1.jpg">
+						<p>山东省高级人民法院院长张甲天：通过建设智慧法院，人民群众在每一个诉讼环节实时和法官互动，看得见听得到，公平正义不再抽象。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225224886_114731" target="_blank"><img src="http://i1.itc.cn/20180310/629_18e2d64d_11b6_8fcb_268e_1d320723f975_1.jpg">
+						<p>贵州省人民检察院检察长、党组书记傅信平：善用大数据让司法公正看得见摸得着，让人民群众在每一个司法案件都能感受到公平正义。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/225254153_391398" target="_blank"><img src="http://i1.itc.cn/20180310/629_4d40b781_041f_1aed_ac79_4ef43eec033d_1.jpg">
+						<p>为新时代鼓劲　为新征程支招：9日下午2时许，十三届人大一次会议第二次全体会议召开前，10名人大代表接招各种提问。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		  <div class="cont_box1">
+ 				<ul>
+					<li>
+					<a href="http://www.sohu.com/a/224874192_100031992" target="_blank"><img src="http://i3.itc.cn/20180305/629_5fe9ec6e_ad05_9707_f6aa_a09c19d2ad83_1.jpg">
+						<p>十三届全国人大一次会议开幕会前，在人民大会堂中央大厅首场代表通道，邀请马化腾、王亚平等10名全国人大代表接受采访。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224853740_260616" target="_blank"><img src="http://i1.itc.cn/20180305/629_e7dbd7cc_7823_cf80_3b8f_a9a8548bcc25_1.jpg">
+						<p>马化腾：用科技创新推动改革开放进一步发展。希望我所处在粤港澳大湾区，未来能够成为在“一带一路”中扮演更加重要的角色。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224853554_260616" target="_blank"><img src="http://i1.itc.cn/20180305/629_a45391f3_1fb0_cef8_15a9_1676b6ca3c65_1.jpg">
+						<p>王亚平：希望能尽己所能，为祖国的载人航天事业和科普教育事业作出自己最大的贡献，永远做一名孩子们心目中的科普老师。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224867714_114731" target="_blank"><img src="http://i0.itc.cn/20180305/629_0d18c6b7_f57d_6268_42c7_065e9973119a_1.jpg">
+						<p>杨昌芹：少数民族农村脱贫致富，必须深入挖掘当地的传统民族文化、当地的特色资源，这样远比直接用金钱帮助他们来得更有意义。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224870052_114731" target="_blank"><img src="http://i1.itc.cn/20180305/629_57522fde_a48f_48aa_7637_1c5cd2083240_1.jpg">
+						<p>郭锐(中车青岛四方机车车辆股份有限公司)：复兴号动车组有50多万个零部件，要求我们把每一个零部件都干成精品，干成艺术品。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224867300_114731" target="_blank"><img src="http://i0.itc.cn/20180305/629_4bc2d0eb_548f_3576_65fb_79c9428a884f_1.jpg">
+						<p>郭凤莲：五年来大概提出了二十多条建议，多数是围绕三农当中存在的大家关注的热点难点问题。这些建议都是来自于人民群众的心声。</p>
+						</a>
+					</li>
+				</ul>
+            </div>
+
+
+
+
+
+
+
+	  <div class="cont_box1">
+ 				<ul>
+
+<li>
+					<a href="http://www.sohu.com/a/224846117_255783" target="_blank"><img src="http://i1.itc.cn/20180305/629_ba6c1265_48fc_8fc1_6be6_1a00555ae8da_1.jpg">
+						<p>巩保雄：梁家河村是习近平总书记插队的地方，以前几个月吃不上一顿肉，现在村里发生了翻天覆地的变化，去年接待游客100多万人次。</p>
+						</a>
+					</li>
+
+
+
+
+					<li>
+					<a href="http://www.sohu.com/a/224863072_114731" target="_blank"><img src="http://i2.itc.cn/20180305/629_02dc3d4e_a7ea_2f01_8905_08c2f8a74452_1.jpg">
+						<p>徐立毅在回答记者提问时表示，建设服务型政府要从解决人民群众普遍关心的事入手。浙江开展了“最多跑一次”改革，取得明显成效。</p>
+						</a>
+					</li>
+
+
+					
+					<li>
+					<a href="http://www.sohu.com/a/224869854_114731" target="_blank"><img src="http://i2.itc.cn/20180305/629_46c3bc63_a578_e078_db92_d480b0800f64_1.jpg">
+						<p>左香云：巩固脱贫攻坚成果，基础设施上要全面跟上，产业发展要有精准规划，才能确保人民群众在奔小康的路上没有后顾之忧。</p>
+						</a>
+					</li>
+
+
+
+<li>
+					<a href="http://www.sohu.com/a/224867443_114731" target="_blank"><img src="http://i2.itc.cn/20180305/629_5bc179b1_e813_b749_4280_31ea1f35a342_1.jpg">
+						<p>陈虹：电动化、智能互联化、共享化以及国际化是中国汽车产业未来的发展方向。其中，互联网与汽车工业的融合最为关键。</p>
+						</a>
+					</li>
+
+
+					<li>
+					<a href="http://www.sohu.com/a/224899660_120702" target="_blank"><img src="http://i3.itc.cn/20180305/629_c844f3ed_7d56_d2e5_b62c_15d3d3723e0a_1.jpg">
+						<p>王建清：只有在人才评价机制上改革，通过事业留人、待遇留人，才能让更多的人立足岗位、精益求精，让中国制造走向世界。</p>
+						</a>
+					</li>
+
+
+					
+					<li>
+					<a href="http://www.sohu.com/a/224895641_162758" target="_blank"><img src="http://i0.itc.cn/20180305/629_5ac4b46c_c400_80f3_8ce2_b6423bd524bd_1.jpg">
+						<p>首场代表道：10位代表6位代表来自基层，这也是继设立两会“部长通道”、“委员通道”之后，全国两会的又一次创新开放之举。</p>
+						</a>
+					</li>
+
+
+
+
+				</ul>
+            </div>
+		  
+
+
+
+
+
+
+	  <div class="cont_box1">
+ 				<ul>
+
+
+<li>
+					<a href="http://www.sohu.com/a/224805014_119778" target="_blank"><img src="http://i0.itc.cn/20180305/629_86f4264a_a7b5_a3af_fefc_80f1af1bbccd_1.jpg">
+						<p>[首场委员通道]11位委员涵盖10个不同的职业领域，就高铁技术、食品安全、社区医疗、体育赛事、港澳就业等话题答记者问。</p>
+						</a>
+					</li>
+
+
+
+					<li>
+					<a href="http://www.sohu.com/a/224866033_115479" target="_blank"><img src="http://i0.itc.cn/20180305/629_d9a3d5b2_c6bc_4bef_3873_a9d1b2addcd5_1.jpg">
+						<p>杨利伟：港澳台同胞也有机会到大陆进行航天飞行训练，科学家、工程师、程序员等都可能成为航天员，航天员招收将有新变化。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224794262_162758" target="_blank"><img src="http://i3.itc.cn/20180305/629_3ce2821c_b07e_d89d_4fdf_cd6147066d4c_1.jpg">
+						<p>潘建伟：将通过五到十年努力，构建一个天地一体化的量子保密通信网络，保护千家万户的信息安全。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224804378_255783" target="_blank"><img src="http://i2.itc.cn/20180305/629_14a0ce0d_90e6_1a29_1ca8_e0a4e9fc1983_1.jpg">
+						<p>赵红卫：在动车组上将实现自动驾驶功能，从列车启动、加速到减速、停车，司机只要按一个按钮就可以完成。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224784999_114731" target="_blank"><img src="http://i1.itc.cn/20180305/629_ff0328a6_2a8a_731a_f8c3_082c11146025_1.jpg">
+						<p>周晔：“怎么才能让有障碍的孩子享受到正常教育”，课程设置、教学内容以及教学手段更具有形象化、生活化和多样化的特点。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224786260_161795" target="_blank"><img src="http://i2.itc.cn/20180305/629_fb61e775_2d73_7c64_1f86_70b2df258446_1.jpg">
+						<p>吴浩：随着我们人口的老龄化，基层社区卫生中心它究竟方便，全科医学在于它对健康的管理，这是两大优势。</p>
+						</a>
+					</li>
+
+
+				</ul>
+            </div>
+		  
+
+
+
+
+
+
+		  
+            <div class="cont_box1">
+ 				<ul>
+
+
+
+
+					<li>
+					<a href="http://www.sohu.com/a/224812073_266317" target="_blank"><img src="http://i0.itc.cn/20180305/629_50cbef1b_ba07_97b2_142d_55a186eb6fc2_1.jpg">
+						<p>张桃林：我国农产品合格率在90%以上，但农药残留、非法添加、重金属超标等问题还存在。农业部坚持对食品安全问题“零容忍”。</p>
+						</a>
+					</li>
+
+
+
+
+					<li>
+					<a href="http://www.sohu.com/a/224806075_162758" target="_blank"><img src="http://i3.itc.cn/20180305/629_3c59440b_6f61_277c_f37b_d3f6c99d2466_1.jpg">
+						<p>张敏：少数民族贫困地区应进一步发展当地职业教育，推动产教融合、校企合作，对贫困群众智力扶贫、技术扶贫，助力经济发展。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224787951_114731" target="_blank"><img src="http://i2.itc.cn/20180305/629_5473f06e_172f_ea62_2097_acedc633ce33_1.jpg">
+						<p>吕忠梅：期待十三届政协委员们继续运用好人民政协协商民主的各种形式，查事情、说实话、出实招、追实效，让委员们说了不白说。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224787884_114731" target="_blank"><img src="http://i2.itc.cn/20180305/629_6d5ecd1c_4358_6a72_ee62_91f4dc61ad91_1.jpg">
+						<p>李文俊：随着粤港澳大湾区的建成，高铁和港珠澳大桥的投入使用，给香港青年提供很多的创业和就业机会。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224770441_123753" target="_blank"><img src="http://i2.itc.cn/20180305/629_dc11eb2b_2c92_a001_a2a5_429a1ab2d25f_1.jpg">
+						<p>杨扬：作为2022年北京冬奥会主办国，中国参赛运动员人数将大幅增加，争取参加所有参赛项目，期待中国队能有所突破。</p>
+						</a>
+					</li>
+					<li>
+					<a href="http://www.sohu.com/a/224806206_162758" target="_blank"><img src="http://i2.itc.cn/20180305/629_13004e8b_8924_cb26_2202_723381cfebb8_1.jpg">
+						<p>张凯丽：每一位文艺工作者都应该努力做一个时刻有正能量的人，在生活中都应该做一个好人，一个有善心也有善行的人。</p>
+						</a>
+					</li>
+
+
+					
+
+
+
+
+
+
+</ul>
+            </div>
+          </div>
+
+	
+
+        </div>
+    
+</div>
+<sohuadcode></sohuadcode>
+
+
+<div class="area">
+
+
+	<div class="title"><a href="https://m.sohu.com/a/224912021_157078/?pvid=000115_3w_a " target="_blank"><img src="http://i0.itc.cn/20180307/629_24a36206_dddc_b4af_b58c_995dd2d2502e_1.jpg" alt="" /></a></div>
+
+
+</div>
+<div class="area">
+	<div class="title"><img src="http://i2.itc.cn/20180228/629_af0f1c07_417b_cb53_8cb8_322926475910_1.jpg" alt="" /></div>
+	<div class="frag10">
+    <div class="slide10">
+        <div class="btn btn_left"></div>
+        <div class="btn btn_right"></div>
+        <div class="slide10_nav">
+            <ul id="slide10" class="clearfix">
+                <li class="cur"><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+<li><span></span></li>
+            </ul>
+            <div class="line2"></div>
+        </div>
+
+
+      <div class="slide10_cont">
+
+
+
+   <div class="cont_box" style="display:block">
+                <img src="http://i1.itc.cn/20180228/629_fe705dc0_ec55_c39b_dbef_cec74be46144_1.jpg" alt="" />
+                <div class="cboxr">
+                    <h2><a href="http://www.sohu.com/a/224416663_255783" target="_blank">2980名人大代表座位怎么安排？
+</a></h2>
+                    <p>主席台上就座的是包括中央领导同志在内的大会主席团成员。其中，大会执行主席在最前排。全国人大代表在大会堂一层会场就座，各代表团至少有一位团长或副团长在第一排就座，其他代表按照姓氏笔画顺序纵向排列。[<a
+                            href="http://www.sohu.com/a/224416663_255783" target="_blank">详细</a>]</p>
+                </div>
+            </div>     
+
+      
+      
+
+   <div class="cont_box">
+                <img src="http://i1.itc.cn/20180228/629_400600ea_05ad_cfe8_0a50_ab62883d4cfd_1.jpg" alt="" />
+                <div class="cboxr">
+                    <h2><a href="https://tv.sohu.com/20180227/n600409454.shtml" target="_blank">跟央视主播走进人民大会堂
+</a></h2>
+                    <p>人民大会堂设置12道安检门，保障工作人员高效、快捷的通过安检，在建筑面积3600平方米的中央大厅，特别值得关注的是，今年在全国两会历史上首次开启“代表通道”和“委员通道”，邀请各方面代表委员亮相，讲述代表委员心声，展现代表委员风采，展现中国两会的开放自信。[<a
+                            href="https://tv.sohu.com/20180227/n600409454.shtml" target="_blank">详细</a>]</p>
+                </div>
+            </div>     
+      
+      
+
+      
+      
+      
+      
+      
+            <div class="cont_box">
+   <img src="http://i0.itc.cn/20180228/629_53eb480a_1fbb_3dd3_907b_828c91be3c9b_1.jpg" alt="" />
+                <div class="cboxr">
+                    <h2><a href="http://www.sohu.com/a/224157410_123753" target="_blank">全国两会，是哪两个会？</a></h2>
+                    <p>首先，大家说两会，到底是哪两个会？不少网友应该马上能答上来，人大和政协。准确的全称是什么呢？那就是，全国人民代表大会和中国人民政治协商会议。具体说今年两会，分别是第十三届全国人民代表大会第一次会议和政协第十三届全国委员会第一次会议。[<a href="http://www.sohu.com/a/224157410_123753" target="_blank">详细</a>]</p>
+                </div>
+            </div>
+
+
+
+             
+
+
+
+  <div class="cont_box">
+
+                 <img src="http://i1.itc.cn/20180228/629_ced6e9c4_15dc_33f4_a33f_4d87734a69dc_1.jpg" alt="" />
+              
+
+<div class="cboxr">
+                    <h2><a href="http://www.sohu.com/a/224291280_428290" target="_blank">我国最高国家权力机关：全国人民代表大会
+</a></h2>
+                    <p>简单说，全国人民代表大会主要有三项权力：通过立法，决定国家按照什么样的规则运转：它有权修改宪法和监督宪法实施；制定和修改刑事、民事、国家机构的和其他的基本法律。
+[<a
+                            href="http://www.sohu.com/a/224291280_428290" target="_blank">详细</a>]</p>
+                </div>
+            </div>
+
+
+
+          
+
+
+
+          
+
+  <div class="cont_box">
+                <img src="http://i1.itc.cn/20180228/629_f2b8ce76_324e_9706_cfe6_d129c09b8457_1.jpg" alt="" />
+                <div class="cboxr">
+                    <h2><a href="https://tv.sohu.com/20180227/n600409478.shtml" target="_blank">监察委都管谁？怎么管？
+</a></h2>
+                    <p>各地成立的监察委员会实质上是一个反腐败监察机构，监察体制改革的任务是加强党对反腐败工作的统一领导，整合行政监察预防腐败……[<a
+                            href="https://tv.sohu.com/20180227/n600409478.shtml" target="_blank">详细</a>]</p>
+                </div>
+            </div>
+
+
+           
+
+
+
+
+
+            </div>
+
+        </div>
+    
+</div>
+		
+	</div>
+
+<div id="picCutA" class="picCut area">
+	<div class="header"></div>
+	
+	<div class="pic-group"></div>
+	<div class="footer"></div>
+</div>
+
+<div id="videoCutA" class="videoCut area">
+	<div class="header"></div>
+	
+	<div class="pic-group"></div>
+	<div class="footer"></div>
+</div>
+
+<!-- contentC st -->
+<div id="contentC" class="area">
+	
+
+	<div class="left">
+		
+  		<div class="list14"></div>
+		
+  		<div class="list14"></div>
+		
+  		<div class="list14"></div>
+		
+  		<div class="list14"></div>
+		
+  		<div class="list14"></div>
+		
+  		<div class="list14"></div>
+		
+	</div>
+	<div class="center">
+		
+		
+	    
+  		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+		
+		<div class="list14"></div>
+	</div>
+	<div class="right">
+		
+		<sohuadcode></sohuadcode>
+		<sohuadcode></sohuadcode>
+		
+  		<div class="list14"></div>
+		
+  		<div class="list14"></div>
+		
+  		<div class="list14"></div>
+		
+  		<div class="list14"></div>
+		
+  		<div class="list14"></div>
+		
+  		<div class="list14"></div>
+		
+	</div>
+	
+</div>
+<!-- contentC end -->
+
+<div class="frag12 mt10 area">
+		<div class="title"><img src="http://i2.itc.cn/20180309/629_7d802422_eb71_da7c_9a19_740ed1202dd4_1.jpg" alt="" /></div>
+    <div class="slide12">
+        <div class="btn btn_left2"></div>
+        <div class="btn btn_right2"></div>
+        
+
+
+      <div class="slide11_cont">
+
+
+ <div class="cont_box2" style="display:block"> <a href="http://www.sohu.com/picture/225568209" target="_blank"><img src="http://i2.itc.cn/20180315/629_29b2beed_2fad_84a7_90a9_e6763bc7f4df_1.jpg" width="800" height="400"></a>
+        </div>    
+
+
+
+ <div class="cont_box2"> <a href="http://www.sohu.com/picture/225327859" target="_blank"><img src="http://i0.itc.cn/20180312/629_5426a880_79d4_770f_2399_a0d5478c373b_1.jpg" width="800" height="400"></a>
+        </div>    
+
+
+ <div class="cont_box2"> <a href="http://www.sohu.com/picture/225291891" target="_blank"><img src="http://i0.itc.cn/20180311/629_3d56fd2c_26fe_10a0_b26f_b10678569bba_1.jpg" width="800" height="400"></a>
+        </div>    
+
+
+ <div class="cont_box2"> <a href="http://www.sohu.com/picture/225241454" target="_blank"><img src="http://i0.itc.cn/20180310/629_6710bfaf_60e0_c0ad_8ff5_69800ab34d4c_1.jpg" width="800" height="400"></a>
+        </div>     
+
+
+      
+ 		  <div class="cont_box2"> <a href="http://www.sohu.com/picture/225014912" target="_blank"><img src="http://i0.itc.cn/20180309/629_8d32d703_8f76_498f_1800_235deed586d2_1.jpg" width="800" height="400"></a>
+        </div>     
+      
+      
+      
+     
+      		  
+		  <div class="cont_box2"> <a href="http://www.sohu.com/picture/225048723" target="_blank"><img src="http://i2.itc.cn/20180309/629_2567385b_b0fb_e197_1d21_8a03811d7f77_1.jpg" width="800" height="400"></a>
+        </div>
+        
+        
+		  
+		  <div class="cont_box2"> <a href="http://www.sohu.com/picture/224974587" target="_blank"><img src="http://i1.itc.cn/20180309/629_7723444c_f388_d99b_2161_7c4aeedbbb9d_1.jpg" width="800" height="400"></a>
+        </div>
+
+
+            <div class="cont_box2"> <a href="http://www.sohu.com/picture/224990699" target="_blank"><img src="http://i0.itc.cn/20180309/629_2e2ade87_e72f_e3dc_6985_79d8f67dbebc_1.jpg" width="800" height="400"></a>
+            </div>
+		  
+
+
+
+		  
+		  <div class="cont_box2"> <a href="http://www.sohu.com/picture/225051310" target="_blank"><img src="http://i2.itc.cn/20180309/629_d6267e6f_4534_a360_3c74_0ad71b8201f6_1.jpg" width="800" height="400"></a>
+        </div>
+
+		  
+
+
+
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+
+      </div>
+
+        </div>
+    
+</div>
+<div id="contentF" class="area">
+	<div class="title">
+		<img alt="" src="http://i0.itc.cn/20180301/779_2baf5511_7b78_13f8_5727_428b096fa979_1.png">
+	</div>
+
+<ul class="meiti">
+
+
+<li><a href="http://www.ftms.com.cn/vehicles/crown?utm_source=sohu&amp;utm_medium=news1&amp;utm_term=xinxiliu&amp;utm_content=pc&amp;utm_campaign=crown_Y18Q1M3_017&amp;mm_unid=1_14205_5505070f506d5055066b0253006f555e000c&amp;jlogid=0301160658shmljn"><img src="http://i2.itc.cn/20180306/629_328d1c0a_473e_396a_b7ba_b9244bdd39c5_1.jpg"></a></li>
+
+<li><img src="http://i2.itc.cn/20180302/779_5bb91359_4199_e596_cf23_f6cd34b895bf_1.jpg"></li>
+
+
+
+
+
+<li><a href="http://www.people.com.cn/" target="_blank"><img src="http://i2.itc.cn/20180302/629_1d73fd5d_e586_dea9_28c5_bb4639dda9ef_1.jpg"></a></li>
+
+<li><a href="http://www.rmzxb.com.cn/zt/2018qglhztbd/index.shtml" target="_blank"><img src="http://i1.itc.cn/20180302/629_60aed24b_2bd2_3dfc_d3ec_6321a6f27ea1_1.jpg"></a></li>
+
+<li><a href="http://news.cnr.cn/2018zt/qglh" target="_blank"><img src="http://i0.itc.cn/20180302/629_0d426160_3041_9d7b_ed5e_480726830aaf_4.jpg"></a></li>
+
+<li><a href="http://lianghui.huanqiu.com/2018/" target="_blank"><img src="http://i3.itc.cn/20180302/629_0d426160_3041_9d7b_ed5e_480726830aaf_3.jpg"></a></li>
+
+<li><a href="http://www.iqilu.com/html/zt/china/2018lianghui/" target="_blank"><img src="http://i3.itc.cn/20180302/629_0d426160_3041_9d7b_ed5e_480726830aaf_2.jpg"></a></li>
+
+<li><a href="http://www.ce.cn/ztpd/2018lh/" target="_blank"><img src="http://i3.itc.cn/20180302/629_0ee1e073_83c7_5cc1_e953_45cdfde8f30a_1.jpg"></a></li>
+
+
+<li><a href="http://topics.gmw.cn/node_116867.htm" target="_blank"><img src="http://i3.itc.cn/20180306/629_7d485609_ff87_645a_eac5_322377940235_1.jpg"></a></li>
+
+
+
+
+<ul>
+
+
+</ul></ul></div>
+<div class="cut area">
+	<div class="title"><img src="http://i1.itc.cn/20180227/629_94a73a98_de42_2acd_2e48_c9c868b64344_1.jpg" alt="" /></div>
+<div style="background:#FFF;width:1000px">
+<script type="text/javascript">var entityId = 531608277; </script>
+<div id="SOHUCS" sid=""></div>
+<script>
+document.domain = "sohu.com";
+if(typeof entityId != 'undefined'){
+document.getElementById('SOHUCS').setAttribute('sid',entityId); 
+var _config = {
+jumpUrl: 'http://pinglun.sohu.com/s[topicId].html',
+varName: entityId, 
+customSohu: true,
+listStyle: 'indent',
+listModule: 'scs.listIndent',
+listType: 'hot',
+pageSize: 20
+}
+}
+</script>
+<script>
+(function(){
+var appid = 'cyqemw6s1',
+conf = 'prod_0266e33d3f546cb5436a10798e657d97';
+var doc = document,
+s = doc.createElement('script'),
+h = doc.getElementsByTagName('head')[0] || doc.head || doc.documentElement;
+s.type = 'text/javascript';
+s.charset = 'utf-8';
+s.src = 'http://assets.changyan.sohu.com/upload/changyan.js?conf='+ conf +'&appid=' + appid;
+h.insertBefore(s,h.firstChild);
+})()
+</script>
+<script type="text/javascript" src="http://assets.changyan.sohu.com/upload/plugins/plugins.count.js"></script>
+</div>
+
+<style>
+table td {border:1px solid #FFFFFF
+}
+.nav a {
+    color: #FFF;
+}</style>
+</div>
+
+<div id="foot" class="Area"> 
+Copyright &copy; 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 <span class="unline"><a href="http://corp.sohu.com/s2007/copyright/" target="_blank" rel="nofollow">版权所有</a> <a href="http://roll.sohu.com" target="_blank">全部新闻</a> <a href="http://blog.sohu.com/roll" target="_blank">全部博文</a></span><br />
+</div>
+
+<SCRIPT language=JavaScript src="https://js.sohu.com/pv.js"></SCRIPT>
+<SCRIPT language=JavaScript src="http://a1.itc.cn/pv/js/spv.1309051632.js"></SCRIPT>
+<script language="javascript" src="http://js.sohu.com/wrating20120726.js"></script>
+<script language="javascript">
+var  _wratingId = null;
+try{
+_wratingId = _getAcc();
+}catch(e){}
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript" src="http://sohu.wrating.com/a1.js"></scr'+'ipt>');
+}
+</script>
+<script language="javascript">
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript">');
+document.write('var vjAcc="'+_wratingId+'";');
+document.write('var wrUrl="http://sohu.wrating.com/";');
+document.write('try{vjTrack();}catch(e){}');
+document.write('</scr'+'ipt>');
+}
+</script>
+<script> require(["sjs/matrix/ad/passion"]);</script>
+<!--SOHU:SUB_FOOT_DIV-->
+<div id="sasid"></div>
+<sohuadcode></sohuadcode>
+ 
+</body>
+</html>

@@ -1,0 +1,14 @@
+bin/kafka-topics.sh --describe --topic raw_news --zookeeper 45.76.75.221:2181
+bin/kafka-topics.sh --list --zookeeper 45.76.76.48:2181
+kafka-topics.sh --create --topic mytopic --replication-factor 1 --partitions 3 --zookeeper 45.76.76.48:2181
+    1.bin/kafka-topics.sh --delete --zookeeper 45.76.76.48:2181 --topic raw_news
+2.zkCli.sh
+    ls /brokers/topics/
+    rmr /brokers/topics/topic_name
+3.cd log_dir(config in server.properties)
+    rm -rf topic_name-*
+kafka-console-consumer.sh --topic news --from-beginning --zookeeper 45.76.76.48:2181
+
+kafka-console-producer.sh --broker-list server-1:9092, server-2:9092, server-3:9092, server-4:9092 --topic web_news
+kafka-run-class.sh kafka.tools.GetOffsetShell  --broker-list server-1:9092, server-2:9092, server-3:9092, server-4:9092 --topic web_news --time -1
+kafka-consumer-offset-checker.sh  -zookeeper server-1:2181,server-2:2181，server-3:2181，server-4:2181 --topic web_news --group test --broker-info
